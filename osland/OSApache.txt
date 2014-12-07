@@ -1,0 +1,68 @@
+Apache基金会                                                         http://www.apache.org
+GitHub托管                                                             https://github.com/apache
+Httpd(Apache服务器)                                            http://httpd.apache.org
+Thrift(跨语言软件开发框架)                                     http://thrift.apache.org
+Ant                                                                          http://ant.apache.org
+Maven                                                                     http://maven.apache.org
+M2Eclipse插件                                                         http://www.eclipse.org/m2e
+Maven插件                                                              http://cargo.codehaus.org(向web容器部署项目)
+Hadoop                                                                  http://hadoop.apache.org (可扩展分布式计算环境)
+Zookeeper                                                             http://zookeeper.apache.org (Hadoop子项目)
+Spark                                                                      http://spark.apache.org  (集群计算环境，与Hadoop类似)
+Lucene                                                                    http://lucene.apache.org
+Tomcat                                                                   http://tomcat.apache.org
+Velocity                                                                  http://velocity.apache.org
+HBase                                                                     http://hbase.apache.org
+POI                                                                         http://poi.apache.org
+SubVersion(SVN)                                                  http://subversion.apache.org
+HttpServer                                                             http://httpd.apache.org
+TAJO                                                                      http://tajo.incubator.apache.org (分布式数据仓库系统)
+CouchDB(NoSQL)                                                 http://couchdb.apache.org
+JClouds                                                                  http://jclouds.apache.org(云计算应用开发Java类库)
+Mina                                                                      http://mina.apache.org
+Nutch(搜索引擎)                                                    http://nutch.apache.org
+HttpComponents                                                  http://hc.apache.org(支持 HTTP 协议的客户端/服务器编程工具包)
+Cordova(Android远程调试)                                   http://cordova.apache.org(PhoneGap贡献)
+Flex                                                                         http://flex.apache.org
+Shiro(身份验证和授权)                                            http://shiro.apache.org
+Archiva(远程存储管理)                                            http://archiva.apache.org
+OFBiz(电子商务平台)                                               http://ofbiz.apache.org
+LOG4J                                                                     http://logging.apache.org/log4j
+Camel                                                                     http://camel.apache.org
+Slor(基于Lucene的搜索服务器)                               http://lucene.apache.org/solr
+Commons DBCP (数据连接池)                                http://commons.apache.org/proper/commons-dbcp
+Hama(大数据计算)                                                  http://hama.apache.org
+Shiro(权限框架)                                                       http://shiro.apache.org
+Isis(领域驱动应用框架)                                             http://isis.apache.org
+TrafficServer                                                            http://trafficserver.apache.org
+CXF(Service框架)                                                     http://cxf.apache.org
+Olingo                                                                     http://olingo.apache.org
+Commons  Lang(工具类包)                                     http://commons.apache.org/proper/commons-lang
+UIMA(数据发掘)                                                       http://uima.apache.org
+Mahout(机器学习编程语言)                                     http://mahout.apache.org
+Derby(数据库)                                                          http://db.apache.org/derby
+APR(ApachePortableRuntime可移植运行库)         http://apr.apache.org
+Cuator(简化zookeeper客户端调用)                             http://curator.apache.org
+Gora(NoSQL-ORM)                                                 http://gora.apache.org
+OpenOffice                                                              http://www.openoffice.org
+Kafka(分布式发布订阅消息系统)                               http://kafka.apache.org
+DeltaSpike                                                               http://deltaspike.apache.org
+Buildr(Java项目构建工具)                                         http://buildr.apache.org
+Phoenix(HBase的JDBC驱动)                                    http://phoenix.incubator.apache.org
+Flume(日志服务器)                                                    http://flume.apache.org
+Click                                                                          http://click.apache.org
+Marmotta                                                                 http://marmotta.apache.org (Linked Data platform 开源实现)
+CommonBeanUtils                                                  http://commons.apache.org/proper/commons-beanutils
+Qpid(企业通讯解决方案)                                          http://qpid.apache.org
+StratOS(paas)                                                          http://stratos.apache.org
+Wicket(Web框架,类似Strusts)                                  http://wicket.apache.org
+Sirona(Java应用程序的监控方案)                             http://sirona.incubator.apache.org
+ApacheDS(LDAP目录服务器)                                  http://directory.apache.org
+Mavibot(ApacheDS后端的替代品)                         http://directory.apache.org/mavibot
+Curator(ZooKeeper客户端)                                     http://curator.apache.org
+UIMA                                                                       http://uima.apache.org
+Etch                                                                         http://etch.apache.org
+Jena                                                                        http://jena.apache.org
+Sqoop                                                                    http://sqoop.apache.org(关系型数据库到Hadoop数据转移工具)
+Flink(通用数据处理平台)                                         http://flink.incubator.apache.org
+JMeter(功能和性能测试工具)                                  http://jmeter.apache.org

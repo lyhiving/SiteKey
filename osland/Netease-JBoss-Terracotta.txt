@@ -1,0 +1,28 @@
+网易
+
+NEJ                                                                       http://nej.netease.com
+NEC                                                                      http://nec.netease.com
+Pomelo                                                                http://pomelo.netease.com (NodeJS框架)
+Bearcat                                                                http://bearcatnode.github.io/bearcat (NodeJS框架)
+InnoSQL                                                               http://mysql.netease.com
+Hex                                                                       http://hex.youdao.com (NodeJS+Html5开发桌面应用)
+
+
+JBoss
+
+JBoss(官网)                                                             http://www.jboss.org
+Netty                                                                      http://netty.io
+Forge                                                                      http://forge.jboss.org
+Teiid(数据虚拟化系统)                                            http://www.jboss.org/teiid
+RichFaces(JSF框架)                                                http://richfaces.jboss.org
+Errai(异步消息传递框架)                                         http://erraiframework.org
+ByteMan(字节码注入)                                            http://byteman.jboss.org
+
+
+Terracotta
+
+Terracotta                                                                            http://terracotta.org
+Quartz(任务调度)                                                                 http://quartz-scheduler.org
+Ehcache(缓存)                                                                     http://ehcache.org
+
+

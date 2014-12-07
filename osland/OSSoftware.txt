@@ -1,0 +1,7 @@
+ECP                                          http://git.oschina.net/loyin/ECP
+
+
+Odoo                                       https://github.com/odoo(原OpenERP)
+
+Leanote                                   https://leanote.com(个人云笔记)
+

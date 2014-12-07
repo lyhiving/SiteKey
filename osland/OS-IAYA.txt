@@ -1,0 +1,44 @@
+Intel
+
+Intel开源                                                                              https://01.org
+IntelAppFrameWork                                                           http://app-framework-software.intel.com
+
+
+
+
+AMD
+
+APU                                                                                    http://developer.amd.com/apu
+
+
+
+
+Yahoo
+
+Huginn                                                               https://github.com/cantino/huginn (自动执行在线任务)
+S4分布式流计算平台                                            http://s4.io
+YUI                                                                       http://yuilibrary.com
+
+
+
+
+Adobe
+
+ Brackets                                                                http://brackets.ioweb编辑器（html,javascript,css）
+
+
+
+Brackets插件
+
+1、显示你打开文件对应的图标    https://github.com/ivogabe/Brackets-Icons
+2、javascript 全局变量高亮 https://github.com/ForbesLindesay/brackets-globals
+3、皮肤插件  https://github.com/MiguelCastillo/Brackets-Themes
+4、javascript 代码审查，建议所写的代码都检查一下   https://github.com/markmcintyre/brackets-jslint
+5、更改代理，Brackets安装扩展是被墙了，如果用gae，那么这个插件将会很好用   https://github.com/ohnnyj/brackets-proxy
+6、emmet 打代码飞起     http://emmet.io/
+7、为你的编辑器增加工作空间管理    https://github.com/thomasvalera/Brackets-Workspaces
+8、代码格式化    https://github.com/drewhamlett/brackets-beautify
+9、代码备份    https://github.com/joemakev/brackets-backup
+10、代码快折叠  @See丶桑 同学提供   https://github.com/thehogfather/brackets-code-folding
+
+

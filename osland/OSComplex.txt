@@ -1,0 +1,157 @@
+中科院开源协会                                                                    https://www.opencas.org
+SearchCode                                                                         https://searchcode.com (源代码项目搜索工具)
+开源社                                                                                  http://kaiyuanshe.cn
+
+
+OpenSource                                                                        http://opensource.com
+
+Joyent                                                                                  https://github.com/joyent
+
+
+OpenCog(开源人工智能通用平台)                                        http://opencog.org
+
+
+Square
+
+square主页                                                                          http://square.github.io
+Picasso(Android图片下载和缓存)                                       http://square.github.io/picasso
+Dagger                                                                                http://square.github.io/dagger
+
+
+LinkedIn
+
+Github主页                                                                          http://linkedin.github.io
+
+
+SAP
+
+Github主页                                                                          http://sap.github.io
+OpenUI5                                                                              http://sap.github.io/openui5
+
+
+JessMA
+
+JessMAOpenSource                                             http://www.jessma.org
+
+
+小米
+
+MiCode                                                                  http://www.micode.net     https://github.com/MiCode
+小米硬件                                                                 http://openhw.xiaomi.cn
+
+
+
+360
+
+Atlas                                                                                        https://github.com/Qihoo360/Atlas
+
+
+Walmart
+
+WalmartLabs                                                       https://github.com/walmartlabs
+
+
+Oracle
+
+VirtualBox                                                           https://www.virtualbox.org
+
+
+
+
+Paypal
+
+KrakenJS(NodeJS的Web框架)                                                http://krakenjs.com
+
+
+
+BoxOpenSource                                                                http://opensource.box.com
+
+
+
+
+OSChina
+
+Snaker(工作流引擎)                                                             http://git.oschina.net/yuqs/snaker-core
+OpenFire(即时消息传输平台)                                                 http://www.igniterealtime.org/projects/openfire
+Stream                                                                   http://git.oschina.net/jiangdx/stream(Uplodify的Flash和Html5的结合版)
+
+
+豆瓣
+
+豆瓣                                                                                      https://github.com/douban
+
+豌豆荚                                                                                  https://github.com/wandoulabs
+
+七牛开源                                                                               https://github.com/qiniu
+
+
+
+模板引擎
+
+FreeMarker                                                                         http://freemarker.org
+WebitScript(Java模板引擎)                                                http://zqq90.github.io/webit-script
+
+
+
+它山之玉
+Smush.it                                                                      http://www.smushit.com/ysmush.it(雅虎网页版的图片优化工具)
+Webkit                                                                         http://webkit.org
+CryptoJS(JS加密算法)                                                   https://code.google.com/p/crypto-js
+EchoJS(图片延迟加载)                                                 http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading
+TurnJS(翻书效果)                                                         http://www.turnjs.com
+JooseJS                                                                        http://code.google.com/p/joose-js
+KindEditor                                                                   http://www.kindsoft.net
+TinyMCE                                                                      http://www.tinymce.com
+SeaFile(云存储)                                                            http://seafile.com
+
+
+悟空CRM                                                                     http://www.5kcrm.com
+OpenERP                                                                    https://www.openerp.com
+
+
+迅搜(全文检索)                                                            http://www.xunsearch.com
+
+NamedManager(DNS 管理系统)                                https://projects.jethrocarr.com/p/oss-namedmanager
+
+Tor(网络反监控系统)                                                   http://www.torproject.org
+
+MapDB(NoSQL)                                                          http://www.mapdb.org
+
+MemcacheDB(NoSQL)                                       http://memcachedb.org
+Memcached(分布式缓存)                                           http://memcached.org
+
+CouchBase(NoSQL)                                                   http://www.couchbase.com
+
+Chronos(作业调度器)                                                   https://github.com/airbnb/chronos
+
+Sphinx(全文检索引擎)                                                    http://sphinxsearch.com
+
+SCcVis(科学图谱库)                                                      http://jwork.org/scavis
+
+Ddrescue(Linux磁盘恢复工具)                                     http://www.gnu.org/software/ddrescue/ddrescue.html
+
+OpenDaylight                                                                http://www.opendaylight.org (SDN的透明化)
+
+
+开源工具
+
+Notepad++(文本编辑)                                                              http://notepad-plus-plus.org
+WinMerge(文档比较)                                                                http://winmerge.org
+DBeaver(数据库管理工具)                                                            http://dbeaver.jkiss.org
+PeaZip(解压缩工具)                                                                  http://peazip.org
+PuppetLabs(系统管理平台)                                                      http://puppetlabs.com(Linux|Unix|Windows)
+OpenNMS                                                                               http://www.opennms.org(分布式网络和系统监控管理平台)
+ZeroInstall(软件安装工具)                                                       http://0install.net
+
+VideoCore(图形驱动)                                    http://zh-cn.broadcom.com/products/technology/mobmm_videocore.php
+MagicLantern(佳能相机开源固件)                                           http://www.magiclantern.fm
+
+
+
+开源输入法
+
+华宇拼音输入法                                                https://github.com/unispim/unispim
+ibus                                                                 https://code.google.com/p/ibus
+Freeime                                                           https://code.google.com/p/freeime
+
+

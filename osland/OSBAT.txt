@@ -1,0 +1,66 @@
+阿里巴巴
+
+Tengine(基于Nginx的WEB服务器)                                          http://tengine.taobao.org
+Tair(NoSQL数据库)                                                                  http://code.taobao.org/p/tair
+Kissy(JavaScript框架)                                                              http://docs.kissyui.com
+SeaJS(模块加载)                                                                      http://seajs.org
+OceanBase(数据库)                                                                 http://alibaba.github.io/oceanbase
+TaobaoFileSystem(TFS)                                                          http://tfs.taobao.org
+AraleJS                                                                                    http://aralejs.org
+Druid(JDBC组件)                                                                    https://github.com/alibaba/druid
+Otter(分布式数据库同步)                                                         https://github.com/alibaba/otter
+Zeus(Hadoop作业平台)                                                          https://github.com/alibaba/zeus
+KCharts                                                                                   https://github.com/kissygalleryteam/kcharts
+Druid(JDBC组件)                                                                    https://github.com/alibaba/druid
+支付宝开放平台                                                                       http://open.alipay.com
+Macaroon(反向代理测试套件)                                                https://github.com/alibaba/Macaroon
+AliceUI                                                                                    http://aliceui.org
+
+
+
+百度
+
+百度开源平台                                                                              http://oss.baidu.com
+Clouda                                                                                       http://cloudajs.org
+FEX                                                                                             http://fex.baidu.com
+EFE                                                                                             http://efe.baidu.com(百度商业体系前端团队)
+Ueditor                                                                                      http://ueditor.baidu.com
+ZRender                                                                                     http://ecomfe.github.io/zrender
+KityFormula                                                                               https://github.com/fex-team/kityformula(图形化公式生成库)
+WebUploader                                                                            http://fex-team.github.io/webuploader(兼容HTML5和Flash的上传工具)
+FIS                                                                                              http://fis.baidu.com(前端工具框架)
+GMU                                                                                          http://gmu.baidu.com(移动UI框架)
+UFinder                                                                                      http://fex-team.github.io/ufinder(WEB形式文件管理)
+脑图                                                                                            http://naotu.baidu.com（思维导图） 
+百度质量部开源社区                                                                   https://github.com/BaiduQA
+Tangram                                                                                   http://tangram.baidu.com
+Magic(基于Tangram)                                                               http://tangram.baidu.com/magic
+Terminator(服务虚拟化)                                                           https://github.com/BaiduQA/terminator
+
+
+
+
+腾讯
+
+腾讯开源                                                                                 http://opensource.tencent.com       http://code.tencent.com                                                                                
+CodeTank                                                                              http://codetank.alloyteam.com
+JX                                                                                           http://alloyteam.github.io/JX
+AlloyImage                                                                           http://alloyteam.github.io/AlloyPhoto
+Alloystick                                                                              http://alloyteam.github.io/AlloyStick
+Spirit                                                                                      http://alloyteam.github.io/Spirit
+JXAnimate                                                                            http://alloyteam.github.io/JXAnimate
+AlloyDesigner                                                                       http://alloyteam.github.io/AlloyDesigner
+TEditor                                                                                   http://alloyteam.github.io/TEditor
+AlloyTimer                                                                             http://alloyteam.github.io/AlloyTimer
+AlloyDesktop                                                                        http://tencentopen.github.io/proj/AlloyDesktop
+CSDNCode地址                                                                     https://code.csdn.net/Tencent
+APT(Android性能测试组件)                                                  https://code.csdn.net/Tencent/apt
+MTJS                                                                                     http://mt.tencent.com   https://github.com/mtjs/mt
+Rythem(抓包工具)                                                                 https://github.com/AlloyTeam/Rythem
+LivePool                                                                                http://rehorn.github.io/livepool  (基于Node.js的跨平台Web抓包替换工具)
+TmodJS(前端模板预编译工具)                                               https://github.com/aui/tmodjs
+FrozenUI(移动WEBUI框架)                                                           http://frozenui.github.io
+
+
+
+

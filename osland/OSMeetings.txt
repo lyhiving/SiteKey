@@ -1,0 +1,12 @@
+FOSS.IN                                     http://foss.in
+FOSSASIA                                 http://fossasia.org
+FOSSCOMM                             http://fosscomm.in
+FREED.IN                                  http://freed.in
+FreedomHEC                           http://freedomhec.org
+FSCONS                                   https://fscons.org
+GCCSUMMIT                           http://www.gccsummit.org
+GOSCON                                 http://goscon.org
+LGM                                        http://libregraphicsmeeting.org
+LSM                                        http://www.rmll.info
+WizardOfOS                           http://wizards-of-os.org
+YAPC                                      http://yapc.org

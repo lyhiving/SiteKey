@@ -1,0 +1,17 @@
+Apple                                   
+
+开源网站                                                    http://www.opensource.apple.com
+源码地址                                                    http://www.macosforge.org
+OpenSource                                             http://www.apple.com/opensource
+OpenCL                                                     http://www.khronos.org/opencl ( 图形硬件处理标准 )
+Webkit(浏览器引擎)                                  http://www.webkit.org
+LLVM(编译器框架)                                     http://llvm.org
+
+
+
+
+IBM
+
+MQTT                                                       http://mqtt.org
+HiveMQ                                                   http://www.hivemq.com(MQTT企业级代理)    
+Mosquitto                                               http://mosquitto.org(实现MQTT协议版本3.1)          

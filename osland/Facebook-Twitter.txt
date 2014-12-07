@@ -1,0 +1,52 @@
+FaceBook
+
+OpenCompute                                                       http://www.opencompute.org
+React                                                                      http://facebook.github.io/react(JS用户界面库)
+Huxley                                                                    https://github.com/facebook/huxley(UI测试工具)
+Presto                                                                     http://prestodb.io(分布式查询引擎)
+RocksDB                                                     http://rocksdb.org(NoSQL)
+Cassandra                                                               http://cassandra.apache.org(NoSQL,已捐献给Apache)
+HHVM                                                                    https://github.com/facebook/hhvm(PHP虚拟机)
+LibPhenom                                                            http://facebook.github.io/libphenom(C语言并发编程框架)
+Folly                                                                       https://github.com/facebook/folly(C++11 组件库)
+Mercurial                                                   http://mercurial.selenic.com(版本控制系统)
+LLVM                                                                     http://llvm.org(低级虚拟机)
+FacebookCode                                                      https://code.facebook.com
+Phabricator(代码评审)                                           http://phabricator.org
+Regenerator(NodeJS的generator替代品)             http://facebook.github.io/regenerator
+Hack(编程语言)                                                      http://hacklang.org
+Tweaks(IP原型工具)                                               https://github.com/facebook/Tweaks
+WebScaleSQL(MySQL分支)                                   http://webscalesql.org
+OpenCompute                                                      http://www.opencompute.org
+Haskell(编程语言)                                                  http://www.haskell.org
+GHC(Haskell编译器)                                              http://www.haskell.org/ghc
+Haxl(Haskell远程访问库)                                       https://github.com/facebook/Haxl
+Flux                                                                        http://facebook.github.io/flux
+Mcrouter(Memcached路由器)                              https://github.com/facebook/mcrouter   (用于对 memcached 的部署进行扩展)
+OSQuery(操作系统监控)                                         http://osquery.io
+
+移动项目
+KVOController                                                       https://github.com/facebook/KVOController
+Shimmer                                                                https://github.com/facebook/Shimmer (加载效果工具)
+Redbound                                                              http://facebook.github.io/rebound(Android物理动画库)
+Buck                                                                       http://facebook.github.io/buck(Android编译工具)
+Xctool                                                                     https://github.com/facebook/xctool (ios\mac编辑工具)
+Conceal                                                                  http://facebook.github.io/conceal(Android平台上进行文件加密和鉴权)
+Origami                                                      http://facebook.github.io/origami（Quartz Composer 工具包）
+Bolts                                                                       https://github.com/BoltsFramework(iOS和Android的底层库集合)
+FBIOS-SDK                                                             https://github.com/facebook/facebook-ios-sdk
+FBAndroid-SDK                                                     https://github.com/facebook/facebook-android-sdk
+Fishhook                                                                https://github.com/facebook/fishhook(iOS安全攻防的开源库)
+POP(IOS和OSX的动画库)                                       https://github.com/facebook/pop
+Parse(移动应用服务后台)                                       https://www.parse.com    https://github.com/parseplatform/parse-php-sdk    
+AsyncDisplayKit(iOS)                                            https://github.com/facebook/AsyncDisplayKit
+                                                                                                                        
+ 
+Twitter
+
+GitHub托管                                                           http://twitter.github.io
+Bootstrap                                                              https://github.com/twbs/bootstrap
+Zipkin(分布式跟踪系统)                                        http://twitter.github.io/zipkin
+Storm(分布式容错实时计算系统)                           http://storm.incubator.apache.org
+Twemoji                                                                http://twitter.github.io/twemoji
+

@@ -1,0 +1,52 @@
+GitHub主页                                                          https://github.com/github
+Atom(IDE)                                                            https://atom.io
+Git短地址                                                              http://git.io
+Git 的代码片段服务                                               https://gist.github.com
+GitHub教程（中文）                                            https://github.com/gotgit/gotgithub
+GitHub精选                                                          http://n22.cn/github
+GitHub客户端（Windows）                                https://windows.github.com
+GitHub客户端（Mac版）                                     https://mac.github.com
+Gitpress                                                               http://www.gitpress.org (轻量级GitHub项目网站生成工具)  
+
+GitHub开源电子书（中文）         https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md
+
+
+OurJS                                                                    http://s79.github.io/OurJS/intro
+GitTraining                                                           http://training.github.com
+ColorArt                                                               https://github.com/MichaelEvans/ColorArt
+WebitScript                                                          http://zqq90.github.io/webit-script                                                  
+Ramona                                                               http://ateska.github.io/ramona(应用监控)
+Lime(SublimeText的克隆)                                   https://github.com/limetext/lime
+LemonOA(开源)                                                   http://www.mossle.com
+H5BP                                                                    http://h5bp.github.io
+
+OpenCT(CT扫描项目)                                           https://github.com/tricorderproject/openct （医疗项目）
+
+
+
+Github网站用到的开源库
+Linguist                                                                https://github.com/github/linguist
+Pajx                                                                      http://pjax.heroku.com
+Elasticsearch                                                        http://www.elasticsearch.org
+Rubyonrails                                                         http://rubyonrails.org
+Redis                                                                    http://redis.io
+Sprockets                                                            https://github.com/sstephenson/sprockets
+Libgit2                                                                 http://libgit2.github.com (Git核心开发包)
+Rugged                                                               https://github.com/libgit2/rugged (支持Ruby访问libgit2开发包)
+BcryptRuby                                                         https://github.com/codahale/bcrypt-ruby (加密算法库)
+HtmlPipeline                                                      https://github.com/jch/html-pipeline (Html过滤器和工具)
+Gemoji                                                                https://github.com/github/gemoji (emoji表情)
+Jekyll                                                                   http://jekyllrb.com (静态站点生成器)
+Gollum                                                                https://github.com/gollum/gollum (基于Git的Wiki)
+Ockokit                                                               https://github.com/octokit (GithubAPI客户端库集合)
+Hubot                                                                 https://hubot.github.com (运维机器人)
+D3js                                                                    http://d3js.org (数据展示库)
+Plax                                                                    http://cameronmcefee.com/plax (Jquery插件 制作404|500|About页面)
+Ace                                                                     http://ace.c9.io (基于浏览器的代码编辑器)
+Zepto                                                                 http://zeptojs.com (类似Jquery的js库)
+ZeroClipboard                                                   http://zeroclipboard.org (不可见的粘贴库)
+CharlockHolmes                                                https://github.com/brianmario/charlock_holmes (字符编码检测库)
+Puppet                                                               http://puppetlabs.com/puppet (自动管理引擎)
+MomentJS                                                         http://momentjs.com (日期处理库)
+Bower                                                                http://bower.io (包管理器)
+Resque                                                              https://github.com/github/resque (Ruby库创建管理后台任务)

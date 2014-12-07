@@ -1,0 +1,25 @@
+Mozilla
+
+火狐开发者中心                                                        https://developer.mozilla.org/zh-CN
+TogetherJS(给网站添加实时协作)                                https://togetherjs.com
+AsmJS(JavaScript子级优化编译器)                          https://github.com/dherman/asm.js
+水狐浏览器                                                               http://waterfoxproj.sourceforge.net
+Mozjpeg(Jpeg图片处理)                                         https://github.com/mozilla/mozjpeg
+Firefox(IOS版)                                                          https://github.com/mozilla/firefox-ios
+火狐Github首页                                                        https://github.com/mozilla
+
+
+
+
+
+
+
+
+
+Microsoft
+
+Github主页                                                           https://github.com/microsoft
+微软开放技术                                                         https://github.com/msopentech
+WindowsAzure                                                    http://windowsazure.github.io
+WinJS                                                                   http://try.buildwinjs.com
+.Net                                                                      https://github.com/dotnet      http://www.dotnetfoundation.org
