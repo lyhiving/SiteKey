@@ -1,0 +1,65 @@
+设计平台
+
+设计本                                                             http://www.shejiben.com
+表情大全开发者中心                                        http://www.stickersdk.com
+
+
+服装设计
+
+当美服装                                                                                  http://www.dangmei.com.cn
+服装设计网                                                                              http://art.cfw.cn
+
+
+
+多媒体编辑
+
+会声会影                                                               http://www.huishenghuiying.com.cn
+
+
+
+建模工具
+
+OpenModelSphere                                                               http://www.modelsphere.org
+StarUML                                                                                 http://staruml.sourceforge.net
+UMLDesigner(Eclipse插件)                                                    http://marketplace.obeonetwork.com/module/uml
+Green(Eclipse插件)                                                                 http://green.sourceforge.net
+PGModeler                                                               http://www.pgmodeler.com.br(PostgreSQL建模工具)
+
+
+
+网址导航
+
+UedFans                                                     http://uedfans.cn
+NAV80                                                        http://nav80.com
+大前端导航                                                  http://www.daqianduan.com/nav
+优设导航                                                     http://hao.uisdc.com
+PM265                                                       http://www.pm265.com
+PM34                                                         http://www.pc34.com
+马克导航                                                     http://hao.boboad.com
+UESO导航                                                  http://so.uehtml.com
+去瞧瞧                                                        http://quqiaoqiao.com
+CG导航                                                       http://www.zhicg.com
+UICoc                                                         http://www.uicoc.com
+花生皮                                                        http://www.huashengpi.com
+设计无忧                                                    http://cg51.cn
+视觉色导航                                                http://wz.cnvsee.com
+艺库导航                                                    http://dir.ekoooo.com
+062导航                                                     http://www.062.com
+设计博客导航                                             http://www.designerscn.com
+UEDH                                                        http://uedh.cn
+EAFind                                                      http://www.eafind.com
+
+
+软件
+
+OpenCV                                                          http://opencv.org (跨平台计算机视觉库)
+
+
+
+
+
+PPT素材
+
+PPT123                                                                                       http://www.ppt123.net
+1PPT                                                                                           http://www.1ppt.com
+PPTOK                                                                                        http://www.pptok.com
