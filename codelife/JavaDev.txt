@@ -1,0 +1,232 @@
+IDEA                                                                                       https://www.jetbrains.com/idea(商业软件)
+
+JAVA                                                                                      https://www.java.net
+Play                                                                                        http://www.playframework.com (全栈式的Web框架，亦适用于Scala)
+Firefly                                                                                     http://www.fireflysource.com (Web框架)
+JAVAWorld                                                                            http://www.javaworld.com
+JavaMail                                                                                https://java.net/projects/javamail
+Spring                                                                                    http://spring.io
+JFinal                                                                                     http://www.jfinal.com      http://git.oschina.net/jfinal/jfinal
+JPPF(并行处理框架)                                                               http://www.jppf.org
+WTP                                                                                       http://www.eclipse.org/webtools (Eclipse的JEE开发插件)
+Tiny(JEE框架)                                                                         http://www.tinygroup.org
+Java批处理                                                                             http://projects.spring.io/spring-batch
+SpringHadoop                                                                      http://projects.spring.io/spring-hadoop
+SpringAMQP                                                                         http://projects.spring.io/spring-amqp   (AMQP消息解决方案)                                                                       
+Hibernate                                                                              http://hibernate.org
+Struts                                                                                     http://struts.apache.org
+YMP                                                                                       http://suninformation.github.io/ymateplatform (WEB框架)
+JOOQ(ORM框架)                                                                   http://www.jooq.org
+Sql2O(数据库查询到对象转换)                                               http://www.sql2o.org
+Marvin(图像处理框架)                                                           http://marvinproject.sourceforge.net
+Snaker(工作流)                                                                      http://snakerflow.github.io
+SnakerFlow                                                                           http://snakerflow.com
+EChart(Java封装类库)                                                            http://git.oschina.net/free/ECharts
+Jodd                                                                                      http://jodd.org
+Nutz(SSH替代品)                                                                   http://www.nutzam.com
+Nutz(Github地址)                                                                  https://github.com/nutzam/nutz
+Disruptor(Java并发编程框架)                                                http://lmax-exchange.github.io/disruptor
+Jcseg(Java中文分词器)                                                          http://git.oschina.net/lionsoul/jcseg
+JPinyin(汉字转拼音)                                                              https://github.com/stuxuhai/jpinyin 
+Pinyin4J                                                                                http://pinyin4j.sourceforge.net     
+JavaPapers                                                                            http://javapapers.com(教程博客)                                              
+Java学习论坛                                                                         http://www.boydavid.com
+JavaIT                                                                                    http://www.javait.org
+Java学习者                                                                            http://www.javaxxz.com
+DDJava                                                                                 http://www.ddjava.com
+BlogJava                                                                               http://www.blogjava.net
+Hasor                                                                                    https://github.com/zycgit/hasor
+JSpider                                                                                  https://github.com/jiangy/jspider
+Magnolia                                                                              http://www.magnolia-cms.com
+JPPF(并行计算框架)                                                               http://www.jppf.org
+GoogleGson                                                                         https://code.google.com/p/google-gson(Json与Java对象的映射工具)
+FastJson                                                                                http://git.oschina.net/wenshao/fastjson
+JsonLib                                                                                 http://json-lib.sourceforge.net
+Jackson                                                                                http://jackson.codehaus.org
+Java论坛                                                                               http://www.j2me.pw
+JeeFX                                                                                    http://www.jeefx.com
+WalkerJava                                                                           http://www.walkerjava.com
+并发编程                                                                                http://ifeve.com
+Wro4j(web资源优化工具)                                                     http://alexo.github.io/wro4j
+Freemarker(模板)                                                                 http://freemarker.org
+Velocity(模板)                                                                       http://velocity.apache.org
+Jetbrick(模板)                                                                       http://subchen.github.io/jetbrick-template
+WebitScript(模板)                                                                http://zqq90.github.io/webit-script
+Portofino(Java企业开发框架)                                       http://www.manydesigns.com/en/portofino
+SquirrelStateMachine                                                         http://squirrelframework.org
+Kryo(对象图形序列化框架)                                                       https://github.com/EsotericSoftware/kryo
+PMD(代码检查工具)                                                             http://pmd.sourceforge.net
+Virgo(web服务器)                                                                http://www.eclipse.org/virgo
+Rewrite(URL重写)                                                                 http://ocpsoft.org/rewrite
+IText(pdf操作库)                                                                   http://itextpdf.com
+Freedomotic(开源室内装修软件)                                           http://www.freedomotic.com
+Arquillian(单元测试框架)                                                      http://arquillian.org
+Jersey (RESTful Web Services 实现)                                     https://jersey.java.net
+Restlet(REST框架)                                                                 http://www.restlet.org
+Zorka(监控系统)                                                                    http://zorka.io
+CodeQuery(代码检索工具)                                                    http://ruben2020.github.io/codequery
+Mina(网络开发框架)                                                              http://mina.apache.org
+Cindy(NIO框架)                                                                     http://cindy.sourceforge.net
+Netty(NIO网络应用框架)                                                       http://netty.io
+ThoughtWorks GO                                                               http://www.go.cd (持续集成和发布系统)
+Disruptor(并发编程框架)                                                       http://lmax-exchange.github.io/disruptor
+JR(并发编程语言)                                                                   http://www.cs.ucdavis.edu/~olsson/research/jr
+Clojure(并发编程语言)                                                           http://clojure.org
+Jsoup(Html解析器)                                                                http://jsoup.org
+Xsoup(Html解析器)                                                               https://github.com/code4craft/xsoup
+疯狂JAVA联盟                                                                        http://www.crazyit.org
+Java驿站                                                                                 http://it.deepinmind.com
+JWt(Web工具包)                                                                    http://www.webtoolkit.eu/jwt
+Java学习者                                                                              http://www.javaxxz.com
+JeeFX                                                                                      http://www.jeefx.com
+Java论坛                                                                                 http://www.java17.com
+JeeCG                                                                                     http://www.jeecg.org
+Druid(JDBC组件)                                                                    https://github.com/alibaba/druid
+MimeUtil                                                                                http://sourceforge.net/projects/mime-util
+JMimeMagic                                                                          https://github.com/arimus/jmimemagic
+MimeApplication                                                                  http://mime-application.com
+TestNg(测试框架)                                                                    http://testng.org
+Nuiton-I18N(Java国际化开发包)                                           http://maven-site.nuiton.org/i18n
+JAXX(XML编程)                                                                     http://maven-site.nuiton.org/jaxx
+DEMUX                                                                                   http://demux.vektorsoft.com/demux
+ASM(Java字节码框架)                                                            http://asm.ow2.org
+Activiti(工作流)                                                                       http://www.activiti.org
+Nashorn(JS引擎)                                                                     http://openjdk.java.net/projects/nashorn（Java8新特性嵌入JS代码）
+Jodd(Java工具包)                                                                   http://jodd.org
+JinQ(数据库访问工具)                                                             http://www.jinq.org
+JGroups(群组通讯工具)                                                          http://www.jgroups.org
+JDAL(数据库应用层)                                                               http://www.jdal.org
+Kryo(Java队形图形序列化框架)                                              https://github.com/EsotericSoftware/kryo
+JessMA(MVC&RESTful框架)                                                 http://www.jessma.org
+Groovy(基于JVM的动态语言)                                                http://groovy.codehaus.org
+JimStoneAjax(通过JS执行Java代码)                                     http://jimstone.duapp.com
+NTRU(加密算法库)                                                                http://tbuktu.github.io/ntru
+HikariCP(数据连接池)                                                           http://brettwooldridge.github.io/HikariCP
+C3P0(数据连接池)                                                                 https://github.com/swaldman/c3p0
+Tatala(RPC中间件)                                                               https://github.com/zijan/Tatala
+Jackcess(java的access库)                                                    http://jackcess.sourceforge.net
+JavaMelody(Java系统监控工具)                                          https://code.google.com/p/javamelody
+S2JH                                                                                    https://github.com/xautlx/s2jh (基于SSH的企业Web应用开发框架)
+JWebMail                                                                           http://jwebmail.sourceforge.net (支持IMAP/POP3协议的WebMail)
+JGuru                                                                                  http://www.jguru.com
+JDAO(ORM)                                                                       https://code.google.com/p/java-jdao
+Guzz(ORM)                                                                        https://code.google.com/p/guzz
+JClouds(云计算开发包)                                                       http://jclouds.apache.org
+Ehcache(缓存框架)                                                             http://ehcache.org
+ZKCharts(图表)                                                                   http://www.zkoss.org/product/zkcharts
+JAS(Java代数系统)                                                              http://krum.rz.uni-mannheim.de/jas
+MDIFramework                                                                  https://java.net/projects/mdiframework
+TemplateFX(动态模板)                                                       http://netnix.org/templatefx.html
+Grails                                                                                  http://grails.org
+XMemcached                                                                    https://github.com/killme2008/xmemcached (Memcached的客户端)
+Jolokia                                                                               http://www.jolokia.org (JMX远程访问方法)
+JFTP(客户端)                                                                      http://j-ftp.sourceforge.net
+JFreeSVG                                                                           http://www.jfree.org/jfreesvg (svg库)
+F2J(Java调用Fortran接口)                                                  http://icl.cs.utk.edu/f2j
+JdMVC                                                                               https://github.com/liubingsmile/jdmvc
+LogicalDOC(文档管理系统)                                                http://www.logicaldoc.com
+OpenKM(文档管理系统)                                                     http://www.openkm.com
+JackRabbit(JSR-170 的开放源码实现)                                 http://jackrabbit.apache.org
+JFormDesigner                                                                  http://www.formdev.com (Swing设计工具)
+DarksCodec(通行消息协议编解码)                                     https://github.com/liulhdarks/darks-codec
+Avian(轻量级JAVA虚拟机)                                                 https://github.com/ReadyTalk/avian
+P6SPY(SQL语句拦截框架)                                                  https://github.com/p6spy/p6spy
+KonaKart(Java电子商务软件)                                                 http://www.konakart.com
+ElasticSearch(分布式搜索引擎)                                         http://www.elasticsearch.com
+Wicket(Web框架,类似Strusts)                                          http://wicket.apache.org
+DOROODO(SSH开发平台)                                                http://www.doroodo.com
+ByteMan(字节码注入)                                                       http://byteman.jboss.org
+Sirona(Java应用程序的监控方案)                                      http://sirona.incubator.apache.org
+Kylin(分布式OLAP分析引擎，支持TB到PB级数量)            http://www.kylin.io
+LWJGL3(Java游戏库)                                                        http://www.lwjgl.org
+
+CMBlog                                                                             http://cmsblogs.com
+
+
+RoboVM                                                                          http://www.robovm.org
+Elasticsearch                                                                   http://www.elasticsearch.org (基于Lucene的搜索引擎)
+Erjang(Erlang虚拟机，在JVM上运行)                             http://erjang.org
+Drools(源码规则引擎)                                                      http://www.drools.org
+Restlet(REST框架)                                                           http://www.restlet.org
+Axis2(REST框架)                                                              http://axis.apache.org/axis2/java
+
+
+MQTT(IBM开源消息传输协议)                                          http://mqtt.org
+HazelcastMQ(消息队列服务)                                            https://github.com/mpilone/hazelcastmq
+ActiveMQ(JMS消息服务器)                                              http://activemq.apache.org
+RabbitMQ(消息服务器)                                                    http://www.rabbitmq.com
+Jafka(分布式消息系统)                                                      https://github.com/adyliu/jafka
+NSQ                                                                                  http://nsq.io
+Faye                                                                                  http://faye.jcoglan.com(NodeJS、Ruby)
+OpenAMQ                                                                        http://www.openamq.org
+Sparrow                                                                            http://code.google.com/p/sparrow (Ruby)
+SquirrelMQ                                                                      http://code.google.com/p/squirrel-message-queue
+
+ 
+WebMagic(爬虫框架)                                                            http://git.oschina.net/flashsword20/webmagic
+SpiderMan(爬虫)                                                                   https://gitcafe.com/laiweiwei/Spiderman
+Xwiki(Java版wiki系统)                                                           http://www.xwiki.org
+CloverETL(ETL框架)                                                               http://www.cloveretl.com
+Jedis(Redis的java客户端开发包)                                            https://github.com/xetorthio/jedis
+JClassLib(字节码查看器)                                                        https://github.com/ingokegel/jclasslib
+Errai(异步消息传递框架)                                                        http://erraiframework.org
+Redline(RPM类库)                                                                http://redline-rpm.org
+
+MyFaces(JSF框架)                                                              http://myfaces.apache.org
+PrimeFaces(JSF框架)                                                          http://www.primefaces.org
+RichFaces(JSF框架)                                                            http://richfaces.jboss.org
+
+
+
+
+抓包工具
+
+Jpcap                                                                                     http://jpcap.sourceforge.net
+
+
+
+G4IT (二次快速开发平台)                             http://www.g4it.org        https://github.com/xiongchun/g4studio
+
+
+
+
+打包工具
+
+Launch4J(Java文件转EXE可执行文件)                                   http://launch4j.sourceforge.net
+Install4J(商业软件)                                                                http://www.ej-technologies.com/products/install4j/overview.html
+
+
+代码混淆器
+
+ReJava                                                                                   http://rejava.sourceforge.net
+ProGuard                                                                               http://proguard.sourceforge.net
+
+
+Java8新特性探究                                                                     http://developer.51cto.com/art/201404/435591.htm
+
+7 款开源 Java 反编译工具                                                        http://developer.51cto.com/art/201409/452232.htm
+
+
+
+开源下载工具
+JAxel                                                                                       http://git.oschina.net/xidomlove/JAxel
+JDownloader                                                                          http://www.jdownloader.org
+JDownZ                                                                                   http://sourceforge.net/projects/jdownz
+Google2SRT                                                                           http://google2srt.sourceforge.net
+JoBo                                                                                        http://www.matuschek.net/jobo
+
+
+
+
+10个Java开源库
+
+1.War Worlds——基于策略的游戏——Java server和Android客户端；
+2.OpenWorm——neuromechanical模型，在浏览器下运行出秀丽隐杆线虫；
+3.JRAW——Java reddit API包装器；
+4.XChart——一个轻量级Java库，用来绘图
+5.libgdx——一个创建游戏的开源框架；
+6.Particle Pong——一个开源的Pong克隆；
+7.bitcoinj——一个由Java实现的Bitcoin协议；
+8.JStrava——用于Strava API的Java包装程序；
+9.JAdventure——一个Java Text Adventure游戏；
+10.Aurous——一个APP，可以从YouTube和其他渠道上创建庞大的播放列表和转换。

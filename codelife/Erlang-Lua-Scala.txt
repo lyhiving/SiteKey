@@ -1,0 +1,40 @@
+Scala语言
+Scala                                                                                        http://www.scala-lang.org
+SpringScala(简化在Scala应用中使用Spring 框架)                     https://github.com/spring-projects/spring-scala
+Scala.js(浏览器上使用 Scala)                                        http://www.scala-js.org
+Scala中文社区                                                                         http://www.scalachina.com
+Scala中文社区                                                                         http://www.scala-china.net
+Scala指南中文                                                                         http://zh.scala-tour.com
+Scala课堂                                                                                http://twitter.github.io/scala_school/zh_cn
+Scala技术文档大集合                                                               http://code.csdn.net/scala
+
+
+
+Erlang语言
+Erlang                                                                                      http://www.erlang.org
+Erlang中文                                                                               http://www.erlang.org.cn
+Yaws(Erlang开发的服务器)                                                      http://yaws.hyber.org
+ErlangQA                                                                                 http://www.erlangqa.com
+ErlangDisplay                                                                          http://erlangdisplay.iteye.com
+ErlangChina                                                                             http://www.erlangchina.net
+erlang非业余研究                                                                      http://blog.yufeng.info
+ErlangCN                                                                                  http://www.erlang-cn.org
+Erlang社区                                                                                http://www.fxgx.org
+ErlangChina                                                                             http://erlang-china.org
+Erlide(开发工具)                                                                       http://erlide.org
+RabbitMQ(消息服务器)                                                            http://www.rabbitmq.com
+Erjang(Erlang虚拟机，在JVM上运行)                                      http://erjang.org
+
+Lua语言
+Lua                                                                                           http://www.lua.org
+LuaJIT(编译器)                                                                         http://luajit.org
+BabeLua(IDE)                                                                          https://babelua.codeplex.com
+Decoda(LuaIDE)                                                                     http://unknownworlds.com/decoda
+LDT(Eclipse插件)                                                                     http://www.eclipse.org/koneki/ldt
+LWT(Web工具包)                                                                    https://code.google.com/p/lua-web-tools
+LuaCJson(Json包)                                                                  http://www.kyne.com.au/~mark/software/lua-cjson.php
+RedisLua                                                                                  https://github.com/nrk/redis-lua
+Lua脚本交流社区                                                                      http://www.luacn.net
+Lua开发者论坛                                                                         http://bbs.luaer.cn
+aLiLua(网络服务框架)                                                              http://alilua.com
+ELua(嵌入式应用开发)                                                             http://www.eluaproject.net

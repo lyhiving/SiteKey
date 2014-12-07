@@ -1,0 +1,60 @@
+百度众测平台                                                                             http://test.baidu.com
+白帽众测                                                                                    https://www.sobug.com
+乌云平台                                                                                    http://www.wooyun.org
+
+
+51testing                                                                                  http://www.51testing.com
+云测                                                                                           http://www.testin.cn
+QTestin                                                                                     https://www.qtestin.com/zh
+TesterHome                                                                             http://testerhome.com
+测试之道                                                                                   http://www.uniontesting.com
+自动化测试                                                                               http://www.jointest.com
+DiggerPlus                                                                              http://www.diggerplus.org
+Watir(WEB自动化测试框架)                                                     http://watir.com
+AntUnit(Ant单元测试任务)                                                      http://ant.apache.org/antlibs/antunit
+JUnit                                                                                        http://junit.org
+Arquillian(Junit小伙伴)                                                           http://arquillian.org （基于JUnit）
+ITest                                                                                         https://github.com/BaiduQA/itest （基于JUnit）
+Zohhak(Junit参数化测试框架)                                                https://code.google.com/p/zohhak
+Kcov(代码覆盖测试)                                                                 http://simonkagstrom.github.io/kcov
+测试时代                                                                                   http://www.testage.net
+DiggerPlus                                                                              http://www.diggerplus.org
+CocoaTest                                                                               http://www.cocoatest.com
+Selenium                                                                                 http://docs.seleniumhq.org
+Graphene(Ajax测试)                                                               http://arquillian.org/modules/graphene-extension
+FirbugLite                                                                                http://getfirebug.com/firebuglite
+Dagger(Web UI 自动化测试框架)                                                https://github.com/NetEase/Dagger
+Peek(网站测试)                                                                       http://peek.usertesting.com
+EasyMock(单元测试技术)                                                        http://www.easymock.org
+Junit(单元测试)                                                                        http://junit.org
+Zaproxy(渗透测试)                                                                   https://code.google.com/p/zaproxy
+Nessus(漏洞扫描)                                                                       http://www.tenable.com/products/nessus
+Tsung(压力测试工具)                                                               http://tsung.erlang-projects.org
+Cucumber(自动化测试)                                                           http://cukes.info
+TestLink                                                                                   http://www.teamst.org
+Cunit                                                                                        http://cunit.sourceforge.net (C语言单元测试)
+CppTest(C++单元测试)                                                            http://cpptest.sourceforge.net
+Pyunit(Python单元测试)                                                          http://pyunit.sourceforge.net
+Kcov(代码测试覆盖工具)                                                          http://simonkagstrom.github.io/kcov
+ServerSpec                                                                               http://serverspec.org   (测试服务器配置是否正确)
+领测国际                                                                                   http://bbs.ltesting.net
+测试窝                                                                                      http://www.testwo.com
+WatirWebDriver中文                                                               http://www.17test.info
+
+
+移动测试
+Appium                                                                                   http://appium.io
+Robotium                                                                                http://code.google.com/p/robotium（Android）
+Robotium中文                                                                         http://www.robotium.cn
+Splitforce(A/B测试)                                                                 https://splitforce.com （Unity、Android、IOS）
+
+
+测试视频
+
+酷测网                                                                                       http://www.kootest.com
+重定向                                                                                       http://itest.info
+
+
+
+
+

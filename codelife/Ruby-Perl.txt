@@ -1,0 +1,52 @@
+Ruby语言
+
+Ruby                                                                                        https://www.ruby-lang.org/zh_cn
+REE                                                                                          http://www.rubyenterpriseedition.com(企业版Ruby)
+JRuby                                                                                       http://www.jruby.org
+Rails                                                                                         http://rubyonrails.org
+Sinatra                                                                    http://www.sinatrarb.com
+TorqueBox                                                                              http://torquebox.org
+RubyChina                                                                              http://ruby-china.org
+RailsChina                                                                               http://www.railschina.org
+Ruby迷                                                                                    http://rubyer.me
+Webgen(Web网站生成器)                                                       http://webgen.gettalong.org
+Coco(代码覆盖率工具)                                                               http://lkdjiin.github.io/coco
+Ruby贴吧                                                                                 http://tieba.baidu.com/f?kw=ruby
+Rails贴吧                                                                                  http://tieba.baidu.com/f?kw=rails
+RailsGirlsChina                                                                        http://www.railsgirls-china.com
+RadRails(IDE)                                                                          http://www.aptana.com/products/radrails
+KomodoIDE                                                                            http://komodoide.com
+RedCar                                                                                    http://redcareditor.com
+Icecoder                                                                                  http://icecoder.net
+Arcadia                                                                                    http://arcadia.rubyforge.org
+RailsCastsChina                                                                       http://railscasts-china.com
+RubyConf                                                                                http://rubyconf.tw
+Ocra(打包工具)                                                                        https://github.com/larsch/ocra
+Rack(Web服务接口)                                                                http://rack.github.io
+Unicorn(Web服务器)                                                              http://unicorn.bogomips.org （运行Rack应用）
+Rainbows(Web服务器)                                                           http://rainbows.bogomips.org （运行Rack应用）
+RubyMotion                                                                           http://www.rubymotion.com (使用Ruby开发IOS和Android应用)
+Posty                                                                                       http://www.posty-soft.org
+Opal(Ruby转JS)                                                                      http://opalrb.org
+Volt(Web框架)                                                                        http://voltframework.com
+RubyFire(前端框架)                                                                 http://rubyfire.io
+
+
+Perl语言
+
+Perl(官网)                                                                                 http://www.perl.org
+PerlChina                                                                                 http://perlchina.org
+PerlDancer                                                                              http://perldancer.org
+PerlDBI                                                                                    http://dbi.perl.org
+EPIC(IDE)                                                                                 http://www.epic-ide.org
+Padre(IDE)                                                                               http://padre.perlide.org
+Perlipse(Eclipse插件)                                                               http://code.google.com/p/perlipse
+PerlEdit                                                                                    http://www.indigostar.com/perledit.php
+CPan                                                                                        http://www.cpan.org
+Combine(Perl爬虫)                                                                 http://combine.it.lth.se
+KiokuDB(持久化框架)                                                              https://github.com/nothingmuch/kiokudb
+Jifty(WEB框架)                                                                         http://jifty.org
+Mojolicious(WEB框架)                                                            http://mojolicio.us
+
+
+

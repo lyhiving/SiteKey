@@ -1,0 +1,35 @@
+Docker(Linux容器引擎)                                                http://www.docker.io
+Docker.com                                                                 http://www.docker.com
+Docker开发商                                                               https://www.dotcloud.com
+DockerHub                                                                  https://hub.docker.com
+Docker源码                                                                   https://github.com/dotcloud/docker
+Docker中文                                                                   http://www.docker.org.cn
+Docker中文社区                                                            http://www.dockboard.org
+AutoDock                                                                     https://github.com/cholcombe973/autodock(Docker 容器自动化工具)
+Shipyard(Web版管理工具)                                               http://shipyard-project.com
+DVM(Docker虚拟机)                                                    https://github.com/fnichol/dvm
+OpenStack-Docker                                                     https://github.com/dotcloud/openstack-docker
+DotCloud(Docker贡献者)                                            https://www.dotcloud.com
+Docker(CSDN社区)                                                      http://docker.csdn.net
+Docker中文指南                                                           https://github.com/widuu/chinese_docker
+Docker实践                                                                  https://github.com/yeasy/docker_practice
+Wormhole(连接代理)                                                   https://github.com/vishvananda/wormhole
+
+Fig(Docker应用构建工具)                                             http://www.fig.sh
+Boot2Docker                          https://github.com/boot2docker/boot2docker (解决Windows或者OS X用户不能安装Docker的问题)            
+Panamax(Docker管理工具)                                         http://panamax.io
+Kubernetes(Google开源容器集群管理)                       https://github.com/GoogleCloudPlatform/kubernetes
+Drone(持续集成系统)                                                  https://github.com/drone/drone
+Atomic(基于Fedora运行Docker容器的原型系统)        http://www.projectatomic.io
+Kitematic(Mac版Docker管理程序)                              https://kitematic.com
+
+Koality                                                                          http://koalitycode.com
+Weave                                                                          https://github.com/zettio/weave(网络)
+
+
+Docker(技术博客)                                                      http://www.openstack.cn/p828.html
+BeDocker                                                                  http://special.csdncms.csdn.net/BeDocker
+
+
+Deis(开源Paas)                                                           http://deis.io
+

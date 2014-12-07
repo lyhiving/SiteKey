@@ -1,0 +1,106 @@
+Eclipse                                                                                 http://www.eclipse.org         
+IntelliJ IDEA           http://www.jetbrains.com/idea   14版 key:zhuyaofeng  value:28872-CASNQ-XIMEQ-XHE1Z-90Z08-TQKL2  
+Cloud9IDE                                                                          https://c9.io (在线开发工具，支持多种主流语言)                                                                     
+Forge(JEE开发工具)                                                            http://forge.jboss.org
+Brackets                                                                              http://brackets.io
+LightTable                                                                          http://www.lighttable.com（多语言集成开发环境）
+DartEditor                                                                           https://www.dartlang.org/tools/editor
+SublimeText                                                                       http://www.sublimetext.com
+Aptana                                                                                http://www.aptana.com
+JuliaStudio                                                                          http://forio.com/products/julia-studio
+Xamarin(商业软件)                                                              http://xamarin.com
+Komodo                                                                              http://komodoide.com (跨平台支持PHP|Python|Perl|Ruby|TCL|JS|CSS)
+WebMatrix                                                                          http://www.microsoft.com/web/webmatrix
+MercuryEditor(HTML5编辑器)                                            http://jejacks0n.github.io/mercury
+Codeorchestra(商业软件)                                                    http://codeorchestra.com
+Codio(商业软件)                                                                  https://codio.com
+Pharo(smalltalk)                                                                 http://www.pharo-project.org
+Bluefish                                                                               http://sourceforge.net/projects/bluefish(web编辑器)
+Griffon(多语言开发工具)                                                      http://griffon.lasotel.fr
+SmartRCP(Eclipse开发Flex的插件)                                      https://code.google.com/p/smartrcp
+
+VisualStudio                                                                        http://www.visualstudio.com
+
+ICECoder                                                                                 http://icecoder.net
+Koding                                                                                    https://www.koding.com
+Codenvy(云端IDE)                                                                  https://codenvy.com
+Nitrous                                                                                   https://www.nitrous.io
+WebBuilder                                                                             http://www.putdb.com (Web应用开发平台)
+MiniBuilder(ActionScript开发工具)                                     http://code.google.com/p/minibuilder
+LiveCode                                                                              http://livecode.com
+LiveCode中文                                                                       http://livecode.com/zh-hans
+SmartRcp(Eclipse的Flex插件)                                               https://code.google.com/p/smartrcp
+
+Meteor                                                                                https://www.meteor.com
+
+Emacs(Linux文本编辑器)                                                     http://www.gnu.org/software/emacs
+Vim(Linux文本编辑器)                                                         http://www.vim.org
+
+SublimeText(商业软件)                                                       http://www.sublimetext.com
+LimeText(SublimeText开源版)                                           http://limetext.org
+
+TextMate(Mac文本编辑器)                                                 http://macromates.com
+
+QXmlEdit(XML编辑工具)                                                    https://code.google.com/p/qxmledit
+
+Codimension(Python)                                                       http://satsky.spb.ru/codimension
+
+StackEdit                                                                            https://stackedit.io
+
+
+代码高亮工具
+
+Highlight                                                     http://highlightjs.org
+Uitraviolet                                                   http://ultraviolet.rubyforge.org
+Lighter                                                        https://github.com/cowlby/Lighter
+GoogleCodePrettify                                   http://code.google.com/p/google-code-prettify
+Pygments                                                    http://pygments.org
+Chili                                                             http://noteslog.com/chili
+
+
+
+Markdown编辑器和工具
+
+StackEdit                                                     https://stackedit.io
+EpicEditor                                                   http://epiceditor.com
+Markable                                                    http://markable.in
+Dillinger                                                     http://dillinger.io
+MarkdownPad                                           http://markdownpad.com
+Mou(Mac平台)                                           http://mouapp.com
+MacDown(Mou的开源版本)                      http://macdown.uranusjr.com
+MarkdownLiveEditor                                 http://jrmoran.com/playground/markdown-live-editor
+InstantMark                                               http://jrham.es/instantmark
+LightPaper(Mac平台)                                http://clockworkengine.com/lightpaper-mac
+WriteMonkey                                            http://writemonkey.com
+SublimeText                                              http://www.sublimetext.com
+Backpaper                                                 http://backpager.amasan.co.uk
+
+HtmlInspector                                           https://github.com/philipwalton/html-inspector
+MarkdownCSS                                          http://mrcoles.com/demo/markdown-css
+MarkdownEditing                                    https://github.com/SublimeText-Markdown/MarkdownEditing
+Parsedown                                                http://parsedown.org   (PHP的markdown解析器)
+Daux                                                          http://daux.io
+MarkdownHere                                        http://markdown-here.com
+Markitup                                                   http://markitup.jaysalvat.com
+Scribble                                                     http://www.tryscribble.com
+Marked                                                      https://github.com/chjj/marked
+Remarks                                                     http://remarks.sinaapp.com
+ReText                                                        http://sourceforge.net/p/retext/home/ReText
+Macchiato(Mac平台)                                 http://getmacchiato.com
+DemarcateJS                                              http://will-hart.github.io/demarcate.js
+
+
+
+
+
+语法分析器
+
+YACC                                                         http://dinosaur.compilertools.net
+BYACC                                                       http://invisible-island.net/byacc
+
+
+
+
+
+VisiScript                                                     http://mneuroth.de/projects/Visiscript.html
+

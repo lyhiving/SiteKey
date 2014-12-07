@@ -1,0 +1,179 @@
+项目管理
+
+Redmine                                                                                http://www.redmine.org
+Taiga(开源)                                                                            https://taiga.io
+ProjectForge                                                           http://www.projectforge.org
+Blumine                                                                                 https://github.com/daqing/blumine
+WebProjector                                                                        http://www.webprojector.org
+Casebox                                                                                 https://www.casebox.org
+ChiliProject                                                                            https://www.chiliproject.org
+AceProject                                                                             http://www.aceproject.com
+Solo                                                                                        http://www.getsoloapp.com
+PlanetSoho                                                                            http://www.planetsoho.com
+Todoyu                                                                                   http://www.todoyu.com
+Redbooth                                                                               http://redbooth.com
+5Pmweb                                                                                 http://www.5pmweb.com
+qdPM                                                                                     http://qdpm.net
+ZohoProjects                                                                         https://www.zoho.com/projects
+Springloops                                                                           http://www.springloops.io
+Basecamp                                                                              https://basecamp.com
+SprintApp                                                                              http://www.sprintapp.com
+Blossom(项目管理工具)                                                           https://www.blossom.io
+
+
+项目构建工具
+
+Gradle                                                                     http://www.gradle.org
+Maven                                                                    http://maven.apache.org
+Nexus                                                                     http://www.sonatype.org/nexus (Maven仓库管理器)
+Cargo                                                                     http://cargo.codehaus.org (向WEB容器部署项目tomcat|jetty|jboss等等)
+Ant                                                                          http://ant.apache.org
+Grunt                                                                      http://gruntjs.com  (JavaScript构建工具)
+Grunt中文                                                               http://www.gruntjs.org
+Grunt中文网                                                           http://www.gruntjs.net
+GulpJS                                                                   http://gulpjs.com (JS构建工具)
+Xctool                                                                     https://github.com/facebook/xctool (IOS和Mac构建工具)
+CMake                                                                    http://www.cmake.org
+Buildr                                                                      http://buildr.apache.org （Java项目构建工具）
+Phing                                                                      http://www.phing.info (PHP构建工具)
+Hubot                                                                     http://hubot.github.com
+Buck                                                                        http://facebook.github.io/buck (Android构建工具)
+PyBit                                                                        https://github.com/nicholasdavidson/pybit (Python构建工具)
+Bount                                                                      https://github.com/mturilin/bount
+Gradle                                                                     http://www.gradle.org 
+GradleLearning                                                      https://github.com/davenkin/gradle-learning
+GradleGroup(ITEye)                                                http://gradle.group.iteye.com
+Gradleware(Gradle开发公司)                                  http://www.gradleware.com
+Meteor(WebApp构建)                                            https://www.meteor.com
+Sbt(Scala|Java构建工具)                                         http://www.scala-sbt.org
+Sbt-One-Log(log依赖库)                                       http://www.scala-sbt.org
+BuildBot(自动构建测试工具)                                  http://buildbot.net （Python）
+
+
+项目托管工具
+
+Git源码地址                                                                            https://github.com/git
+Git中国                                                                                   http://www.gitchina.org
+GitOSC                                                                                    http://git.oschina.net
+Coding                                                                                    https://coding.net
+GitCafe                                                                                     https://gitcafe.com
+GitHub                                                                                     http://www.github.com
+Binpress(代码交易平台)                                                          http://www.binpress.com (商业版Github)
+MsysGit                                                                                    http://msysgit.github.io
+GitTry                                                                                       https://try.github.io
+Atom(在线文本编辑器)                                                             http://atom.io （GitHub发布）
+Gitosis(公钥管理)                                                                      https://github.com/res0nat0r/gitosis
+Gitolite(权限控制)                                                                     https://github.com/sitaramc/gitolite
+Gogs(Go版管理系统)                                                              https://github.com/gogits/gogs
+Gitpress                                                                                    http://www.gitpress.org
+GitReference                                                                           http://gitref.org                
+GitShell                                                                                    https://gitshell.com
+SmartGitHg                                                                             http://www.syntevo.com/smartgithg(git图形化管理工具)
+TaoCode                                                                                  http://code.taobao.org
+JDCode                                                                                    https://code.jd.com
+CodePlex(微软代码托管)                                                         http://www.codeplex.com
+Bitbucket                                                                                https://bitbucket.org
+Launchpad                                                                             https://launchpad.net
+SourceForge                                                                           http://sourceforge.net
+GoogleCode                                                                           https://code.google.com
+Subversion中文                                                                      http://www.subversion.org.cn
+Subversion                                                                             http://subversion.apache.org
+Gitblit(Java版管理系统 )                                                         http://gitblit.com
+JGit(Java版管理系统 )                                                            https://www.eclipse.org/jgit
+EGit(Java版管理系统 )                                                           http://www.eclipse.org/egit
+SourceTree                                                                            http://sourcetreeapp.com (windows和mac的git客户端)
+SubGit(SVN到Git迁移工具)                                                   http://subgit.com
+GitBucket(Scala版管理系统 )                                                   https://github.com/takezoe/gitbucket
+Gitonomy(PHP版管理系统)                                                   http://gitonomy.com
+Gitorious(Rails版管理系统)                                                    https://gitorious.org
+Gitmanager(PHP版管理系统)                                                http://labs.softjourn.com/projects/gitmanager
+GitWebAccess(.NET版管理系统)                                            http://gitweb.codeplex.com
+Gitalist(Perl版管理系统)                                                         http://www.gitalist.com
+DoubanCode(Python版管理系统)                                         http://douban-code.github.io
+Gitiles(Java版管理系统)                                                          https://code.google.com/p/gitiles
+GitLab(Rails版管理系统)                                                         http://gitlab.org
+Mercurial(版本控制)                                                               http://mercurial.selenic.com
+ViewGit(PHP版本管理系统)                                                    http://viewgit.fealdia.org
+Gitalist(Perl版本管理系统)                                                      http://www.gitalist.com
+Cornerstone(Mac上SVN客户端)                                            http://www.zennaware.com/cornerstone
+
+
+
+原型工具
+
+FramerJS                                                                                      http://framerjs.com
+Codiqa(jqueryMobile原型工具)                                                  https://codiqa.com
+Flinto(ios原型工具)                                                                      https://www.flinto.com
+Inversion                                                                                     http://www.invisionapp.com
+Proto(移动原型)                                                                           http://proto.io
+Marvel                                                                                         https://marvelapp.com
+Concept                                                                                       http://www.concept.ly
+SkalaPreview(移动原型)                                                              http://bjango.com/mac/skalapreview
+Axure                                                                                            http://www.axure.com
+Axure中文                                                                                    http://www.axure.us
+InVision(Web原型工具)                                                               http://www.invisionapp.com
+ProcessOn                                                                                     http://www.processon.com
+Pencil(原型工具)                                                                             http://pencil.evolus.vn
+FluidUI(移动界面原型设计工具)                                                      https://fluidui.com
+UIDesigner                                                                                    http://uid.cdc.tencent.com
+Lumzy                                                                                            http://www.lumzy.com
+Mockingbird                                                                                 https://gomockingbird.com
+MockFlow                                                                                      http://www.mockflow.com
+Cacoo                                                                                            https://cacoo.com
+HotGloo                                                                                        http://www.hotgloo.com
+Balsamiq                                                                                       http://balsamiq.com
+
+
+Bug跟踪系统
+
+Exceptional                                                                                   http://www.exceptional.io
+Sifter                                                                                              https://sifterapp.com
+BugHerd                                                                                        http://bugherd.com
+DoneDone                                                                                     http://www.getdonedone.com
+BugDigger                                                                                     http://bugdigger.com
+Bugzilla                                                                                          http://www.bugzilla.org
+BugLogHQ                                                                                     http://www.bugloghq.com
+Fogbugz                                                                                         http://www.fogcreek.com/fogbugz
+Boto                                                                                                http://www.botoapp.com
+LogDigger                                                                                      http://logdigger.com
+LightHouse                                                                                     http://lighthouseapp.com
+Bugify                                                                                              https://bugify.com
+PivotalTracker                                                                                 http://www.pivotaltracker.com
+SnowyEvening                                                                                https://snowy-evening.com
+Trac                                                                                                 http://trac.edgewall.org
+MantisBT                                                                                        http://www.mantisbt.org
+
+
+
+
+
+
+代码管理
+SonarQube(代码质量管理平台)                                           http://www.sonarqube.org
+OSCSonar                                                                            http://sonar.oschina.net
+Exercism(代码审查工具)                                                      http://exercism.io
+Sculptor(代码生成工具)                                                       http://sculptorgenerator.org
+Codacy(代码审查工具)                                                         https://www.codacy.com
+CodeStriker(代码审查工具)                                                  http://codestriker.sourceforge.net
+Acceleo(代码生成器)                                                            http://www.eclipse.org/acceleo
+Gerrit(代码评审基于Git项目)                                                 http://code.google.com/p/gerrit
+Phabricator(可视化代码评审工具)                                        http://phabricator.org
+ReviewBord(代码评审)                                                         https://www.reviewboard.org
+
+
+敏捷开发
+
+Scrum中文                                                                            http://www.scrumcn.com
+
+
+
+
+持续集成
+
+JenKins                                                                               http://jenkins-ci.org
+Hudson                                                                              http://eclipse.org/hudson(可扩展的持续集成引擎)
+
+
+
+
+

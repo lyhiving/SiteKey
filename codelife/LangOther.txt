@@ -1,0 +1,33 @@
+Julia语言                                                                                  http://julialang.org
+
+Clojure                                                                                     http://clojure.org (Lisp风格，运行于JVM)
+Immutant(Clojure应用服务器)                                                 http://immutant.org
+
+
+Rust                                                                                          http://www.rust-lang.org（Mozilla研发，旨在替换C++）
+Rust动态                                                                                   http://cmr.github.io
+
+Objeck                                                                                      http://code.google.com/p/objeck-lang
+
+Hack(编程语言)                                                                       http://hacklang.org
+
+Haskell(编程语言)                                                                    http://www.haskell.org
+GHC(Haskell编译器)                                                                http://www.haskell.org/ghc
+Haxl(Haskell远程访问库)                                                         https://github.com/facebook/Haxl
+
+
+PureData                                                                                 http://puredata.info 开源的、可视化的、数据流编程语言
+
+Cobra                                                                                       http://cobra-language.com
+
+道语言                                                                                       http://daovm.net
+
+Gcmc                                                                                         http://www.vagrearg.org/content/gcmc
+
+ArnoldC(命令式编程语言)                                                         https://github.com/lhartikk/ArnoldC
+
+Q语言(数据定义语言)                                                                  http://www.q-lang.io
+
+Red语言                                                                                      http://www.red-lang.org
+
+Factor                                                                                          http://factorcode.org

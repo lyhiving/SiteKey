@@ -1,0 +1,2 @@
+Memcached                                                           http://memcached.org
+Mcrouter(Memcached路由器)                              https://github.com/facebook/mcrouter   (用于对 memcached 的部署进行扩展)

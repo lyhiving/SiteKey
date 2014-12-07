@@ -1,0 +1,34 @@
+BinVul(漏洞安全)                                                                    http://www.binvul.com
+中国黑客协会                                                                          http://www.hackassociation.com
+中国灰客联盟                                                                          http://www.92huike.com
+道德网安                                                                                 http://bbs.hackdark.com
+红客战地                                                                                 http://www.cnhonkerbattle.com
+Metasploit                                                                             http://www.metasploit.cn
+黑客中文网                                                                             http://www.cnhack.com.cn
+法客网                                                                                    http://www.f4ck.org
+中国白客联盟                                                                          http://www.chinabaiker.com
+漏洞时代                                                                                 http://0day5.com
+极客技术论坛                                                                          http://www.gksec.com
+黑客榜(网址导航)                                                                    http://www.5nb.us
+08安全团队                                                                             http://www.08sec.com
+黑客家园                                                                                 http://www.yu1u.org
+黑客编年史                                                                             http://www.asiaic.org
+
+
+
+
+AircrackNG                                                                           http://www.aircrack-ng.org (无线破解工具)
+Autocrack                                                                             https://code.google.com/p/autocrack (无线破解脚本)
+Kismet                                                                                   http://www.kismetwireless.net (无线网络探测器)
+Pyrit                                                                                       https://code.google.com/p/pyrit (WPA-PSK和WPA2-PSK的破解工具)
+Wepbuster                                                                            https://code.google.com/p/wepbuster
+Moscrack                                                                              http://moscrack.sourceforge.net (WPA破解工具)
+
+
+
+绿色/破解软件
+
+精品绿色软件                                                                          http://www.portablesoft.org
+
+
+

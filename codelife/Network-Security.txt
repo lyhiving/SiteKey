@@ -1,0 +1,125 @@
+网络开发
+
+HPSocket                                                                           http://www.jessma.org/?project=hp-socket
+OpenVSwitch                                                                     http://openvswitch.org(虚拟交换机)
+Clumsy                                                                                http://jagt.github.io/clumsy(虚拟不稳定网络)
+
+
+加密安全
+
+OpenSSL                                                                                http://www.openssl.org (安全套接字层密码库)
+HeartbleedTest                                                                     http://filippo.io/Heartbleed(OpenSSL测试)
+PolarSSL                                                                                https://polarssl.org(SSL代码库)
+SpringCryptoUtils                                                                  http://springcryptoutils.com(Spring的Java加密库)
+Jasypt                                                                                     http://www.jasypt.org(java加密库)
+Botan                                                                                     http://www.jasypt.org(C++的加密算法库)
+PyCrypto                                                                                https://www.dlitz.net/software/pycrypto(python加密库)
+GlobalSign(免费SSL认证)                                                      https://www.globalsign.com/ssl/ssl-open-source
+SSLH(使服务器支持Https和SSH两种协议链接)                      http://www.rutschle.net/tech/sslh.shtml 
+CyaSSL                                                                                  http://www.yassl.com (使用嵌入式设备)
+TrueCrypt                                                                              http://www.truecrypt.org
+OpenStego                                                                           http://openstego.sourceforge.net
+Cryptol(加密算法编写工具)                                                    http://www.cryptol.net
+GunPG(邮件加密工具)                                                           https://www.gnupg.org
+
+
+网络
+
+wildless                                                                                  http://www.wildlee.org
+Tcpreplay                                                                               http://tcpreplay.synfin.net
+西电信安协会                                                                          http://xdsec.org
+WireShark(网络封包分析软件)                                                 http://www.wireshark.org
+Fping(类ping程序)                                                                 http://fping.org
+
+
+
+下载软件
+
+FrostWire                                                                               http://www.frostwire.com
+BitTorrent                                                                              http://www.bittorrent.com
+P2Psearcher                                                                          http://soft.p2psearcher.org
+
+
+
+
+BitCloud(用分散式系统代替整个网络)                                     http://bitcloudproject.org
+
+
+PacketFence(网络接入控制)                                                  http://www.packetfence.org
+
+
+
+网络发现和绘图的安全工具
+
+OpenAudit                                                                                http://open-audit.org
+NetSurveyorWIFIScanner                                                         http://nutsaboutnets.com/netsurveyor-wifi-scanner
+AdvancedIPScanner                                                                 http://www.advanced-ip-scanner.com
+NetworkMapping                                                                     http://www.spiceworks.com/free-network-mapping-software
+Fing                                                                                            http://www.overlooksoft.com
+CheopsNG                                                                                 http://cheops-ng.sourceforge.net
+OpenNMS                                                                                 http://www.opennms.org
+NetworkView                                                                            http://www.networkview.com
+Nmap                                                                                        http://nmap.org
+AngryIPScanner                                                                       http://angryip.org
+
+
+开源安全工具
+
+http://netsecurity.51cto.com/art/201404/435105.htm
+
+OpenDLP                                                        https://code.google.com/p/opendlp
+MyDLP                                                            http://www.mydlp.com
+ScrolloutF1                                                     http://www.scrolloutf1.com
+MailScanner                                                   http://www.mailscanner.info
+SpamAssassin                                                 http://spamassassin.apache.org
+P3Scan                                                            http://p3scan.sourceforge.net
+IPFire                                                               http://www.ipfire.org
+FireStarter                                                       http://www.fs-security.com
+KMyFirewall                                                    http://www.kmyfirewall.org
+Leaf                                                                 http://leaf.sourceforge.net
+Smoothwall                                                    http://www.smoothwall.org
+pfSense                                                           https://www.pfsense.org
+BackTrack                                                       http://www.backtrack-linux.org
+EnGrade                                                          http://www.engardelinux.org
+Ipredia                                                             http://www.ipredia.org
+Liberte                                                             http://dee.su/liberte
+Lipose                                                              http://www.spi.dod.mil/lipose.htm
+Matriux                                                            http://www.matriux.com
+NetSecl                                                            http://netsecl.com
+PwnPi                                                              http://pwnpi.sourceforge.net
+Cryptohaze                                                      http://www.cryptohaze.com
+John the Ripper                                              http://www.openwall.com/john
+PDFCrack                                                         http://pdfcrack.sourceforge.net
+Metasploit                                                       http://www.metasploit.com
+Nexpose                                                          http://www.rapid7.com/products/nexpose
+Ettercap                                                           http://ettercap.github.io/ettercap
+Katana                                                             http://www.hackfromacave.com/katana.html
+Nikto2                                                             http://www.cirt.net/nikto2
+OpenVAS                                                        http://www.openvas.org
+Samurai                                                          http://samurai.inguardians.com
+W3af                                                               http://w3af.org
+Wapiti                                                             http://wapiti.sourceforge.net
+DansGuardian                                                http://dansguardian.org
+Universal Password Manager                       http://upm.sourceforge.net
+MyWOT                                                          https://www.mywot.com
+PasswordMaker                                             http://www.passwordmaker.org
+
+
+
+八大网络安全开源框架
+
+Bro                                                              http://www.bro.org (网络分析和安全监控)
+Moloch                                                       https://github.com/aol/moloch (IPv4 PCAP，用于索引和收集数据库系统)
+OSSEC                                                         http://www.ossec.net (监控和控制用户系统)
+MIDAS                                                        https://github.com/etsy/MIDAS (开发Mac入侵检测分析系统的框架)
+OSXAuditor                                                https://github.com/jipegit/OSXAuditor (Mac OS X计算机取证工具)
+Cuckoo                                                       http://www.cuckoosandbox.org (恶意软件分析系统)
+Brakeman                                                   http://brakemanscanner.org (检测Ruby on Rails应用程序的安全漏洞)
+Mozdef                                                       http://mozdef.readthedocs.org (自动处理安全事件处理程序，并实时调用事件处理程序)
+
+
+
+
+
+
+

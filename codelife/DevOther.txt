@@ -1,0 +1,61 @@
+OAuth                                                                                    http://oauth.net (安全认证)
+HelloJS                                                                                  http://adodson.com/hello.js(JS版OAuth框架)
+
+Unirest                                                                                   http://unirest.io(轻量级Http开发库，支持多语言)
+
+
+
+Koala(前端预处理语言编译工具)                                              http://koala-app.com
+
+
+
+
+RareWire                                                                                   http://rarewire.com
+
+
+
+Hana中国                                                                                   http://www.hanainchina.net
+
+CodePen                                                                                    http://codepen.io
+
+Mochi                                                                                        https://github.com/enyojs/mochi
+
+
+JSON官网                                                                                    http://www.json.org
+
+OpenCL                                                                                       http://www.khronos.org/opencl
+Clogs(OpenCL的C++封装库)                                                      http://sourceforge.net/apps/trac/clogs
+
+
+DSAL(数据结构和算法库)                                                             http://sourceforge.net/projects/dsal
+
+LensKit                                                                                         http://lenskit.grouplens.org
+EasyRec                                                                                        http://easyrec.org (可视化管理的推荐系统)
+Waffles                                                                                        http://waffles.sourceforge.net (机器学习工具包)
+
+
+单点登录
+
+Lemonldap::NG（Perl）                                                    http://lemonldap-ng.org
+CAS( Java)                                                                       http://www.jasig.org/cas
+Josso(Java Php Asp)                                                       http://www.josso.org
+IdCheck(Linux C/PHP/Perl)                                           http://idcheck.sourceforge.net
+HybirdAuth(PHP)                                                           http://hybridauth.sourceforge.net
+KeyCloak(SSO集成方案)                                                 http://keycloak.org
+
+
+WebService服务
+
+Hessian                                                                            http://hessian.caucho.com
+Missian                                                                            https://code.google.com/p/missian
+CXF(Service框架)                                                             http://cxf.apache.org
+
+
+
+
+
+Liblunar(农历函数库)                                                        https://code.google.com/p/liblunar
+
+
+Wmconfig(菜单生成器)                                                     https://www.arrishq.net
+

@@ -1,0 +1,24 @@
+QT                                                                                            http://qt-project.org
+QT                                                                                            http://www.qt.io
+Hypercube                                                                              http://tumic.wz.cz/hypercube
+QTCreator(IDE)                                                                       https://github.com/qtproject/qt-creator
+QDevelop(IDE)                                                                        https://code.google.com/p/qdevelop
+QCFramer                                                                                https://github.com/dragondjf/QCFramer
+
+
+
+
+
+Racket(Lisp分支)                                                                      http://racket-lang.org
+LittleLisp(Lisp解释器)                                                               http://maryrosecook.com/blog/post/little-lisp-interpreter
+CommonLisp                                                                           http://common-lisp.net
+GoLio                                                                                        http://tianyicui.com/golio
+Lime(类Lisp)                                                                             https://github.com/apresta/lime
+newLISP                                                                                   http://www.newlisp.org
+
+
+
+
+Fortran                                                                                    http://www.fortran.com
+G95(编译器)                                                                                 http://www.g95.org
+Photran(Eclipse插件)                                                             http://www.eclipse.org/photran

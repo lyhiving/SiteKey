@@ -1,0 +1,87 @@
+Cocos开发者平台                                                                     http://open.cocoachina.com
+
+Alcatraz(XCode包管理器)                                                              http://alcatraz.io
+Cocoapods(OC依赖管理器)                                                           http://cocoapods.org
+MacPorts(Mac上软件安装工具)                                                     http://www.macports.org
+XCode                                                                                            https://developer.apple.com/xcode
+Metal(游戏开发)                                                                             https://developer.apple.com/metal
+HealthKit                                                                                       https://developer.apple.com/healthkit
+HomeKit                                                                                        https://developer.apple.com/homekit
+Github For Mac                                                                             https://mac.github.com
+HomeBrew(OS X包管理工具)                                                         http://brew.sh
+SourceTree(Git和Mercurial客户端-免费)                                      http://www.sourcetreeapp.com
+Nomad(iOS开发命令行工具集)                                                       http://nomad-cli.com
+CocoaLumberjack(Mac和iOS平台日志框架)                                 https://github.com/CocoaLumberjack/CocoaLumberjack
+Dash(浏览API文档的工具)                                                              http://kapeli.com/dash
+Textmate(轻量级编辑器)                                                                http://macromates.com
+SublimeText(轻量级编辑器)                                                           http://www.sublimetext.com
+Kiwi(单元测试)                                                                                https://github.com/allending/Kiwi
+Cedar(单元测试)                                                                             https://github.com/pivotal/cedar
+Specta(单元测试)                                                                            https://github.com/specta/specta
+TestFlight(iOS测试平台)                                                                 https://www.testflightapp.com
+Mou(Markdown编辑器)                                                                http://mouapp.com
+Base(Sqlite工具)                                                                            http://menial.co.uk/base
+Transmit(FTP客户端)                                                                     http://panic.com/transmit
+Charles                                                                                          http://www.charlesproxy.com (查看所有HTTP和SSL/HTTPS流量的工具)
+
+
+
+
+XCode插件
+CodePilot                                                         http://codepilot.cc (V5插件;无需鼠标在项目中快速方便地查找文件、方法和符号)
+XcodeBoost                                                     https://github.com/fortinmike/XcodeBoost (代码检查和修改)
+ClangFormat-Xcode                                        https://github.com/travisjeffery/ClangFormat-Xcode (代码格式化)
+XAlign                                                              https://github.com/qfish/XAlign (代码整理)
+KSImageNamed-Xcode                                  https://github.com/ksuther/KSImageNamed-Xcode (自动补全图片名称)
+FuzzyAutocomplete          https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin (代码自动补全，兼容KSImageNamed)
+BBUDebugerTuckAway                                  https://github.com/neonichu/BBUDebuggerTuckAway (自动隐藏Debugger)
+DashPluginForXcode                                      https://github.com/omz/Dash-Plugin-for-Xcode (Dash文档查看器)
+HOStringSense                                                https://github.com/holtwick/HOStringSense-for-Xcode (大段文本插件)
+XToDo                                                              https://github.com/trawor/XToDo (注释辅助)
+ColorSense                                                       https://github.com/omz/ColorSense-for-Xcode(Xcode颜色插件)
+
+
+
+博客
+
+苹果教程网                                                                                     http://www.ppios.com
+苹果学院                                                                                     http://www.mei521.com
+
+
+
+
+Swift
+
+Swift(编程语言)                                           https://developer.apple.com/swift
+Swift                                                           http://swift-lang.org
+SwiftV课堂                                                  http://www.swiftv.cn         http://v.swiftv.cn   
+SwiftChina                                                  http://swift.sh
+SwiftLang                                                   http://swiftlang.com.cn
+LetsSwift                                                     http://letsswift.com
+SwiftGuide                                                 http://www.swiftguide.cn 
+Swift编程语言                                             http://numbbbbb.github.io/the-swift-programming-language-in-chinese/
+Swift论坛                                                    http://os-swift.com
+Swift2048                                                   https://github.com/austinzheng/swift-2048
+SwiftFlappy                                                https://github.com/fullstackio/FlappySwift
+Swift中文                                                    http://www.swiftcn.cc
+Swiftist社区                                                http://swiftist.org
+HelloSwift                                                  http://www.helloswift.com.cn
+Swift开发者                                                http://www.swift-open.com    http://www.swift-open.cn
+NSHipster                                                  http://nshipster.com
+Swift联盟                                                   http://www.swifteach.com
+Alamofire                                                  https://github.com/Alamofire/Alamofire(Http工具包)
+OSChina专题                                             http://www.oschina.net/question/2012764_183310
+
+
+
+苹果越狱
+
+盘古越狱                                                     http://pangu.io
+iTools                                                         http://itools.cn
+52Cydia                                                      http://www.52cydia.com
+evasiOn中文                                               http://www.evasi0n-cn.com
+evasiOn                                                      http://evasi0n.com
+
+
+
+

@@ -1,0 +1,235 @@
+PHP官网                                                                                  http://www.php.net
+PHP100中文网                                                                       http://www.php100.com
+ThinkPHP                                                                               http://www.thinkphp.cn
+OneThink                                                                               http://www.onethink.cn
+ThinkOX(基于OneThink)                                                       http://op.ourstu.com
+Medoo(数据库框架)                                                               http://medoo.in
+Zend                                                                                       http://framework.zend.com
+ReactPHP                                                                               http://reactphp.org
+Swoole(高性能高并发框架)                                                     http://www.swoole.com
+CodeIgniter                                                                             http://codeigniter.org.cn
+Yii                                                                                            http://www.yiiframework.com
+YiiChina                                                                                   http://www.yiichina.com
+MelonFramework                                                                  http://framework.melonol.com
+Laravel(Web框架)                                                                   http://www.golaravel.com
+Composer中文网                                                                     http://www.phpcomposer.com(依赖管理工具)
+Medoo(SQL框架)                                                                    http://medoo.in
+CakePHP                                                                                http://cakephp.org
+Symfony(MVC框架)                                                                http://symfony.com
+AuraPHP                                                                                 http://auraphp.com
+FatFree                                                                                    http://fatfreeframework.com
+PHPMVC                                                                                http://www.php-mvc.net
+Kohana                                                                                   http://kohanaframework.org
+Slim                                                                                         http://www.slimframework.com
+PHPixie                                                                                  http://phpixie.com
+MyQEE                                                                                   http://www.myqee.com
+Phalcon                                                                                 http://phalconphp.com/zh
+CanPHP                                                                                 http://www.canphp.com
+LessPHP                                                                                 http://lessphp.gpeasy.com
+SpeedPHP                                                                             http://www.speedphp.com
+PHPWind框架                                                                       http://www.phpwind.com/windframework
+ThinkCMF                                                                              http://www.thinkcmf.com
+MicroPHP                                                                             http://microphp.us
+CrossPHP                                                                              http://www.crossphp.com
+PhpWind论坛                                                                        http://www.phpwind.net
+PHPChina                                                                              http://www.phpchina.com
+兄弟连                                                                                     http://www.lampbrother.net
+PHP学习网                                                                              http://www.phpdoor.com
+PHP网站访问统计                                                                    http://piwik.org
+叶子树                                                                                     http://yezis.cn
+PhpMyAdmin                                                                        http://www.phpmyadmin.net
+KingPHP                                                                                 http://kingphp.com
+Phper                                                                                      http://www.php230.com
+PHP编程                                                                                  http://www.phpbc.net
+WEB鱼                                                                                     http://www.web-fish.com
+OnePHPer                                                                               http://www.php230.com
+PHP云                                                                                      http://www.phpyun.com
+PHPpan                                                                                   http://www.phppan.com
+ITF5                                                                                          http://www.itf5.com
+PHP贴吧                                                                                  http://tieba.baidu.com/f?kw=php
+PHP点点通                                                                               http://www.phpddt.com
+PHP分享网                                                                               http://www.fenanr.com
+Typecho                                                                                  http://typecho.org
+Typecho模板                                                                           http://typecho.me
+蝉知                                                                                         http://www.chanzhi.org
+开源部落                                                                                  http://www.phplo.com
+AMySQL(LNMP开发)                                                              http://www.amysql.com
+LNMP100                                                                               http://www.lnmp100.com
+Typecho(开源博客)                                                                 http://typecho.org
+PThreads(PHP多线程支持)                                                     https://github.com/krakjoe/pthreads
+Robbe(PHP中文分词)                                                            http://git.oschina.net/lionsoul/robbe
+Webasyst                                                                               http://www.webasyst.com
+GuzzlePHP                                                                            http://docs.guzzlephp.org (开发RESTful web service)
+FuelPHP                                                                                http://fuelphp.com
+Laravel                                                                                  http://laravel.com
+PSX(web框架)                                                                       http://phpsx.org
+MicroPHP                                                                             http://microphp.us
+DiliCMS                                                                                 http://www.dilicms.com
+SeedDMS(文档管理系统)                                                      http://www.seeddms.org
+SinglePHP                                                                            https://github.com/leo108/SinglePHP
+HHVM(PHP编译器)                                                              https://github.com/facebook/hhvm （据说比官方的快9倍 FaceBook提供）
+SeasLog                                                                                https://github.com/Neeke/SeasLog
+PHPServerMonitor                                                              http://www.phpservermonitor.org
+RoundcubeWebMail                                                          http://roundcube.net(邮件IMAP客户端)
+SquirrelMail                                                                        http://www.squirrelmail.org (WebMail)
+PSX(Web框架)                                                                     http://phpsx.org
+Mallmold(摩登外贸系统)                                                     http://www.mallmold.cn
+Mage+(网店系统)                                                                https://github.com/mageplus/mageplus
+PrestaShop(网店系统)                                                         http://www.prestashop.com
+Magento(网店系统)                                                            http://magento.com
+Tipask                                                                                 http://www.tipask.com
+Owl(文档管理系统)                                                              http://www.doxbox.ca
+PHPRedis(操作Redis的模块)                                              https://github.com/nicolasff/phpredis
+Go! (AOP框架)                                                                    http://go.aopphp.com
+Medoo(PHP的SQL框架)                                                     http://medoo.in
+PCache(本地缓存扩展)                                                        https://github.com/liexusong/pcache
+PHP嘉友站                                                                          http://www.phpjyz.com
+天涯PHP博客                                                                       http://blog.phpha.com
+PHP二次开发                                                                       http://www.php2.cc
+PHPThinking                                                                      http://www.phpthinking.com
+欧百PHP社区                                                                       http://www.oobai.com
+
+
+Parse(移动应用服务后台)                                                    https://www.parse.com    https://github.com/parseplatform/parse-php-sdk                                                                                 
+
+PHP调试器
+PHPUnit                                                                                 http://phpunit.de
+Pinba(性能监视器)                                                                 http://pinba.org
+Kint                                                                                        http://raveren.github.io/kint
+Phpmd(探测源码问题)                                                           http://phpmd.org
+Phpdebugbar                                                                       http://phpdebugbar.com
+Whoops                                                                                http://filp.github.io/whoops
+Xdebug                                                                                 http://www.xdebug.org
+Krumo                                                                                   http://krumo.kaloyan.info
+Peridot                                                                                  http://peridot-php.github.io
+
+
+PHP图像操作库
+Imagine                                                                                 http://imagine.readthedocs.org
+PHPGraphicWorks                                                                http://wiseloop.eu/product/php-graphic-works
+ZebraImage                                                                          http://stefangabos.ro/php-libraries/zebra-image
+PHP5Image                                                                          https://code.google.com/p/php5-image
+DummyImage                                                                       http://dummyimage.com
+WideImage                                                                           http://wideimage.sourceforge.net
+ImageCache                                                                          http://nielse63.github.io/php-image-cache
+ImageWorkshop                                                                   http://phpimageworkshop.com
+Asido                                                                                     http://asido.info
+PHPThumb                                                                           http://phpthumb.sourceforge.net
+
+
+
+
+
+Python语言
+
+Python官方                                                                             http://www.python.org
+PythonTip                                                                               http://www.pythontip.com
+Pythoner                                                                                 http://www.pythoner.cn
+Python论坛                                                                             http://www.itlong.com  
+IPython(命令行交互)                                                               http://ipython.org
+PySkool                                                                                   http://pyskool.com   
+PythonMonk                                                                          https://pythonmonk.com  
+Jython                                                                                     http://www.jython.org
+Cython                                                                                    http://cython.org
+Django                                                                                    https://www.djangoproject.com
+Flask                                                                                        http://flask.pocoo.org
+CloudSetuper                                                                         http://setup.qframer.com(软件打包工具)
+Mahotas(图像处理库)                                                             http://luispedro.org/software/mahotas
+Tornado(Web服务器)                                                  http://www.tornadoweb.org
+Tornado中文                                                                           http://www.tornadoweb.cn
+SQLAlchemy(面向对象映射框架)                                                 http://www.sqlalchemy.org
+啄木鸟社区                                                                               http://woodpecker.org.cn
+PythonTab                                                                              http://www.pythontab.com
+PythonChina                                                                          http://python-china.org
+Python中文                                                                             http://www.python-cn.cn
+老王Python                                                                             http://www.cnpythoner.com
+The5Fire                                                                                  http://www.the5fire.com
+Pies(Python2和Python3的兼容层)                                         https://github.com/timothycrosley/pies         
+PyIndex                                                                                   http://www.pyindex.com
+PythonFan                                                                              http://www.pythonfan.org     
+WxPython(桌面图形库)                                                           http://wxpython.org    
+Python中国                                                                             http://www.okpython.com  
+Scrapy(网络爬虫)                                                                    http://scrapy.org      
+Pip(python包安装与管理)                                                       http://www.pip-installer.org    
+SimpleJson                                                                             https://pypi.python.org/pypi/simplejson                                            
+Python贴吧                                                                             http://tieba.baidu.com/f?kw=python
+WeRobot(微信机器人框架)                                                     https://werobot.readthedocs.org
+DjangoSites                                                                           http://www.djangosites.org
+Pygame                                                                                  http://www.pygame.org
+IPlayPython                                                                            http://www.iplaypython.com
+Jug(并行框架)                                                                         http://luispedro.org/software/jug
+Goagent(翻墙)                                                                        https://code.google.com/p/goagent
+Radon                                                                                     https://radon.readthedocs.org
+PonyORM                                                                               http://ponyorm.com
+
+Babel(国际化库)                                                                      http://babel.pocoo.org
+Dejavu(声纹识别算法)                                                             https://github.com/worldveil/dejavu
+Pulsar(Web框架)                                                                     http://quantmind.github.io/pulsar
+PythonSchool                                                                         http://www.pythonschool.com
+DjangoBook                                                                           http://djangobook.py3k.cn
+Pyinsane(扫描仪)                                                                    https://github.com/jflesch/pyinsane
+Genius(中文分词器)                                                                https://github.com/duanhongyi/genius
+Web2py(Web框架)                                                                 http://www.web2py.com
+Webpy                                                                                     http://webpy.org
+CubicWeb                                                                                http://www.cubicweb.org
+Zope                                                                                        http://zope2.zope.org
+Pyramid                                                                                   http://www.pylonsproject.org/projects/pyramid
+PyQt(Python版Qt库)                                                               http://www.riverbankcomputing.com/software/pyqt
+Pandas(可扩展数据操作与分析)                                               http://pandas.pydata.org
+PyChina(中国社区)                                                                   http://pychina.org
+PyConChina(Python中国大会)                                                http://cn.pycon.org
+TwistedMatrix                                                                          https://twistedmatrix.com
+MyPy(Python的变种)                                                               http://www.mypy-lang.org
+Pyocr(OCR的Python封装)                                                        https://github.com/jflesch/pyocr
+Pynag(Nagios配置和插件管理)                                                http://pynag.org
+Yaha(中文分词)                                                                        https://github.com/jannson/yaha
+结巴中文分词                                                                            https://github.com/fxsjy/jieba
+PyInstaller(打包工具)                                                               http://www.pyinstaller.org
+SQLObject(ORM)                                                                    http://sqlobject.org
+Motor(MongoDB驱动)                                                           https://motor.readthedocs.org
+Pyston(Dropbox开源Python解释器)                                      https://github.com/dropbox/pyston
+Frosted(语法检查器)                                                                https://github.com/timothycrosley/frosted
+Pydiction                                                                                http://rkulla.github.io/pydiction (vim 的 Python 代码自动完成插件)
+SQLAlchemy(ORM)                                                                http://www.sqlalchemy.org
+IMDbPy                                                                                   http://imdbpy.sourceforge.net (程序员可以通过它来轻松访问 IMDb 的数据)   
+Veusz(科学图表库)                                                                   http://home.gna.org/veusz
+ScikitLearn(Python机器学习模块)                                           http://scikit-learn.org
+TwistedMatrix                                                                         https://twistedmatrix.com (网络服务和应用程序的编程框架)
+PythonAPI                                                                               http://www.pythonapi.com
+PyQt                                                                                         http://www.riverbankcomputing.com/software/pyqt
+Pydev                                                                                       http://pydev.org (Eclipse的Python开发插件)
+PythonJS(Python转Javascript)                                               https://github.com/PythonJS/PythonJS
+Minfx(数学计算模块)                                                                https://gna.org/projects/minfx
+Watchy(分布式监控系统)                                                          http://redbrain.github.io/watchy
+PyGit                                                                                         https://github.com/libgit2/pygit2
+
+
+Django                                                                                    https://www.djangoproject.com
+DjangoREST                                                                            http://www.django-rest-framework.org(REST框架)
+Diesel                                                                                       http://diesel.io (I/O框架，支持TCP和UDP)
+Cubes                                                                                       http://cubes.databrewery.org (OLAP框架)
+kartograph.py                                                                          https://github.com/kartograph/kartograph.py (矢量地图框架)
+Pulsar                                                                                       https://github.com/quantmind/pulsar (事件驱动并行框架)
+Falcon                                                                                      http://falconframework.org
+Dpark                                                                                       https://github.com/douban/dpark (分布式计算框架，Python版Spark)
+BuildBot                                                                                   http://buildbot.net(自动构建测试工具)
+ZeroRPC                                                                                   https://github.com/dotcloud/zerorpc-python (RPC框架)
+Bottle                                                                                       http://www.bottlepy.org
+Kivy                                                                                          http://kivy.org
+
+
+
+python开发工具
+
+Pycharm(收费)                                                                        https://www.jetbrains.com/pycharm
+EricIDE                                                                                    http://eric-ide.python-projects.org
+Pydev(Eclipse插件)                                                                 http://pydev.org
+Codemension                                                                         http://satsky.spb.ru/codimension
+Netbeans                                                                                 https://netbeans.org
+Ulipad                                                                                     http://code.google.com/p/ulipad
+
+Python打包工具
+
+CloudSetuper                                                                          http://setup.qframer.com(在线打包工具)
+PyInstaller                                                                                http://www.pyinstaller.org
+

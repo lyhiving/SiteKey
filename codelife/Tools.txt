@@ -1,0 +1,57 @@
+网盘地址
+
+飞猫网盘                                                                           http://www.fmdisk.com
+360云盘                                                                            http://yunpan.360.cn
+百度云                                                                              http://yun.baidu.com
+
+
+制作优盘安装系统工具
+
+WinSetupFromUSB                                                           http://www.winsetupfromusb.com (支持Windows、Linux、WindowsPE)
+
+
+
+
+
+文件比较工具
+ 
+Kaleidoscope(Mac软件)                                                      http://www.kaleidoscopeapp.com (商业软件)
+
+
+开放研究社区                                                                           http://openresearch.baidu.com
+CloudConvert(多媒体文件格式转换)                                       https://cloudconvert.org
+大软件                                                                                      http://www.cnol.cc
+网站卫士                                                                                  http://wangzhan.360.cn
+免费资源部落                                                                           http://www.freehao123.com
+换奇网                                                                                      http://www.huanqw.com
+screentogif                                                                             https://screentogif.codeplex.com
+cmder(Windows 提供的一个Linux控制台仿真器)                       http://bliker.github.io/cmder
+免费资源网                                                                              http://www.vipiu.net
+CHN免费资源                                                                          http://www.chnfree.com
+秀客数据聚合平台                                                                   http://open.showcoo.net
+金数据                                                                                      https://jinshuju.net
+VeryIDE                                                                                   http://www.veryide.com
+Talend                                                                                    http://www.talend.com
+MaHua(在线Markdown编辑工具)                                         http://mahua.jser.me
+Kramdown(Markdown解析器)                                            http://kramdown.gettalong.org
+文档管理                                                                                 http://www.ppm123.cn
+Burp(数据备份恢复)                                                                  http://burp.grke.org
+AutOrg(编辑工具)                                                                  http://autorg.dyne.org
+Clonezilla(Linux克隆工具)                                                    http://clonezilla.org
+Hugin                                                                                    http://hugin.sourceforge.net
+OpenDX                                                                                http://www.opendx.org
+GeneOntology                                                         http://www.geneontology.org
+Gimp                                                                                     http://www.gimp.org
+Graylog2(系统日志管理)                                                       http://www.graylog2.org
+OpenStreetMap(可编辑地图)                                              http://www.openstreetmap.org
+KityMinder                                                                           https://github.com/kitygraph/kityminder
+
+Pushbullet(多平台数据推送)                                                 https://www.pushbullet.com
+
+
+
+工具网址                            http://www.iteye.com/topic/1133685
+
+十款最新开源的开发者工具/应用                  http://www.csdn.net/article/2013-02-26/2814261-10-Source-Tools-or-Applications
+
+

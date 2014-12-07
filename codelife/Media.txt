@@ -1,0 +1,126 @@
+Mpg123(MPEG 播放器和解码器)                                                  http://mpg123.org
+CKPlayer(网页视频播放)                                                             http://www.ckplayer.com
+VLC(开源视频框架)                                                                      http://www.videolan.org/vlc
+KMPlayer                                                                                    http://www.kmplayer.com/
+MPC-HC(视频播放器)                                                                 http://mpc-hc.org
+K-Lite Codec Pack                                                                     http://www.codecguide.com
+LiVES(视频编辑播放)                                                                   http://lives.sourceforge.net
+SMPlayer(视频播放)                                                                   http://smplayer.sourceforge.net
+Splayer(Windows视频播放)                                                       http://www.splayer.org
+QtAV(音视频播放框架)                                                               http://wang-bin.github.io/qtav.org（基于Qt和FFmpeg）
+VKVideoPlayer(IOS)                                                                  https://github.com/viki-org/VKVideoPlayer
+Natron(视频合成软件)                                                                https://natron.inria.fr
+一起播                                                                                        http://each.fm
+GStreamer(视频框架)                                                                 http://gstreamer.freedesktop.org
+
+                                           
+
+
+FFMPEGPHP（php面向对象封装）                                            http://freecode.com/projects/ffmpegphp
+FFMPEG                                                                                      http://ffmpeg.org
+QtAV(音视频播放库)                                                                   http://wang-bin.github.io/qtav.org（基于Qt和FFMPEG）
+LibAV(音视频框架)                                                                      http://libav.org
+Qtractor(多轨音序生成器)                                                           http://qtractor.sourceforge.net
+MusicBee(音频播放器)                                                                http://getmusicbee.com
+PazeraAudioExtractor(音频提取器)                                            http://www.pazera-software.com/products/audio-extractor
+PortAudio(跨平台音频库)                                                     http://www.portaudio.com
+PyAudio(PortAudio的Python版)                                         http://people.csail.mit.edu/hubert/pyaudio
+PulseAudio                                                                          http://www.freedesktop.org/wiki/Software/PulseAudio
+Jamulus(混音工具)                                                       http://llcon.sourceforge.net
+Foobar2000(音频播放器)                                                     http://www.foobar2000.org
+EKO(音频编辑器)                                                                  http://semiletov.org/eko
+云知声                                                                                  http://www.unisound.com （智能语音交互）
+MuPlayer(音乐播放内核)                                                     http://labs.music.baidu.com/muplayer（百度）
+Kwave                                                                                  http://kwave.sourceforge.net
+NexusUI                                                                               http://www.nexusosc.com/nexusTutorials
+
+
+GraphicsMagick                                                                   http://www.graphicsmagick.org(基于ImageMagick)
+ImageMagick                                                                       http://www.imagemagick.org
+OpenCV                                                                                http://opencv.org
+OpenCV中文网站                                                                  http://www.opencv.org.cn
+OpenCVChina                                                                      http://www.opencvchina.com
+OpenGL                                                                                http://www.opengl.org
+OpenGL ES                                                                           http://www.khronos.org/opengles (针对嵌入式设备如：手机、平板)
+WebGL                                                                                 http://www.khronos.org/webgl
+Blend4Web                                                                          http://www.blend4web.com(WebGL框架)
+OpenCSG(使用OpenGL渲染)                                               http://www.opencsg.org
+Khronos(OpenGL开发者)                                                     http://www.khronos.org
+OGLplus(C++封装库)                                                           http://oglplus.org
+Nehe中文教程                                                                       http://www.yakergong.net/nehe
+HGL Suite (图像开发编译工具)                                             http://hgl.rangun.de
+LightZone(数码图像编辑工具)                                             http://www.lightzoneproject.org
+Mozjpeg(Jpeg图片处理)                                                             https://github.com/mozilla/mozjpeg
+JPGmini、PNGmini、WEBmini（图片压缩、JS/CSS压缩）       http://www.voralent.com
+Asymptote(矢量图形描述语言)                                            http://asymptote.sourceforge.net
+GraphLab                                                                            http://graphlab.org
+Converseen(批量图片处理工具)                                          http://converseen.sourceforge.net
+JFreeSVG                                                                           http://www.jfree.org/jfreesvg (Java的SVG库)
+Marvin(Java图像处理)                                                       http://marvinproject.sourceforge.net
+
+
+增强现实(AR)
+Vuforia(高通产品)                                                               https://www.vuforia.com
+
+
+
+Jing                                                                 http://www.techsmith.com/jing.html (截图/视频录制)
+QGifer                                                             http://sourceforge.net/projects/qgifer (截取电影片段转换成gif) 
+IPresst                                                             http://www.ipresst.com   (在线免费PPT幻灯片/相册/简历/电子杂志制作平台)
+TinyPNG                                                          https://tinypng.com(PNG 图片压缩优化工具)
+FreeStudio                                                      http://www.dvdvideosoft.com/cn/free-dvd-video-software.htm
+Free Screen Video Recorder                          http://www.dvdvideosoft.com/cn/products/dvd/free-screen-video-recorder.htm
+RingtoneMaker(铃声裁剪)                             http://friedcookie.com/product/ringtone-maker
+FreemakeVideoCoverter                                http://www.freemake.com/cn/free_video_converter
+
+
+
+
+PopcornTime(开源视频应用)                                       http://getpopcornti.me
+BitTorrent                                                                    http://www.bittorrent.com
+Arnold渲染器                                                               http://www.solidangle.com/arnold
+
+
+迪斯尼加速器                                                                http://disneyaccelerator.com
+
+Gallery(PHP的WEB相册管理)                                      http://galleryproject.org
+Piwigo(PHP的WEB相册管理)                                      http://cn.piwigo.org
+Phototonic(图片管理器)                                              http://oferkv.github.io/phototonic
+
+
+Mutiara(复杂图案设计工具)                                                  http://mutiara.sourceforge.net
+
+VTK                                                                                       http://www.vtk.org
+
+ViziCities(3D城市和数据可视化平台)                                http://vizicities.com
+
+
+DiffIMG(RGB图片比对工具)                                              http://sourceforge.net/projects/diffimg
+
+Hugin(全景摄像拼接)                                                        http://hugin.sourceforge.net
+
+DVDVideoSoft                                                                  http://www.dvdvideosoft.com/cn
+
+格式工厂                                                                            http://www.pcfreetime.com/CN/index.html
+
+Entangle(通过电脑控制单反相机拍照)                               http://entangle-photo.org
+
+Beets(多媒体管理系统)                                                       http://beets.radbox.org
+
+追光动画                                                                             http://www.zhuiguang.com
+
+StreamSDK                                                                        http://developers.streamapp.co (随时剪切分享)
+
+
+网络视频会议系统
+SILCNet                                                                              http://silcnet.org
+JMeeting                                                                           http://javameeting.sourceforge.net
+OpenH323                                                                         http://openh323.sourceforge.net
+Subrosa                                                                              https://subrosa.io (通讯平台)
+
+Rumpetroll(多人聊天基于HTML5)                                      https://github.com/danielmahal/Rumpetroll
+
+Tox(最安全免费的聊天工具)                                                https://tox.im
+
+DisplayPort(数字式视频接口标准)                                       http://www.displayport.org
+

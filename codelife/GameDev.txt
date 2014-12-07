@@ -1,0 +1,216 @@
+游戏引擎
+Unity3D                                                                                     https://unity3d.com
+Cocos2d-x                                                                                 http://www.cocos2d-x.org
+Cocos2d中文                                                                             http://cn.cocos2d-x.org
+Godot(类Unity)                                                                         http://www.godotengine.org
+Genesis3D                                                                                http://www.genesis-3d.com.cn
+Pomelo                                                                                    http://pomelo.netease.com(网易柚子)
+Firefly                                                                                        http://firefly.9miao.com (9秒社团萤火虫)
+Wave                                                                                        http://waveengine.net
+Sparrow(IOS)                                                                            http://gamua.com/sparrow
+Xith3D                                                                                      http://www.xith.org
+Cyclone2D                                                                               http://www.cyclone2d.cn
+GameQuery                                                                             http://www.gamequeryjs.com
+Gamesalad                                                                              http://gamesalad.com
+Wagic                                                                                       http://www.wololo.net
+PhysicsJS                                                                                 http://wellcaffeinated.net/PhysicsJS
+StageXL                                                                                    http://www.stagexl.org
+Phaser(2D)                                                                              http://phaser.io
+CraftyJS                                                                                    http://craftyjs.com
+GMP                                                                                         http://gogomakeplay.com
+LycheeJS                                                                                  http://lycheejs.org
+Enchant                                                                                   http://enchantjs.com
+TheRenderEngine                                                                   http://bfattori.github.io/TheRenderEngine
+JsGameSoup                                                                            http://jsgamesoup.net
+CssGameEngine                                                                       https://sites.google.com/site/cssgameengine
+GTile                                                                                         http://game.tyler-dewitt.com
+J5g3                                                                                          http://j5g3.com
+Jaws                                                                                          http://jawsjs.com
+CopperLicht                                                                             http://www.ambiera.com/copperlicht
+Ejoy2D                                                                                      https://github.com/cloudwu/ejoy2d
+VPlay(2D引擎)                                                                          http://v-play.net
+Gamebryo                                                                                http://www.gamebryo.com
+Starling(ActionScript)                                                             http://gamua.com/starling
+TheRenderEngine                                                                   http://bfattori.github.io/TheRenderEngine
+CopperLicht                                                                             http://www.ambiera.com/copperlicht
+GamePlay3D                                                                            http://www.gameplay3d.org
+OGRE3D(面向对象图形渲染引擎)                                              http://www.ogre3d.org （C++开发）
+TrafficCone                                                                               https://github.com/j03m/trafficcone
+JGen                                                                                        https://github.com/angrycoding/jgen
+LibGDX                                                                                    http://libgdx.badlogicgames.com   http://www.libgdx.com  
+Pulse                                                                                        http://www.withpulse.com
+Gzochi                                                                                     http://www.nongnu.org/gzochi
+PixiJS                                                                                       https://github.com/GoodBoyDigital/pixi.js
+Castle(3D引擎)                                                                        http://castle-engine.sourceforge.net
+KBEngine                                                                                http://www.kbengine.org (大型多人在线游戏服务端引擎)
+AppGameKit                                                                           http://www.appgamekit.com
+ProjectAnarchy                                                                       http://www.projectanarchy.com
+CoronaSDK                                                                             http://coronalabs.com/products/corona-sdk
+SIO2                                                                                         http://sio2interactive.com
+BabylonJS                                                                                http://www.babylonjs.com(3D，微软背景)
+WebGL                                                                                     https://github.com/playcanvas/engine
+LoomSDK                                                                                 http://www.loomsdk.com (2D,跨平台)
+Coconut2D                                                                              http://www.coconut2d.org
+AndEngine                                                                              http://www.andengine.org
+OGEngine                                                                                http://www.ogengine.com(AndEngine分支)
+FlashJS                                                                                     http://flashjs.com
+Irrlicht                                                                                       http://irrlicht.sourceforge.net
+Panda3D                                                                                  http://www.panda3d.org
+JMonkeyEngine                                                                      http://jmonkeyengine.org
+UnrealEngine                                                                          https://www.unrealengine.com
+Firmament(2D)                                                                        https://github.com/martamius/Firmament
+
+Html5引擎
+MelonJS                                                                                   http://www.melonjs.org
+LimeJS                                                                                      http://www.limejs.com
+Egret                                                                                       http://www.egret-labs.org
+CutJS                                                                                        http://cutjs.org
+Turbulenz                                                                                http://biz.turbulenz.com
+Akihabara                                                                               http://www.kesiev.com/akihabara
+CreateJS                                                                                   http://createjs.com
+Sirius2D                                                                                   http://sirius2d.com
+Html5Quintus                                                                           http://html5quintus.com
+IsogenicGameEngine                                                              http://www.isogenicengine.com
+GA                                                                                            https://ga.me
+CanvasEngine                                                                         http://canvasengine.net
+Squarepig                                                                               https://github.com/aeonofdiscord/squarepig
+Playcraft                                                                                  http://playcraftlabs.com
+ImpactJS                                                                                 http://impactjs.com
+Collie                                                                                       http://jindo.dev.naver.com/collie
+FlashJS                                                                                    http://flashjs.com
+Famous                                                                                   https://github.com/famous/famous
+KiwiJS                                                                                     http://www.kiwijs.org
+Molecule                                                                                http://www.moleculejs.net
+Flag(2D)                                                                                 http://www.flagamengine.com  https://github.com/flagamengine/FLAG
+Quintus                                                                                    http://html5quintus.com
+ PixiJS                                                                                     http://www.pixijs.com
+
+Android引擎
+
+
+
+                                                                            
+
+
+游戏博客
+
+9秒社团                                                                                      http://www.9miao.com
+9Ria                                                                                           http://www.9ria.com
+游戏蛮牛                                                                                    http://www.unitymanual.com
+UnityGame                                                                                http://www.unitygame.cn
+Unity圣典                                                                                  http://game.ceeger.com
+Unity3D论坛                                                                             http://www.u3dpro.com/index.php
+Scut                                                                                           http://www.scutgame.com
+泰然网                                                                                        http://www.ityran.com
+Cocos2D开发网                                                                         http://www.cocos2dev.com
+手游研发网                                                                                http://www.58player.com
+无脑码农                                                                                    http://www.iserfs.com
+火龙游戏                                                                                    http://www.firedragonpzy.com.cn
+Kamcord                                                                                   https://www.kamcord.com
+Cocostudio                                                                               http://www.cocostudio.org
+CodeCombat(编程游戏)                                                           http://codecombat.com
+网易游戏开发                                                                            http://itown.163.com/sdk
+一个人的手游开发之旅                                                              http://mobile.51cto.com/market-432103.htm
+DinoUI                                                                                     http://www.dinoui.com
+Html5GameDevs                                                                     http://www.html5gamedevs.com
+Html5游戏开发者社区                                                              http://html5gamedev.org
+Linux游戏基地                                                                          http://www.linuxgamebase.com
+Stencyl(游戏创作平台)                                                             http://www.stencyl.com
+PlayCanvas                                                                              https://playcanvas.com
+
+
+
+
+编辑工具
+
+LiveCode                                                                                  http://livecode.com
+GameMei                                                                                 http://gamemei.com
+DragonBones                                                                          http://dragonbones.github.com(骨骼动画编辑插件)
+TexturePacker                                                                         http://www.codeandweb.com/texturepacker (SpriteSheet编辑工具)
+PhysicsEditor                                                                           http://www.codeandweb.com/physicseditor
+GameMaker                                                                             https://www.yoyogames.com/studio
+Construct(HTML5)                                                                   https://www.scirra.com/construct2
+GiderosMobile                                                                         http://giderosmobile.com
+GameEditor                                                                              http://game-editor.com
+MultimediaFusion2                                                                 http://www.clickteam.com/multimedia-fusion-2
+Marmalade                                                                              https://www.madewithmarmalade.com
+ShiVa3D                                                                                   http://www.stonetrip.com
+CocosCodeIDE                                                                         http://www.cocos2d-x.org/products/codeide
+
+
+游戏工具
+KTPlay(游戏社交引擎)                                                              http://cn.ktplay.com
+PK手游语音                                                                              http://pk.im
+Kamcord(手游视频录制)                                                          https://www.kamcord.com
+
+
+
+
+
+
+
+
+游戏综合资源
+WildfireGames游戏平台                                                           http://play0ad.com
+游戏创作                                                                                   http://inpla.net
+第九游戏资源网                                                                         http://www.then9.com
+91手册                                                                                      http://www.91shouce.com
+91做游戏                                                                                  http://www.91zyx.com
+鸟哥笔记                                                                                   http://www.niaogebiji.com
+游戏数据分析                                                                            http://www.xuefenxi.com
+手游那点事                                                                                http://www.sykong.com
+游戏葡萄                                                                                   http://youxiputao.com
+游戏人脉网                                                                               http://www.gamerenmai.com
+游资网                                                                                      http://www.gameres.com
+游戏邦                                                                                        http://gamerboom.com
+游戏魂                                                                                      http://www.youxihun.com
+游戏道                                                                                     http://www.youxidao.com.cn
+最评测                                                                                     http://www.zuipingce.com
+游戏大学                                                                                 http://www.youxidaxue.com
+漫域                                                                                        http://www.comicyu.com
+骄阳网                                                                                    http://www.joyyang.com
+乐活游戏人                                                                              http://www.lhgamer.com
+手游道                                                                                     http://www.apper8.com
+
+
+
+游戏推荐网站
+任玩堂                                                                                     http://www.appgame.com
+爱应用                                                                                     http://www.iapps.im
+多趣网                                                                                     http://www.duoqu.com
+乐逗游                                                                                     http://www.idreamsky.com
+着迷网                                                                                     http://www.joyme.com
+魔方网                                                                                     http://www.mofang.com
+
+开源游戏
+
+ChaosEsqueAnthology                                                          http://sourceforge.net/projects/chaosesqueanthology
+RigsOfRods                                                                             http://www.rigsofrods.com
+FreeCol                                                                                    http://www.freecol.org
+MARSGame                                                                             http://mars-game.sourceforge.net
+Conquests                                                                               http://homepage.ntlworld.com/mark.harman/conquests.html
+0A.D                                                                                        http://play0ad.com
+SpeedDreams                                                                         http://speed-dreams.org
+SuperTuxkart                                                                          http://supertuxkart.sourceforge.net
+Warzone2100                                                                         http://wz2100.net
+Glest                                                                                        http://glest.org
+Punch&Kick                                                                           http://sourceforge.net/projects/p-k
+StuntRally                                                                               http://code.google.com/p/vdrift-ogre
+StuntRally(网站)                                                                     http://www.desura.com/games/stunt-rally
+FlatRock                                                                                 https://github.com/FlatRockSoft
+
+110款有趣的开源游戏和应用                                                   http://os.51cto.com/art/201409/450512.htm
+
+游戏模拟器
+
+GBA4IOS                                                                                     http://gba4iosapp.com
+NDS4IOS                                                                                    http://nds4ios.angelxwind.net
+
+
+
+
+
+
+
+
+

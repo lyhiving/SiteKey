@@ -1,0 +1,112 @@
+MEAN                                                                                   http://www.mean.io (MongoDB+ExpressJS+AgularJS+NodeJS)
+
+NodeJS                                                                                  http://www.nodejs.org
+NPMJS                                                                                   https://www.npmjs.org (NPM包管理器)
+NodeOS                                                                                 http://node-os.com
+NodeJS文档                                                                           https://github.com/youyudehexie/node123
+NodeJS中文                                                                           http://nodejs.cn
+Nide(开发工具)                                                                      http://coreh.github.io/nide
+Node入门                                                                               http://www.nodebeginner.org/index-zh-tw.html
+NodeCloud                                                                            http://www.nodecloud.org
+NodeJS中文社区                                                                    http://cnodejs.org
+NodeJS教程（七天学会NodeJS）                                         http://nqdeng.github.io/7-days-nodejs
+NodeLessons                                                                         https://github.com/alsotang/node-lessons
+NodeDay                                                                               http://nodeday.com
+Roosevelt(Web框架)                                                             https://github.com/kethinov/roosevelt
+DevoPS                                                                                  http://devo.ps
+Nodemailer(邮件发送)                                                           http://www.nodemailer.com
+StrongLoop                                                                           http://strongloop.com
+
+Pomelo                                                                                  http://pomelo.netease.com (NodeJS框架)
+Bearcat                                                                                  http://bearcatnode.github.io/bearcat (NodeJS框架)
+Noduino                                                                                http://semu.github.io/noduino
+NodeWebkit                                                                          https://github.com/rogerwang/node-webkit
+PDFKit                                                                                    http://pdfkit.org
+Log.io                                                                                     http://logio.org
+Hyro                                                                                       http://jawerty.github.io/Hyro
+Haroopad                                                                              http://pad.haroopress.com/user.html
+Tiddlywiki5                                                                              http://tiddlywiki.com
+NodeClub                                                                              https://github.com/cnodejs/nodeclub
+AppJS(开发桌面程序)                                                             http://appjs.com
+SailsJS                                                                                   http://sailsjs.org
+ExpressIO                                                                              http://express-io.org
+Primus                                                                                  http://primus.io
+KeystoneJS                                                                           http://keystonejs.com
+Grasshopper                                                                         http://tuxychandru.github.io/grasshopper
+DozerJS                                                                                http://dozerjs.com
+ChocolateJS                                                                          https://chocolatejs.org
+DataChannel                                                                         https://datachannel.io
+UglifyJS(JS文件压缩)                                                             http://marijnhaverbeke.nl//uglifyjs
+Dojotoolkit                                                                           http://dojotoolkit.org
+Knockout                                                                              http://knockoutjs.com
+Nodyn(NodeJS在Java平台的兼容框架)                                 http://nodyn.io
+Nodeclipse(Eclipse的Node插件)                                          http://www.nodeclipse.org
+NodejsTools(VisualStudio插件)                                           https://nodejstools.codeplex.com
+Jade(NodeJs模板引擎)                                                          http://jade-lang.com
+Stylus(Css标记语言)                                                               http://learnboost.github.io/stylus
+Formaline(表单处理文件上传)                                               https://github.com/rootslab/formaline
+MasteringNode(电子书籍)                                                   http://visionmedia.github.io/masteringnode
+HiChat(NodeJS实现即时聊天)                                              https://github.com/wayou/hichat
+Hex                                                                                       http://hex.youdao.com (NodeJS+Html5开发桌面应用)
+Nami(AMI客户端)                                                                 http://marcelog.github.io/Nami
+LoveDan                                                                               http://blog.lovedan.cn
+Gitbook(电子书制作)                                                            http://www.gitbook.io
+Browserify                                                                            http://browserify.org
+PassportJS(认证中间件)                                                        http://passportjs.org
+EveryAuthy(第三方认证)                                                       http://everyauth.com
+NodeQt(Qt扩展)                                                                   http://documentup.com/arturadib/node-qt
+KrakenJS(Web框架)                                                             http://krakenjs.com
+Nodyn(Java版Node)                                                            http://nodyn.io
+LibNode(C++版Node)                                                         https://github.com/plenluno/libnode
+LoopBack                                                                              http://loopback.io
+ThinkJS                                                                                 http://www.thinkjs.org
+HapiJS                                                                                  http://hapijs.com
+Sequelize(ORM)                                                                  http://sequelizejs.com
+Gravit(在线设计工具)                                                            http://gravit.io    https://github.com/quasado/gravit
+
+最流行的开发框架
+ExpressJS                                                                              http://expressjs.com
+Geddy                                                                                   http://geddyjs.org
+Fleegix(Geddy教程)                                                              http://fleegix.org
+Derby                                                                                    http://derbyjs.com
+Meteor                                                                                  https://www.meteor.com
+Flatiron                                                                                 http://flatironjs.org
+Locomotive                                                                           http://locomotivejs.org
+Nombo                                                                                 http://ncombo.com
+Partial                                                                                   http://www.partialjs.com
+SocketStream                                                                       http://www.socketstream.org
+Opa                                                                                       http://opalang.org
+Tower                                                                                    http://tower.github.io
+SocketIO                                                                               http://socket.io
+SocketStream                                                                       http://socketstream.com
+Koa                                                                                        http://koajs.com
+SpineJS                                                                                  http://spinejs.com
+Hapi                                                                                       http://spumko.github.io
+TotalJS                                                                                  http://www.totaljs.com
+Wintersmith                                                                         http://wintersmith.io
+Bone                                                                                     http://bone.io
+KissJS                                                                                    http://stanislavfeldman.github.io/kiss.js
+CokeJS                                                                                  http://coke-js.org
+StapesJS                                                                                http://hay.github.io/stapes
+Restify                                                                                    http://mcavage.me/node-restify
+CompoundJS                                                                        http://compoundjs.com
+FabJS                                                                                     http://fabjs.org
+Connect                                                                                http://www.senchalabs.org/connect
+SleekJS                                                                                  http://sleekjs.com
+WebJS                                                                                   http://iwillwen.github.io/webjs
+
+NodeJS电子书
+
+MasteringNode                                                                     http://visionmedia.github.io/masteringnode
+NodeBeginner                                                                      http://www.nodebeginner.org
+SmashingNode                                                                     http://smashingnode.com
+MixuNode                                                                             http://book.mixu.net/node
+NodeGuide                                                                           http://nodeguide.com
+
+
+
+
+Package.json中文文档                                                          https://github.com/ericdum/mujiang.info/issues/6
+
+
+

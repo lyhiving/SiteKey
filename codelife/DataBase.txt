@@ -1,0 +1,132 @@
+Algolia(毫秒级数据库实时搜索)                                                 http://www.algolia.com
+
+MySQL                                                                                       http://www.mysql.com
+MySQL社区                                                                                http://www.mysqlpub.com
+MySQL100                                                                                 http://www.mysql100.com
+MySQL实验室                                                                             http://www.mysqlab.net
+MySQL监控                                                                                http://www.percona.com/software/percona-monitoring-plugins
+MTop企业监控                                                                           http://www.mtop.cc
+Performanceblog                                                                     http://www.mysqlperformanceblog.com
+MariaDB                                                                                    https://mariadb.org
+MariaDB社区                                                                             http://www.mariadbpub.com
+WebScaleSQL                                                                            http://webscalesql.org (MySQL分支FaceBook贡献) 
+Percona                                                                                     http://www.percona.com
+Mroonga(存储引擎)                                                                  http://mroonga.org
+SequelPro                                                                                 http://sequelpro.com    (Mac下Mysql的管理工具)
+SpiderForMysql(存储引擎)                                                        http://spiderformysql.com
+MySQL贴吧                                                                                http://tieba.baidu.com/f?kw=mysql
+
+Oracle                                                                                        http://www.oracle.com
+甲骨论                                                                                        http://www.jiagulun.com
+AskOracle                                                                                 http://www.askoracle.org
+Oracle基础                                                                                http://www.eygle.com
+Oracle问题                                                                                http://www.askmaclean.com
+OracleBlog                                                                               http://www.oracleblog.org
+Oracle贴吧                                                                                http://tieba.baidu.com/f?kw=Oracle
+
+
+Postgresql                                                                                http://www.postgresql.org
+PostgresqlStudio                                                                     http://www.postgresqlstudio.org
+Pomm(针对PHP的ORM)                                                          http://pomm.coolkeums.org
+Postgresql中文维基                                                                  http://bbs.pgsqldb.com
+Slick-pg(Slick扩展)                                                                  https://github.com/tminglei/slick-pg
+PGpool(负载均衡中间件)                                                          http://www.pgpool.net
+Barman(备份和恢复管理器)                                                        http://www.pgbarman.org
+Postgresql-XL(集群数据库系统)                                                http://www.postgres-xl.org
+
+DBeaver                                                                                     http://dbeaver.jkiss.org
+ChartSQL                                                                                    http://fnordmetric.io
+
+
+SQLite                                                                                       http://www.sqlite.com
+SQLite                                                                                       http://www.sqlite.org
+SQLite中文                                                                                http://www.sqlite.com.cn
+Realm                                                                                       http://realm.io (移动数据库，欲在IOS上替换SQLite)
+ORMLite                                                                                   http://ormlite.com(ORM框架)
+
+Cayley(开源图数据库)                                                               https://github.com/google/cayley
+
+MongoDB                                                                                http://www.mongodb.com
+Genghis(MongoDB管理工具)                                                      http://genghisapp.com
+Robomongo（MongoDB管理工具）                                           http://robomongo.org
+MongoVersion                                                                        https://code.google.com/p/mongo-vision
+
+
+
+Redis                                                                                        http://www.redis.io
+RedisDesktop                                                                          http://redisdesktop.com     
+RedisStudio                                                                             https://github.com/cinience/RedisStudio
+RedisBook                                                                               http://www.redisbook.com
+
+SSDB                                                                                        http://ssdb.io/zh_cn
+  
+                  
+Cassandra(Java开发)                                                               http://cassandra.apache.org
+Tair                                                                                           http://code.taobao.org/p/tair
+OrientDB(Java开发)                                                                    http://www.orientdb.org
+MemcacheDB                                                                         http://memcachedb.org
+Cloudant                                                                                 https://cloudant.com
+ArangoDB                                                                               https://www.arangodb.org
+
+MapDB                                                                                    http://www.mapdb.org
+
+LedisDB                                                                                    http://ledisdb.com
+
+iBoxDB                                                                                     https://github.com/iboxdb/forjava
+
+Gora(NoSQL-ORM)                                                                  http://gora.apache.org
+NoSQLFans                                                                               http://blog.nosqlfan.com
+NoSQL数据库                                                                            http://nosqldb.org
+NoSQL                                                                                       http://nosql-database.org
+NoSQL贴吧                                                                               http://tieba.baidu.com/f?kw=nosql
+
+InfluxDB                                                                                   http://influxdb.org (分布式的时序、事件和指标数据库)
+
+
+
+Jailer(智能数据提取)                                                                  http://jailer.sourceforge.net
+
+Neo4J(面向网络的数据库)                                                         http://www.neo4j.org
+
+Hypertable(分布式数据库)                                                        http://hypertable.org
+
+RethinkDB(分布式JSON数据库)                                                http://www.rethinkdb.com
+
+
+
+TechTarget数据库                                                                     http://www.searchdatabase.com.cn
+Informix中国                                                                             http://www.informixchina.net
+DB2中国                                                                                    http://www.db2china.net
+Rational中国                                                                             http://www.rationalchina.net
+Lotus中国                                                                                  http://www.lotuschina.net
+WebSphere中国                                                                        http://www.webspherechina.net
+存储架构师中国                                                                          http://www.storagechina.net
+Congnos中国                                                                             http://www.cognoschina.net
+Tivoli中国                                                                                  http://www.tivolichina.net
+数据仓库之路                                                                             http://www.dwway.com
+中国存储                                                                                    http://www.chinastor.org
+
+OceanBase                                                                               http://alibaba.github.io/oceanbase
+
+Firebird                                                                                     http://www.firebirdsql.org
+
+S3QL                                                                                         http://code.google.com/p/s3ql
+
+CockroachDB                                                                          https://github.com/cockroachdb/cockroach
+
+MemSQL                                                                                 http://www.memsql.com(分布式关系型数据库，商业版)
+
+BaseX(XML数据库)                                                                   http://basex.org
+
+Teiid(数据虚拟化系统)                                                                  http://www.jboss.org/teiid
+
+HeidiSQL(图形管理工具)                                                           http://www.heidisql.com
+
+STDbObject(Object-c数据库封装)                                            http://git.oschina.net/yanglishuan/STDbObject
+SymmetricDS(数据同步和备份方案)                                          http://www.symmetricds.org
+AnySQL                                                                                     http://www.anysql.net
+DBThink                                                                                    http://www.dbthink.com
+OS2Oracle                                                                                 http://os2ora.com
+云和恩墨                                                                                    http://www.enmotech.com
+51CTO数据库                                                                            http://database.51cto.com
+十款开源数据学习资料                                                               http://code.csdn.net/news/2821514

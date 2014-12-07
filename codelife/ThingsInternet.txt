@@ -1,0 +1,52 @@
+物联网时代的35款开源工具                                http://os.51cto.com/art/201409/451092.htm
+
+
+
+
+物联网操作系统
+
+Spark                                                      https://www.spark.io
+Contiki                                                   http://www.contiki-os.org
+Raspbian                                                http://raspbian.org
+Riot                                                         http://riot-os.org
+
+
+
+
+服务平台
+
+thingspeak                                                       https://thingspeak.com
+IoT toolkit                                                         http://iot-toolkit.com
+SiteWhere                                                         http://www.sitewhere.org
+Devicehive                                                        http://www.devicehive.com   
+OpenRemote                                                    http://www.openremote.com
+
+
+监测
+
+Freeboard                                                         http://freeboard.io
+
+
+家庭自动化软件
+
+OpenHAB                                                         http://www.openhab.org
+The Things System                                          http://thethingsystem.com
+
+
+中间件
+
+OpenIoT                                                            http://openiot.eu
+
+
+硬件
+
+Beagleboard                                                     http://beagleboard.org
+Microduino                                                       http://www.microduino.cc
+Flutter                                                                http://www.flutterwireless.com
+Openpicus                                                         http://www.openpicus.com
+Pinocc                                                                https://pinocc.io
+Tessel                                                                 https://tessel.io
+UDOO                                                                http://www.udoo.org
+SODAQ                                                              http://www.sodaq.net(太阳能供电的数据采集)
+
+

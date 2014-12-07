@@ -1,0 +1,204 @@
+云服务器
+阿里云                                                                                    http://www.aliyun.com
+腾讯云                                                                                    http://www.qcloud.com
+青云                                                                                       https://www.qingcloud.com
+亚马逊AWS                                                                            http://www.amazonaws.cn
+UCloud                                                                                    https://www.ucloud.cn
+金山云                                                                                     http://www.ksyun.com
+美团云                                                                                     https://mos.meituan.com
+华为云                                                                                    http://www.hwclouds.com
+创宇云                                                                                    http://www.mycloud.cn
+DigitalOcean                                                                         https://www.digitalocean.com
+LeanCloud                                                                            https://cn.avoscloud.com
+
+
+大数据
+
+TalkingData                                                                            https://www.talkingdata.net
+星图数据                                                                                  http://www.syntun.com.cn       
+Wecash(大数据服务评估商)                                                     http://www.wecash.net
+                               
+
+DBOwner(社会化数据引擎)                                                     http://www.dbowner.com
+
+
+
+Hive                                                                                         http://hive.apache.org
+Palantir                                                                                    http://www.palantir.com
+Talend                                                                                     http://talend.com
+Trifacta                                                                                    http://www.trifacta.com
+36大数据                                                                                 http://www.36dsj.com
+云图畅想                                                                                 http://www.maoxiangyi.cn
+云图网                                                                                    http://yuntuwang.net
+云中漫步                                                                                 http://tianhailong.com
+超人学院                                                                                http://bbs.superwu.cn
+Hortonworks                                                                        http://hortonworks.com
+数据大讲堂                                                                            http://www.kddchina.com
+大数据中国                                                                            http://www.bigdatas.cn
+DataThink                                                                            http://www.datathinking.net
+数据圈                                                                                   http://www.shujuquan.com.cn
+
+
+数据中心可视化平台                                                              http://www.uinnova.com
+网络大数据                                                                            http://www.raincent.com
+我爱数据分析                                                                        http://www.52analysis.com
+数据分析门户                                                                         http://www.datathinking.net
+海树网                                                                                   http://www.haishuwang.com
+Kylin(分布式OLAP分析引擎，支持TB到PB级数量)                http://www.kylin.io
+
+Suro(数据管道服务)                                                               https://github.com/Netflix/suro
+
+
+分布式
+
+Hadoop
+Hadoop                                                                                 http://hadoop.apache.org (可扩展分布式计算环境)
+ChinaHadoop                                                                       http://chinahadoop.net
+Hadoop技术社区                                                                   http://hadoop.csdn.net
+小象学院                                                                                http://www.chinahadoop.cn
+EasyHadoop                                                                         http://www.easyhadoop.com
+Hadoop吧                                                                             http://tieba.baidu.com/f?kw=hadoop
+China-Hadoop                                                                     http://china-hadoop.com
+Hadoopor                                                                             http://www.hadoopor.com
+HadoopInChina                                                                   http://www.hadooper.cn
+Hadoop与大数据周刊                                                          http://newsletter.csdn.net/module/news/newsletter/index/6
+RedHadoop                                                                         http://www.redhadoop.com
+Hue                                                                                      http://gethue.com
+HTools                                                                                 http://www.htools.co
+Zookeeper                                                                           http://zookeeper.apache.org (Hadoop子项目)
+Hadoop大数据创业公司
+Platfora                                                                                http://www.platfora.com
+Alpine                                                                                  http://alpinenow.com
+Altiscale                                                                               http://www.altiscale.com
+Trifacta                                                                                http://www.trifacta.com
+SpliceMachine                                                                    http://www.splicemachine.com
+DataTorrent                                                                        https://www.datatorrent.com
+Qubole                                                                                http://www.qubole.com
+Continuuity                                                                         http://www.continuuity.com
+Xplenty                                                                                https://www.xplenty.com
+Nuevora                                                                              http://www.nuevora.com
+
+
+
+Spark
+Spark                                                                                     http://spark.apache.org  (集群计算环境，与Hadoop类似，由Scala语言开发)
+Spark中国峰会                                                                       http://spark.csdn.net
+SparkInChina                                                                        http://www.sparkinchina.com
+
+Storm
+Storm                                                                                  http://storm.incubator.apache.org
+StormGeek                                                                         http://www.storm-geek.com
+
+Mesos
+Mesos                                                                                http://mesos.apache.org
+
+Cloudera
+Cloudera(Hadoop标准化安装工具)                                     http://www.cloudera.com
+Impala                                                                                     http://impala.io （SQL查询引擎）
+Impala(Github)                                                                       https://github.com/cloudera/impala
+
+
+
+Hazelcast                                                                               http://www.hazelcast.com
+Infinispan(数据网格平台)                                                     http://infinispan.org
+
+
+
+
+
+
+云计算
+
+UnixHot                                                                                    http://www.unixhot.com
+TechTarget                                                                               http://www.searchcloudcomputing.com.cn
+中国云计算                                                                                http://www.chinacloud.cn
+云渲染                                                                                       http://www.renderbus.com
+大数据                                                                                       http://www.thebigdata.cn
+中云网                                                                                       http://www.china-cloud.com
+中国存储                                                                                   http://www.chinastor.org
+Tivoli中国                                                                                https://www.ucloud.cn
+Object-Cloud                                                                          http://objective-cloud.com
+Citrix云计算                                                                             http://citrix-book.org
+Libcloud(云计算服务统一接口)                                                http://libcloud.apache.org
+Jclouds                                                                                    http://jclouds.apache.org
+Heroku                                                                                    https://www.heroku.com
+CloudFoundry                                                                         http://cloudfoundry.org
+DI中国                                                                                      http://www.dichina.net
+信息安全俱乐部                                                                        http://www.iseechina.net
+OpenIot                                                                                   http://openiot.eu (物联网和云计算相结合的开源解决方案)
+
+
+
+云服务
+OwnCloud                                                                              http://owncloud.org
+OpenStack                                                                             http://www.openstack.org
+OpenStack中国                                                                      http://www.openstack.org.cn
+JumpGate(IBM支持OpenStack中间件)                                 http://softlayer.github.io/jumpgate
+OneStatck                                                                              https://github.com/Kayven/OneStack(一键部署OpenStack)
+Solum(OpenStack应用部署系统)                                           http://solum.io
+TryStack(OpenStack中文社区)                                               http://trystack.cn
+CloudStack                                                                            http://cloudstack.apache.org
+CloudStack中国                                                                      http://www.cloudstack-china.org
+UnitedStack                                                                           http://www.ustack.com(基于OpenStack的云OS)
+又拍云                                                                                     https://www.upyun.com
+七牛云存储                                                                              http://www.qiniu.com
+云通讯平台                                                                              http://www.cloopen.com
+AdView                                                                                   http://www.adview.cn
+云时代                                                                                     http://www.yunsd.net
+SAE                                                                                         http://sae.sina.com.cn
+得图云                                                                                     http://www.detuyun.com
+魔泊网                                                                                      http://www.mopaas.com
+友盟平台                                                                                  http://www.umeng.com
+舜飞科技                                                                                  http://www.sunteng.com
+原子云开发平台                                                                       http://www.atom14.com
+ShareSDK                                                                                http://sharesdk.cn
+个推                                                                                          http://www.igetui.com
+多盟                                                                                          http://www.domob.cn
+ArrowNock                                                                              http://www.arrownock.com
+Heatmaps                                                                                https://heatmaps.io
+优优云                                                                                      http://www.uuwise.com
+趣米移动广告平台                                                                    http://www.qumi.com
+Face++                                                                                   http://cn.faceplusplus.com
+DzzOffice                                                                               http://www.dzzoffice.com(云服务管理)
+云角                                                                                        http://www.yungoal.com
+Eucalyptus(桉树云服务环境)                                                  https://www.eucalyptus.com
+SparkleShare(Dropbox开源替代品)                                      http://sparkleshare.org
+Quanttus(大数据预防疾病)                                                      http://www.quanttus.com
+云起轻应用                                                                               https://www.cloud7.com.cn
+ManageIQ                                                                             http://manageiq.org
+柠檬数据                                                                                 http://www.lmdna.com
+数据堂                                                                                     http://datatang.com
+悦岚数猎                                                                                 http://www.eurlanda.com
+
+
+Paas服务平台
+
+BlueMix                                                       https://ace.ng.bluemix.net
+CloudBees                                                   http://www.cloudbees.com
+Deis                                                             http://deis.io
+Cloudfoundry                                             http://cloudfoundry.org
+Cloudify                                                      http://www.cloudifysource.org
+Flynn（开源的模块化Paas系统）                https://flynn.io （让服务器部署就像下载App一样简单）
+OpenShift                                                   http://openshift.github.io (红帽Paas平台)
+Peas                                                            https://github.com/tombh/peas
+Tsuru                                                          http://www.tsuru.io
+Stratos                                                        http://stratos.apache.org
+Dawn(基于Docker)                                    https://github.com/dawn/dawn
+Octohost(基于Docker)                              http://www.octohost.io
+
+
+
+Iaas服务平台
+
+OpenStack(Iaas组件)                                  http://www.openstack.org       
+Solum(专为OpenStack设计)                       http://solum.io                     
+CloudStack(Iaas组件)                                 http://cloudstack.apache.org
+
+
+
+
+
+数据提供商
+
+电话帮                                                         http://www.dianhua.cn
+
