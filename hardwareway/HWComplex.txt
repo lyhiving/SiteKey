@@ -1,0 +1,56 @@
+服务平台
+
+亿联客                                                                                    http://www.yeelink.net
+机智云                                                                                    http://www.gizwits.com
+DF创客社区                                                                            http://www.dfrobot.com.cn
+Atmel官网                                                                              http://www.atmel.com/zh/cn
+Atmel                                                                                    http://atmel.eefocus.com
+云汉芯城                                                                                 http://www.ickey.cn
+爱板网                                                                                    http://www.eeboard.com
+WunderBar                                                                            http://www.relayr.de
+芥末粉                                                                                    http://jiemofen.com
+智能插座                                                                                http://reco4life.com
+MakeUseOf                                                                          http://www.makeuseof.com
+Pozible(硬件众筹平台)                                                          http://www.pozible.com
+点名时间(硬件众筹平台)                                                        http://www.demohour.com
+Kickstarter                                                                            https://www.kickstarter.com
+Picooc                                                                                  http://www.picooc.com
+Raiing                                                                                  http://www.raiing.cn
+GrandSt(创意电子产品分销平台)                                          https://grandst.com
+智能家居                                                                               http://isefeel.com
+JSBean                                                                                 http://jsbean.org
+源电脑                                                                                  http://www.yuanpc.com
+HippoADK                                                                           http://hippodevices.com
+OpenHW                                                                             http://www.openhw.org
+野狗                                                                                      http://wilddog.com
+
+家庭自动化系统开源系统
+HomeCenter                                                           http://homecenter.mobi/zh-cn/pc/home.htm
+jHome                                                                http://www.eletronlivre.com.br/jhome
+OpenHAB                                                              http://www.openhab.org
+Minerva                                                              http://www.minervahome.net
+LinuxMCE                                                             http://linuxmce.com
+
+
+
+
+十大拯救地球的硬件
+
+
+FarmBot                                                                                http://go.farmbot.it
+PreciousPlastic                                                                     http://www.preciousplastic.com
+WikiHouse                                                                            http://www.wikihouse.cc
+OpenSourceBeehives                                                           http://www.opensourcebeehives.net
+SparkCore(免费WIFI)                                                             https://www.spark.io
+PublicLab                                                                              http://publiclab.org
+Lasersaur                                                                               http://www.lasersaur.com
+BuildYourCNC                                                                      https://www.buildyourcnc.com
+Tabby                                                                                    http://www.osvehicle.com/tabby-info
+ZenmanEnergy                                                                    http://www.zenmanenergy.org
+Gekgasifier                                                                           http://www.gekgasifier.com
+
+
+RallyFighter(开源汽车)                                                         http://localmotors.com/rallyfighter
+AxiomCamera(开源摄影机)                                                  https://www.apertus.org/axiom
+MakerPlane(开源飞机)                                                         http://makerplane.org
+Red Pitaya （开源测量和控制工具）                                      http://redpitaya.com  （红色的火龙果）

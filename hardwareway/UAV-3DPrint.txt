@@ -1,0 +1,28 @@
+开源无人机
+
+3Drobotics                                                       http://3drobotics.com
+Unboundedrobotics                                       http://unboundedrobotics.com
+Willowgarage                                                 http://www.willowgarage.com
+ROS(开源机器人操作系统)                               http://www.ros.org
+RoboEarth(机器人互联网)                               http://roboearth.org
+FLStation(无人机地面控制系统)                       http://www.firetailuav.com
+无人机项目开源库                                            https://www.dronecode.org
+
+
+
+
+3D打印
+
+微小网                                                                                     http://www.vx.com
+RabbitProto                                                                           http://www.rabbitproto.com
+Mamba3D(打印机)                                                                 http://www.mamba3d.com
+RepRap(3D打印机)                                                                 http://reprap.org
+Spark(3D打印机Autodesk)                                                     http://www.autodesk.com/campaigns/spark
+3Done                                                                                    http://www.3done.cn
+3D族                                                                                       http://www.3dzu.net
+我爱3D                                                                                   http://www.woi3d.com
+3D印坊                                                                                   http://www.3dyf.com
+3D打印机论坛                                                                        http://www.qjxxw.net
+蚂蚁窝3D打印                                                                        http://www.antvoo.com
+南极熊                                                                                    http://www.dddyin.com
+MostFun(3D打印机)                                                                http://www.mostfun.cc

@@ -1,0 +1,11 @@
+UEFI(统一可扩展固件接口)                                                          http://www.uefi.org （新PC使用替代BIOS的解决方案）
+UEFI-Wiki                                                                                   http://zh.wikipedia.org/wiki/UEFI
+GPT(GUID Partition Table)                                                       http://baike.baidu.com/view/10461841.htm (全局唯一标识分区表)
+
+
+
+
+
+TianoCore                                                                                  http://tianocore.sourceforge.net
+
+

@@ -1,0 +1,49 @@
+Arduino
+
+Arduino官网                                                                          http://www.arduino.cc
+Arduino开源                                                                          https://github.com/arduino
+Arduino中文                                                                          http://www.arduino.cn
+Arduino创意                                                                          http://www.openjumper.cn
+ArduinoDev                                                                           http://arduinodev.com
+Arduino乐园                                                                          http://arduino.tw
+Pcduino官网                                                                          http://www.pcduino.com
+Pcduino中文                                                                          http://www.pcduino.org
+Pcduino学习                                                                          http://cnlearn.linksprite.com
+RFduino官网                                                                          http://www.rfduino.com
+Microduino官网                                                                    http://microduino.cc
+BLEduino官网                                                                        http://bleduino.cc
+Femtoduino(微型Arduino)                                                    http://www.femtoduino.com
+TinyCircuits官网                                                                     http://tiny-circuits.com
+SparkCore官网                                                                       https://www.spark.io
+Arduino远程灌溉系统                                                            https://github.com/skorokithakis/arduino-irrigation
+
+
+
+
+RaspberryPI
+
+树莓派官网                                                                             http://www.raspberrypi.org
+树莓派Github                                                                        https://github.com/raspberrypi
+树莓派                                                                                    http://bbs.shumeipai.org
+树莓派论坛                                                                             http://www.shumeipai.net
+Raspbian                                                                               http://www.raspbian.org
+NOOBS                                                                                   https://github.com/raspberrypi/noobs
+Pidora                                                                                     http://pidora.ca (基于fedora优化的系统)
+Minerva(家庭自动化管理套件)                                                http://www.minervahome.net
+树莓派                                                                                   http://shumeipai.nxez.com
+ModMyPi                                                                             https://www.modmypi.com
+TheMagPi                                                                            http://www.themagpi.com
+树莓派                                                                                   http://www.chinagtd.com
+奥松机器人树莓派社区                                                           http://www.iraspberrypi.com
+RPiLink                                                                                 http://www.rpilink.com/rpi/site/index.html
+树莓派吧                                                                                 http://tieba.baidu.com/f?kw=%CA%F7%DD%AE%C5%C9
+树莓派创客                                                                            http://r.52pi.cn
+树莓派实验室                                                                         http://shumeipai.nxez.com
+
+
+
+
+
+BeagleBoard                                                                        http://beagleboard.org(第一款ARM开发板)
+
+

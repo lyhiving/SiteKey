@@ -1,0 +1,26 @@
+Yate(下一代电话引擎)                                                              http://yate.null.ro/pmwiki
+Asterisk                                                                                   http://www.asterisk.org (VoIP PBX系统)
+Asterisk中文社区                                                                     http://bbs.voip88.com
+Nami(Asterisk客户端)                                                             http://marcelog.github.io/Nami
+FreeSwitch(电话软交换方案)                                                   http://www.freeswitch.org
+Freeiris(电话通信平台)                                                             http://cn.freeiris.org
+Red5Phone(SIP电话)                                                              https://code.google.com/p/red5phone
+Elastix                                                                                     http://www.elastix.org
+Vmukti                                                                                    http://www.vmukti.com
+AppKonference(视频会议系统)                                              http://sourceforge.net/projects/appkonference
+JMeeting(网络会议系统)                                                        http://sourceforge.net/projects/javameeting
+EKiga(视频会议系统)                                                              http://www.ekiga.org
+OpenMeetings(网络视频)                                                     http://openmeetings.apache.org
+Omnimeeting(视频会议系统)                                                http://omnimeeting.sourceforge.net
+OpenH323(视频会议系统)                                                     http://openh323.sourceforge.net
+WebHuddle(视频会议系统)                                                   https://www.webhuddle.com
+Balloons(WEB聊天室)                                                           http://balloons.io
+AliceBot(聊天机器人)                                                            http://alicebot.sourceforge.net
+MogoChat(团队交流系统)                                                     https://getmogochat.com
+WeeChat                                                                               http://weechat.org         
+
+Entboost(开源企业IM)                                                              http://www.entboost.com
+Openfire(基于WEB的即时消息传输平台)                                      http://www.igniterealtime.org/projects/openfire
+OneTeam(企业IM)                                                                    http://oneteam.im
+SparkIM                                                                                    http://www.igniterealtime.org/projects/spark
+Balloons(WEB聊天室)                                                               http://balloons.io (基于NodeJS)

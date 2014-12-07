@@ -1,0 +1,27 @@
+第一机器人网                                                                          http://sunrobot.net
+自制机器人                                                                             http://www.diy-bot.net
+中国机器人                                                                             http://www.robot-china.com
+机器人爱好者                                                                         http://www.roboticfan.com
+机器人智能网                                                                          http://www.robotain.com
+DFRobot(零件商城)                                                                http://www.dfrobot.com.cn/index.php
+奥松机器人(零件商城)                                                             http://www.alsrobot.cn
+中国机器人网                                                                          http://www.robot360.cn
+机器人网址                                                                             http://www.jqrwz.com
+看机器人网                                                                             http://www.seerobot.com
+智能机器人                                                                             http://www.torobot.net
+PVCRobot                                                                             http://blog.163.com/pvc_robot
+机器人中文社区                                                                      http://www.cropen.com
+机器人网址大全                                                                      http://www.robotic123.com
+RoboFun                                                                               http://www.robofun.net
+中国机器人创客联盟                                                               http://www.robotdiy.org
+中国电子DIY                                                                           http://www.ndiy.cn
+ThinkForge(开源机器人)                                                       http://www.tinkerforge.com
+Makeblock                                                                           http://www.makeblock.cc
+机器人制作网                                                                         http://www.letsmakerobots.cn
+机器人超市                                                                             http://www.roboshop.cn
+
+Artoo(Ruby机器人开发框架)                                                 http://artoo.io
+Gobot(Go机器人开发框架)                                                    http://gobot.io
+CylonJS(JS机器人开发框架)                                                   http://cylonjs.com
+ApacheDroids                                                                      http://incubator.apache.org/droids
+ROS                                                                                       http://www.ros.org

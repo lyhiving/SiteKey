@@ -1,0 +1,21 @@
+Electric(电路图设计软件)                            http://www.staticfreesoft.com
+Qucs(电路模拟器)                                       http://qucs.sourceforge.net
+gplEDA(电路图绘制软件)                           http://www.gpleda.org
+KiCad(自动化电路设计)                              http://www.kicad-pcb.org
+FreePCB(PCB电路板设计工具)                   http://www.freepcb.com
+Fritzing(电子设计自动化)                           http://fritzing.org
+QElectroTech(电气原理图设计软件)          http://qelectrotech.org
+FidoCadJ(电气原理图绘制工具Java)            http://davbucci.chez-alice.fr
+单片机开发天地                                          http://www.mcusky.com
+单片机论坛                                                 http://www.mcuzx.net
+电工吧                                                        http://www.dgong8.com
+电路图网                                                    http://www.rydlt.com
+中国电子DIY                                              http://www.ndiy.cn
+微波社区                                                    http://club.mwrf.net
+
+电子元器件搜索引擎                                  http://www.findchips.com
+
+CircuitHub                                               https://circuithub.com (电子元器件库；电路设计界的Github)
+123DCircuits                                            http://123d.circuits.io
+CircuitLab                                                https://www.circuitlab.com
+123DApp                                                 http://www.123dapp.com
