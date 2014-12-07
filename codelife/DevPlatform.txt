@@ -1,0 +1,67 @@
+Bountysource(软件开发集资平台)                               https://www.bountysource.com
+DevStore                                                     http://www.devstore.cn
+爱开发                                                       http://www.akaifa.com
+CloudForge                                                   http://www.cloudforge.com
+Koala                                                        http://openkoala.org
+Plunker(前端在线开发平台)                                    http://plnkr.co
+Coding                                                       https://coding.net
+Mob(原ShareSDK)                                              http://mob.com
+Mashape(API查询)                                             https://www.mashape.com
+
+
+美图WEB开放平台                                              http://open.web.meitu.com
+百度开发者中心                                               http://developer.baidu.com
+小米开发者平台                                               http://dev.xiaomi.com 
+360开发者中心                                                http://dev.app.360.cn
+新浪App引擎                                                  http://sae.sina.com.cn
+花生壳开发平台                                               http://developer.oray.com
+淘宝开放平台                                                 http://open.taobao.com
+阿里云开发者社区                                             http://dev.aliyun.com
+阿里聚无线移动云开放平台                                     http://jwx.aliyun.com
+高德开放平台                                                 http://developer.amap.com
+京东云擎                                                     http://jae.jd.com
+京东开发平台                                                 http://www.jcloud.com
+微信公众平台                                                 https://mp.weixin.qq.com
+华为开发者联盟                                               http://developer.huawei.com
+Google开发学院                                               https://developers.google.com/academy/?hl=zh-cn
+IBM开发者平台                                                http://www.ibm.com/developerworks/cn
+百度开发学习社区                                             http://ctech.baidu.com
+花生壳开发者平台                                             http://developer.oray.com
+Nexmo                                                        https://cn.nexmo.com
+Twilio(云通信)                                               http://www.twilio.com
+Bmob(移动后台云服务平台)                                     http://www.codenow.cn
+JPush(极光推送)                                              https://www.jpush.cn
+Plivo                                                        http://plivo.com
+Tropo                                                        https://www.tropo.com
+Layer                                                        https://layer.com
+Clever                                                       https://getclever.com
+DZone                                                        http://www.chinadzone.net
+BShare                                                       http://www.bshare.cn
+Telegram                                                     https://telegram.org
+RobinLabs                                                    http://robinlabs.com
+秀客数据聚合平台                                             http://open.showcoo.net
+数据聚合                                                     http://www.juhe.cn
+讯飞语音                                                     http://www.voicecloud.cn
+易工厂                                                       http://easemob.com
+Vtime                                                        http://vtime.cn
+CSDN知识库                                                   http://code.csdn.net/openkb
+APICloud                                                     http://www.apicloud.com
+Cocos开发者平台                                              http://open.cocoachina.com
+云通讯平台                                                   http://www.yuntongxun.com
+
+
+高通开发者专区                                               http://qualcomm.csdn.net                                    
+Tizen中文开发平台                                            https://developer.tizen.org/zh-hans?langredirect=1
+IBM大学                                                      http://ibmuniversity.csdn.net
+IBM中文开发者社区                                            http://www.ibm.com/developerworks/cn
+百度云技术                                                   http://baidu.csdn.net
+Intel开发者专区                                              http://intel.csdn.net
+TCL专区                                                      http://tcl.csdn.net
+华为FusionCloud                                              http://huawei.csdn.net
+异构开发社区                                                 http://hc.csdn.net
+NikeFuelLab                                                  http://www.nikefuellab.com
+      
+
+AWS中文                                                      http://aws.amazon.com/cn
+阿里云                                                       http://www.aliyun.com
+

@@ -1,0 +1,133 @@
+漠河                                                         http://mobilehub.io
+
+编程书籍索引                                                 https://github.com/justjavac/free-programming-books-zh_CN
+Web开发最佳实践手册（Google）                                https://developers.google.com/web/fundamentals
+财富江湖                                                     http://caifujianghu.com
+谷歌女性开发者节                                             http://wtm.gdgshanghai.com
+Airpair                                                      http://www.airpair.com
+APIHome                                                      http://www.apihome.cn
+
+
+开源中国社区                                                 http://www.oschina.net 
+InfoQ中文                                                    http://www.infoq.com/cn 
+廖雪峰博客                                                   http://www.liaoxuefeng.com
+徽沪一郎                                                     http://www.cnblogs.com/hseagle
+移动开发社区                                                 http://www.eoe.cn
+Linux资讯                                                    http://imcn.me
+CSDN                                                         http://www.csdn.net
+51CTO                                                        http://www.51cto.com
+CodeGeekz                                                    http://codegeekz.com
+RunJS                                                        http://runjs.cn
+重构网                                                       http://chonggou.net
+算法之道                                                     http://blog.csdn.net/v_JULY_v
+敏捷开发中文                                                 http://www.scrumcn.com
+ImportNew                                                    http://www.importnew.com
+DeveloperGarden                                              http://www.developergarden.com
+CodeData                                                     http://www.codedata.com.tw
+闲散人生                                                     http://idlelife.org
+捷训网                                                       http://www.jiesoon.com
+SunsetLakeSoftware                                           http://www.sunsetlakesoftware.com
+PixelsTech                                                   http://www.pixelstech.net
+Mashable                                                     http://mashable.com
+CodeFellows                                                  https://www.codefellows.org
+ProgramCreek                                                 http://www.programcreek.com
+Java博客（Top100）                                           http://www.programcreek.com/2012/11/top-100-java-developers-blogs
+Html5ify                                                     http://html5ify.com
+OurCoders                                                    http://ourcoders.com
+咖啡兔                                                       http://www.kafeitu.me
+Coverity                                                     http://www.coverity.com
+JerryShao                                                    http://jerryshao.me
+BeiYuu                                                       http://beiyuu.com
+快课网                                                       http://cricode.com
+程序师                                                       http://www.techug.com
+
+
+程序员的资料库                                               http://codecloud.net
+闲思录                                                       http://dbanotes.net
+Crackedzone                                                  http://www.crackedzone.com
+好东西分享                                                   http://www.17558.net
+大爱                                                         http://lovesoo.org
+自学去                                                       http://www.zixue7.com
+VK自学网                                                     http://www.webvk.com
+Vimer                                                        http://www.vimer.cn
+程序员之家                                                   http://www.chengxuyuans.com
+程序员论坛                                                   http://bbs.it-home.org
+OneCoder                                                     http://www.coderli.com
+IT热血青年                                                   http://blog.itblood.com
+铂金智慧                                                     http://www.ptmind.com
+IT男论坛                                                     http://www.itman1024.com
+编程爱好者                                                   http://www.iprogram.cn
+吾爱学习                                                     http://bbs.52studying.com
+微代码                                                       http://www.sncode.net
+微笑的鱼博客                                                 http://blog.weixiaodeyu.com
+新热网                                                       http://www.newhottopic.com
+看雪学院                                                     http://www.pediy.com
+天马行空                                                     http://tmxk.org
+
+
+淘宝搜索                                                     http://www.searchtb.com
+Capbone                                                      http://capbone.com
+NeoEase                                                      http://www.neoease.com
+技术宅                                                       http://www.gn00.com
+编程艺术                                                     http://blog.csdn.net/Raptor
+红客联盟                                                     http://www.cnhonkerarmy.com
+大兵博客                                                     http://www.ddbing.com
+东子小站                                                     http://www.kilvn.com
+记忆碎片                                                     http://blog.yincast.com
+王海达博客                                                   http://blog.wanghaida.com
+萧晔离博客                                                   http://xsooo.com
+WPS论坛                                                      http://bbs.wps.cn
+豆豆网                                                       http://www.ddvip.com
+脚儿网                                                       http://jo2.org
+周良博客                                                     http://www.aips.me
+极客标签                                                     http://www.gbtags.com
+Codante                                                      http://codante.org
+三水清                                                       http://js8.in
+我爱互联网                                                   http://www.woiweb.net
+石头博客                                                     http://www.stou.info
+月光宝盒                                                     http://lunax.info
+Eziep                                                        http://www.eziep.net
+爱积累爱分享                                                 http://www.iitshare.com
+Likecer                                                      http://likecer.com                    
+点滴生活                                                     http://www.dayday28.com
+狼道                                                         http://www.wolfway.org
+Chrome迷                                                     http://www.chromi.org
+易百教程                                                     http://www.yiibai.com
+每日一题                                                     http://www.devtucao.com
+并发编程网                                                   http://ifeve.com
+程序人生                                                     http://www.programlife.net
+The5Fire                                                     http://www.the5fire.com
+Weboy                                                        http://www.360weboy.com
+黑客与极客                                                   http://www.freebuf.com
+NetingCN                                                     http://www.netingcn.com
+码农场                                                       http://www.hankcs.com
+HelloWeb                                                     http://www.helloweba.com
+代码珠玑                                                     http://www.codepearl.com
+酷壳网                                                       http://coolshell.cn
+ViralPatel                                                   http://viralpatel.net
+CodeEval                                                     https://www.codeeval.com
+离别歌                                                       http://www.leavesongs.com
+拼吾                                                         http://www.pin5i.com 
+窗内网                                                       http://www.itzcn.com
+艾睿开发者论坛                                               http://bbs.airia.cn 
+源码网                                                       http://www.downcodes.com
+最代码                                                       http://www.zuidaima.com
+Lotus中国                                                    http://www.lotuschina.net
+珠三角技术沙龙                                               http://techparty.org
+Reee                                                         http://www.reee.me
+
+董伟明博客                                                   http://www.dongwm.com
+淘沙网（Flash博客）                                          http://www.taoshaw.com
+
+
+计世网                                                       http://www.ccw.com.cn
+360ITO                                                       http://www.360ito.com
+
+AWS中文博客                                                  http://blog.csdn.net/awschina
+
+
+IT宅                                                         http://www.itzhai.com
+
+爱毒霸                                                       http://bbs.duba.net
+
+

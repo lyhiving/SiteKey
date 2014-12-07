@@ -1,0 +1,345 @@
+MobileHub                                               http://mobilehub.io
+APICloud                                                http://www.apicloud.com
+TeamTalk                                                http://tt.mogu.io
+移动框架对比图                                          http://mobile-frameworks-comparison-chart.com
+XDA智能设备网                                           http://www.xda.cn
+菜鸟窝                                                  http://www.cniao5.com
+Mob(手机短信验证/免费)                                  http://sms.mob.com
+
+Trinea                                                  http://www.trinea.cn
+EOE                                                     http://www.eoeandroid.com
+JQueryMobile                                            http://jquerymobile.com
+Vitamio(多媒体开发框架)                                 http://www.vitamio.org         
+Ping++(移动支付)                                        https://pingplusplus.com
+
+Android开发                                             http://developer.android.com/intl/zh-cn/index.html
+MaterialUI                                              http://material-ui.com
+Android穿戴设备SDK                                      http://developer.android.com/wear
+Androiday                                               http://androiday.org
+AndroidBootstrap                                        http://www.androidbootstrap.com
+UltimateAndroid                                         http://blog.marshalchen.com/UltimateAndroid
+Android设计                                             http://adchs.github.io
+MaterialDesign中文版                                    http://design.1sters.com
+Android设计(Apkbus镜像)                                 http://www.apkbus.com/design
+Android开发者社区                                       http://www.eoeandroid.com
+Android源码                                             http://www.androidym.com
+GlassX中国                                              http://www.glassx.cn
+Rexsee                                                  http://www.rexsee.com
+安卓巴士                                                http://www.apkbus.com
+AndroidPeople                                           http://www.androidpeople.com
+巨卓网                                                  http://www.juapk.com
+安卓学习网                                              http://www.android-study.net
+CoverScreen                                             https://www.coverscreen.com
+Robolectirc(自动化测试工具)                             http://robolectric.org
+TestFairy                                               http://testfairy.com
+DroidChina                                              http://droidchina.com
+91Android开发者                                         http://www.chinadzone.net
+Cyanogenmod                                             http://www.cyanogenmod.org
+DroidPilot(自动化测试工具)                              http://www.droidpilot.cn
+MarsChen(视频教程)                                      http://www.marschen.com
+菜鸟窝                                                  http://www.cniao5.net
+Android源码                                             http://www.apper.com.cn
+Eyoungyd                                                http://www.eyoungyd.com
+MIUI(米柚)                                              http://www.miui.com
+OpenCamera                                              http://opencamera.sourceforge.net
+Buck                                                    http://facebook.github.io/buck (Android构建工具)
+MavenAndroidPlugin                                      https://github.com/jayway/maven-android-plugin
+Spoon(不同机型设备自动化测试)                           https://github.com/square/spoon
+XPrivacy(隐私管理器)                                    http://repo.xposed.info/module/biz.bokhorst.xprivacy                                
+GreenDroid(UI)                                          http://greendroid.cyrilmottier.com
+Necessitas(Android平台QT实现)                           http://necessitas.kde.org
+AndroidBootstrap                                        http://www.androidbootstrap.com
+XAppDbg                                                 https://github.com/sonyxperiadev/XAppDbg
+ChkBugReport                                            https://github.com/sonyxperiadev/ChkBugReport
+ApkAnalyser                                             https://github.com/sonyxperiadev/ApkAnalyser
+Holo颜色生成器                                          http://android-holo-colors.com
+鸡啄米Android                                           http://www.jizhuomi.com/android
+Android开发之旅                                         http://mobile.51cto.com/aengine-444783.htm
+
+Android框架
+
+Picasso(图片缓存)                                       http://square.github.io/picasso
+Glide(图片缓存库)                                       https://github.com/bumptech/glide
+AndroidCommon(图片缓存)                                 https://github.com/Trinea/android-common
+Android图片缓存                                         https://github.com/nostra13/Android-Universal-Image-Loader
+AndroidImageCache(图片缓存)                             https://github.com/mitmel/Android-Image-Cache
+DiskLruCache(高速图片缓存)                              https://github.com/JakeWharton/DiskLruCache
+UniversalImageLoader                                    https://github.com/nostra13/Android-Universal-Image-Loader (异步图像加载、缓存和显示)
+AndroidStackblur(图片模糊效果)                          https://github.com/kikoso/android-stackblur
+OpenCore(多媒体框架)                                    http://www.opencore.net
+FFmpeg4Android                                          http://sourceforge.net/projects/ffmpeg4android
+AFinal(Android框架)                                     https://github.com/yangfuhai/afinal
+ThinkAndroid(Android框架)                               https://github.com/white-cat/ThinkAndroid
+SpringAndroid                                           http://projects.spring.io/spring-android
+Android Annotations                                     http://androidannotations.org
+Http异步请求                                            http://loopj.com/android-async-http
+AndroidQuery(异步加载)                                  https://github.com/androidquery/androidquery
+AsyncHttpClient(异步请求)                               https://github.com/AsyncHttpClient/async-http-client
+Ion(异步请求)                                           https://github.com/koush/ion
+OkHttp(Http工具)                                        http://square.github.io/okhttp
+GreenDAO(ORM)                                           http://greendao-orm.com
+Sprinkles(ORM)                                          https://github.com/emilsjolander/sprinkles
+ActiveAndroid(ORM映射框架)                              https://github.com/pardom/ActiveAndroid
+Retrofit(RESTful)                                       http://square.github.io/retrofit (把REST API返回的数据转化为Java对象方便操作)
+EventBus(组件通信库)                                    http://greenrobot.github.io/EventBus
+GSON(Java与JSON映射类库)                                https://code.google.com/p/google-gson
+Dagger(依赖注入)                                        http://square.github.io/dagger
+AndroidAnnotation(注解快速开发框架)                     http://androidannotations.org
+DAVDroid(CalDAV解决方案)                                http://davdroid.bitfire.at
+Android-Viewbadger                                      https://github.com/jgilfelt/android-viewbadger (Tab标签上显示提示消息)
+KSOAP2-Android(webservice框架)                          http://code.google.com/p/ksoap2-android
+MPAndroidChart(图表框架)                                https://github.com/PhilJay/MPAndroidChart
+AndroidGraphView(图表框架)                              http://android-graphview.org
+Androidplot(图标框架)                                   http://androidplot.com
+MenuDrawer(左右滑动隐藏显示菜单)                        http://simonvt.github.io/android-menudrawer
+AndroidSideMenu(侧边栏菜单)                             https://github.com/dmitry-zaitsev/AndroidSideMenu
+Crouton(Toast替代品)                                    https://github.com/keyboardsurfer/Crouton
+DataDroid(数据管理)                                     https://github.com/foxykeep/DataDroid
+ZXing(二维码)                                           https://github.com/zxing/zxing
+TimeSquare(日期)                                        https://github.com/square/android-times-square
+StandOut(浮动窗口)                                      http://pingpongboss.github.io/StandOut
+WaterFall(瀑布流)                                       https://github.com/dodola/android_waterfall
+Litesuits                                               http://litesuits.com
+
+
+Android测试工具
+2104十款测试工具                                        http://www.oschina.net/news/56142/open-source-android-testing-tools
+
+
+Android模拟器
+BlueStacks(Android模拟器)                               http://www.bluestacks.com
+Andy                                                    http://www.andyroid.net
+GenyMotion                                              http://www.genymotion.com
+GenyMotion中文                                          http://www.genymotion.cn
+DawnSwift(晨燕)                                         http://www.dawnswift.com
+BlueStack(蓝叠中国)                                     http://www.bluestacks.cn
+Windroy                                                 http://www.windroy.cn
+手机网游帮                                              http://bbs.sjwyb.com 
+
+
+
+
+IOS开发                                                 https://developer.apple.com/cn
+CocoaChina                                              http://www.cocoachina.com   
+IOS开发者社区                                           http://ios.eoe.cn
+Objection(轻量级依赖注入框架)                           http://objection-framework.org
+AppCan                                                  http://www.appcan.cn
+AppCode                                                 http://code4app.com
+RestKit(RESTful框架)                                    http://restkit.org
+BeeFramework                                            http://www.bee-framework.com
+XCode                                                   http://www.xcodechina.com
+XCoder                                                  http://www.xcoder.cn
+CodeIOS                                                 http://www.codeios.com
+POP(IOS和OSX的动画库)                                   https://github.com/facebook/pop
+Poping                                                  https://github.com/schneiderandre/popping (POP引擎的动画库实例)
+AudioKit                                                http://audiokit.io(音频合成、处理和分析库)
+StellaSDK(Object-C跨平台开发工具)                       http://www.morningtec.cn/stellasdk
+StellaSDK开发者平台                                     http://www.stellasdk.org
+TestFlight                                              http://testflightapp.com
+Burstly                                                 http://www.burstly.com
+NodeApp(NodeJS开发IOS应用)                              http://nodeapp.org
+CoconutKit                                              https://github.com/defagos/CoconutKit
+Apportable(IOS应用在Android上运行)                      http://www.apportable.com
+苹果巴士                                                http://www.ipkbus.com
+DevBox                                                  http://www.untamedinteractive.com/devbox
+IMAG(移动开发平台)                                      http://www.imagapp.com
+Framework7                                              http://ss14-team-15.divshot.io
+DAppCode                                                http://www.dapps.net/dev/code
+GPUImage                                                https://github.com/BradLarson/GPUImage (利用GPU在图片和视频上应用不同的效果和滤镜) 		
+Objective-C杂志                                         http://www.objc.io
+RayWenderlich                                           http://www.raywenderlich.com/zh-hans (IOS开发教程)
+Simpholders(直接地访问iPhone模拟器)                     http://simpholders.com
+PaintCode(矢量图绘制工具，收费)                         http://www.paintcodeapp.com
+XScope(收费)                                            http://xscopeapp.com
+Briefs                                                  http://giveabrief.com
+FlatUIKit                                               https://github.com/Grouper/FlatUIKit
+CocoaLumberjack(IOS日志框架)                            https://github.com/CocoaLumberjack/CocoaLumberjack
+Fries(UI)                                               http://getfri.es
+HelpStack                                               http://www.helpstack.io
+Rubymotion                                              http://www.rubymotion.com(Ruby开发OC应用)
+RoboVM                                                  http://www.robovm.com(JAVA开发IOS应用)
+Ionic                                                   http://ionicframework.com (HTML5开发IOS应用)
+SGImageCache(图片缓存)                                  https://github.com/seatgeek/SGImageCache
+
+
+IOS调试工具
+Runscope                                                https://www.runscope.com
+CocoaLumberjack                                         https://github.com/CocoaLumberjack/CocoaLumberjack
+SimPholders                                             http://simpholders.com
+PonyDebuger                                             https://github.com/square/PonyDebugger
+SparkInspector                                          http://sparkinspector.com
+DCIntrospect                                            https://github.com/domesticcatsoftware/DCIntrospect
+RevealApp                                               http://revealapp.com
+KIF(测试工具)                                           https://github.com/kif-framework/KIF             
+
+
+
+WindowsPhone开发                                        http://developer.windowsphone.com/zh-cn
+Winphoner                                               http://www.winphoner.com
+WindowsPhone中文网                                      http://wp.msn.com.cn
+微疯客                                                  http://www.weifengke.com
+酷七网                                                  http://www.coolxap.com
+歪扑控                                                  http://www.wpkong.com
+威智网                                                  http://www.wper.com
+微饭网                                                  http://bbs.hiwp.com
+微粉网                                                  http://www.wpfen.com
+SnackStudio                                             http://www.snack-studio.com
+微疯开发                                                http://bbs.windever.com
+
+
+FireFoxOS开发                                           https://www.mozilla.org/en-US/firefox/os
+魔智网                                                  http://www.mozfans.com
+火狐吧                                                  http://www.huohu8.com
+
+
+UbuntuTouch                                             http://www.ubuntu.org.cn/phone
+
+Jolla                                                   http://jolla.com
+Jolla旗鱼                                               http://www.jollaqiyu.com
+Sailfish                                                https://sailfishos.org
+
+移动WEB开发
+
+PhoneGap                                                http://phonegap.com
+PhoneGap中文                                            http://www.phonegap100.com
+PhoneGap中国                                            http://www.phonegapcn.com
+
+
+
+51移动                                                  http://mobile.51cto.com
+CSDN移动                                                http://mobile.csdn.net
+App测试工具                                             http://appium.io/zh-cn
+移动开发社区                                            http://dev.10086.cn
+移动开发笔记                                            http://www.keepyounger.com
+Devdiv                                                  http://www.devdiv.com
+智能TV                                                  http://www.tvdev.net
+XDA(手机开发者论坛)                                     http://www.xda-developers.com
+烙印网                                                  http://www.loorin.com
+看雪移动学院                                            http://www.kanxue.com
+Neptune                                                 https://github.com/StormBit/Neptune (支持mysql,sqlite3,postgresql运行在手机设备上)
+
+爱加密                                                  http://www.ijiami.cn
+AppFlood                                                http://appflood.com
+微信商店                                                http://www.itcool.cn
+App运营                                                 http://www.appying.com.cn
+木瓜移动                                                http://cn.papayamobile.com
+抓猫移动                                                http://www.zhuamob.com
+趣米移动                                                http://www.qumi.com
+芒果移动                                                http://www.adsmogo.com
+力美移动                                                http://www.limei.com
+玩物尚志                                                http://www.wanwushangzhi.cn
+拇指巴士                                                http://muzhibus.com
+手游那点事                                              http://www.sykong.com
+游戏茶馆                                                http://www.youxichaguan.com
+烙印网                                                  http://www.loorin.com
+AR开发者论坛                                            http://ardever.com/bbs
+Tiny4Cocoa                                              http://tiny4cocoa.com
+AlldayTest                                              http://www.alldaytest.com
+NativeX(广告平台)                                       http://nativex.com
+OpenMobster                                             http://code.google.com/p/openmobster
+Arrownock(应用社交)                                     http://www.arrownock.com
+Countly(移动分析应用)                                   https://count.ly
+手机开发联盟                                            http://www.16rd.com
+Face++(人脸识别)                                        http://www.faceplusplus.com.cn
+飞屋工作室                                              http://www.ifeiwu.com
+移动WEB开发社区                                         http://www.html5mobi.com
+微信支付开放平台                                        https://open.weixin.qq.com
+微信公众平台开发者文档                                  http://mp.weixin.qq.com/wiki
+易工厂                                                  http://easemob.com
+AppTry                                                  http://www.apptry.cn
+蛐蛐儿（音频传输文件）                                  http://xququ.com
+IComet(comet 服务器)                                    https://github.com/ideawu/icomet
+StormZhangBlog                                          http://stormzhang.github.io
+eMobc(XML框架)                                          http://www.emobc.com
+金和IU(App自助工厂)                                     http://www.appmfl.com
+云巴                                                    http://www.yunba.io
+环信                                                    http://www.easemob.com
+AnySDK                                                  http://www.anysdk.com
+HappyLink                                               http://www.happylink.com
+
+Bluestacks中文                                          http://www.bluestacks.cn (Windows平台运行android应用)
+
+移动开发工具
+
+CocoStudio                                              http://www.cocostudio.org
+CrossApp                                                http://crossapp.9miao.com
+SenchaTouch                                             http://www.sencha.com/products/touch
+Titanium                                                http://www.appcelerator.com/titanium
+IntelXDK                                                http://xdk-software.intel.com
+Xamarin(C#)                                             http://xamarin.com
+CoronaSDK(Lua)                                          http://coronalabs.com/products/corona-sdk
+LiveCode                                                http://livecode.com
+Unity                                                   http://unity3d.com
+Mosync                                                  http://www.mosync.com
+Ratchet(盈动应用原型工具)                               http://goratchet.com
+Appery                                                  http://appery.io
+CodeAndWeb                                              http://www.codeandweb.com
+SpriteBuilder                                           http://spritebuilder.com
+Tabris                                                  http://developer.eclipsesource.com/tabris
+云适配                                                  http://yunshipei.com
+Parse(提供服务端服务)                                   https://parse.com
+BoltsFramework                                          https://github.com/BoltsFramework
+Genymotion                                              http://www.genymotion.com
+FluidUI(原型工具)                                       https://www.fluidui.com
+AppIconSizes(图片设置)                                  http://www.appiconsizes.com
+Ubertesters(测试分发)                                   http://ubertesters.com
+Stripe                                                  https://stripe.com (几行代码就为网站解决了线上支付问题)
+Nina(Siri语音助手)                                      http://www.nuance.com/landing-pages/products/nina-web/default.asp
+Nuance                                                  http://www.nuance.com (Siri技术服务商)
+TouchJS(手势识别和事件库)                               https://github.com/brandnewera/touchjs   (http://code.baidu.com) 
+Tabris(IOS/Android开发构建工具)                         http://developer.eclipsesource.com/tabris
+Como                                                    http://www.como.com
+Knack                                                   https://www.knackhq.com
+Codiqa                                                  https://codiqa.com
+Appery                                                  http://appery.io
+Keen                                                    https://keen.io
+Kinvey                                                  http://www.kinvey.com
+AppJS                                                   http://code.kik.com/app/2/index.html
+PNChart                                                 https://github.com/kevinzhow/PNChart
+PNChart(Swift版)                                        https://github.com/kevinzhow/PNChart-Swift
+MobileUIElements                                        https://github.com/ForceDotComLabs/mobile-ui-elements(移动版所见即所得)
+PowerApp                                                http://www.powerapp.io
+
+
+扁平化风格开发框架 （移动WEB）
+
+FrozenUI(移动WEBUI框架)                                http://frozenui.github.io
+ChocolateChipUI                                        http://chocolatechip-ui.com
+Ionic                                                  http://ionicframework.com
+iWebKit                                                http://snippetspace.com/portfolio/iwebkit
+SenchaTouch                                            http://www.sencha.com/products/touch
+jQT                                                    http://jqtjs.com
+WebAPP.Net                                             http://trywebapp.net
+UiUIKit                                                https://code.google.com/p/iphone-universal
+TheMProject                                            http://www.the-m-project.org
+
+
+比较火的移动开源项目
+AFNetworking(IOS)                                     http://afnetworking.com
+Three20(IOS需翻墙)                                    http://three20.info
+Cocos2d-X(IOS/Android/WP)                             http://cocos2d-x.org
+Restkit(IOS)                                          http://restkit.org
+ASIHTTPRequest(IOS)                                   http://allseeing-i.com/ASIHTTPRequest
+ActionBarSherlock(Android)                            http://actionbarsherlock.com
+GPUImage(IOS)                                         https://github.com/BradLarson/GPUImage
+MonoGame(IOS/Android)                                 http://www.monogame.net
+GreenDroid(Android)                                   http://cyrilmottier.com/2010/05/14/introduction-to-the-greendroid-library
+WayHoo(Android天气应用)                               http://git.oschina.net/way/WayHoo
+Sunday(Android天气应用)                               https://github.com/ljtyzhr/Sunday
+OSCAndroid                                            http://git.oschina.net/oschina/git-osc-android-project(OSC安卓客户端源码)
+
+
+
+ROM刷机
+
+ROM基地                                               http://www.romjd.com
+ROM之家                                               http://www.romzhijia.net
+简心ROM                                               http://www.jxrom.com
+MIUI                                                  http://www.miui.com
+乐蛙OS                                                http://www.lewaos.com
+新蜂ROM                                               http://www.nbrom.cn
+刷机大师                                              http://www.mgyun.com
+刷机精灵                                              http://www.shuame.com
+甜椒刷机                                              http://www.onekeyrom.com
+
+
