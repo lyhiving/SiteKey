@@ -1,0 +1,90 @@
+域名
+
+域名论坛                                                                                   http://club.domain.cn
+域名查询                                                                                   http://www.doname.com
+万网                                                                                          http://www.net.cn
+新网                                                                                          http://www.xinnet.com                                                                            
+米米地域名                                                                                http://www.mimidi.com
+好域名                                                                                       http://www.haoyu.me
+花生壳(动态域名解析)                                                               http://www.oray.com
+DNSPod(域名解析服务)                                                           https://www.dnspod.cn
+DNS盾                                                                                      http://www.dnsdun.com
+KnotDNS                                                                                 https://www.knot-dns.cz
+DNSJava(JAVA开发包)                                                            http://www.dnsjava.org
+PowerDNS                                                                              https://www.powerdns.com
+MyDNS                                                                                    http://mydns.bboy.net
+DNS.C(C语言的解析器)                                                            http://25thandclement.com/~william/projects/dns.c.html
+TinyDNS                                                                                  http://tinydns.org
+NameBench(DNS优化工具)                                                    https://code.google.com/p/namebench
+OpenDNSSEC(DNSSEC开源解决方案)                                    http://www.opendnssec.org
+DNSMasq                                                                               http://www.thekelleys.org.uk/dnsmasq/doc.html (DNS缓存)
+DNSJava                                                                                 http://www.dnsjava.org（JAVA开发包）
+DNSPython                                                                             http://www.dnspython.org (Python开发包)
+
+
+
+
+主机
+
+野草主机                                                                                    http://weedhost.biz
+主机点评网                                                                                http://www.hostucan.cn
+国外空间分享                                                                            http://www.vpsad.com
+美国主机评论                                                                            http://www.yfushost.com
+美国主机                                                                                   http://www.meiguozhuji.com     
+闲吧主机                                                                                   http://www.xianba.net
+留点后路主机服务                                                                     http://www.citydog.me
+91主机                                                                                      http://zhuji91.com
+极客主机                                                                                   http://www.gke.cc
+禾城数码                                                                                   http://www.greatidc.com
+华夏名网                                                                                   http://www.sudu.cn      
+就爱主机                                                                                   http://www.9host.org
+恒创科技                                                                                   http://www.henghost.com
+
+
+虚拟主机
+
+LxCenter                                                                                   http://lxcenter.org
+Ganeti(Linux虚拟机管理)                                                          http://code.google.com/p/ganeti
+虚拟主机评测网                                                                          http://www.adminxy.com
+Virtualmin(虚拟主机管理模块)                                                http://www.webmin.com/virtualmin.html
+Webmin(基于Web的unix系统管理工具)                                 http://www.webmin.cn
+
+
+虚拟机
+
+KVM                                                                                         http://www.linux-kvm.org
+LVS(Linux虚拟服务器)                                                              http://www.linuxvirtualserver.org
+Foreman(物理以及虚拟服务器管理)                                         http://theforeman.org
+ZeroVM                                                                                   https://github.com/zerovm/zerovm
+Archipel                                                                                   http://archipelproject.org
+Xen                                                                                          http://www.xenproject.org
+XenServer                                                                                http://www.xenserver.org
+VirtualBox                                                                               https://www.virtualbox.org
+OpenVZ                                                                                  http://openvz.org
+Packer                                                                                     http://www.packer.io
+ProxmoxVE                                                                             http://www.proxmox.com/proxmox-ve
+
+
+虚拟工具
+
+Vagrant(创建和部署虚拟化开发环境)                                            http://www.vagrantup.com
+Ganeti(虚拟机管理工具)                                                             https://code.google.com/p/ganeti
+
+
+
+免费资源                                                       http://www.9mf.net
+
+
+
+谷歌全球IP库                                                https://github.com/justjavac/Google-IPs
+
+
+
+
+网站技术展示                                                                           http://poweredsites.org
+
+
+公共DNS
+
+阿里DNS                                                     223.5.5.5              223.6.6.6
+谷歌DNS                                          8.8.8.8                  8.8.4.4

@@ -1,0 +1,38 @@
+系统监控
+Hawtio(系统监控)                                                                   http://hawt.io （可监控tomcat）
+Munin(系统监控)                                                                    http://munin-monitoring.org
+Ganglia(分布式监控系统)                                                        http://ganglia.info
+JobMonarch(Ganglia插件)                                                    https://oss.trac.surfsara.nl/jobmonarch
+NetXMS                                                                                  http://www.netxms.org
+Nagios                                                                                    http://www.nagios.org
+Check_MK(Nagios插件)                                                         http://mathias-kettner.de/check_mk
+Ramona                                                                                  http://ateska.github.io/ramona
+Zipkin(分布式跟踪系统)                                                          http://twitter.github.io/zipkin
+Zabbix(分布式系统监控)                                                         http://www.zabbix.com
+Monit(Unix系统监控)                                                             http://mmonit.com/monit
+Collectl(Linux系统监控)                                                         http://collectl.sourceforge.net
+Cacti(网络流量监控)                                                               http://www.cacti.net
+Pmacct(被动式网络监控)                                                       http://www.pmacct.net
+OpenNMS                                                                        http://www.opennms.org (企业级基于Java/XML的分布式网络和系统监控管理平台)
+Ramona                                                                                http://ateska.github.io/ramona
+DeforaOSCamera                                                                 http://www.defora.org/os/project/3997/Camera(网络摄像头)
+Tox(反监听系统)                                                                    http://www.tox.im
+Monit(系统监控)                                                                    http://mmonit.com/monit
+Detekt(间谍软件清除工具)                                                     https://github.com/botherder/detekt
+
+
+
+漏洞扫描
+
+OpenVAS                                                                              http://www.openvas.org
+Nessus(商业软件)                                                                  http://www.tenable.com/products/nessus
+Ratproxy                                                                               https://code.google.com/p/ratproxy
+Yasca                                                                                    http://www.scovetta.com/yasca.html
+
+
+网络入侵
+
+Suricata(网络入侵检测和阻止引擎)                                        http://www.openinfosecfoundation.org
+Samhain(入侵检测系统)                                                        http://la-samhna.de/samhain
+Snort(入侵检测)                                                                     http://www.snort.org
+

@@ -1,0 +1,98 @@
+WEB服务器
+
+Nginx                                                                                     http://nginx.org
+nginx中文站                                                                            http://www.nginx.cn
+NignxChs                                                                               http://wiki.nginx.org/NginxChs
+NCache(Nginx缓冲)                                                               http://www.ncache.org
+LinuxNginx                                                                            http://www.nginxs.com
+SENginx                                                                                 https://github.com/NeusoftSecurity/SEnginx
+H2O                                                                                       https://github.com/kazuho/h2o （Nginx效率的两倍）
+OpenResty                                                                             http://openresty.org
+Httpd                                                                                     http://httpd.apache.org
+Tomcat                                                                                  http://tomcat.apache.org
+TrafficServer                                                                          http://trafficserver.apache.org
+SquidCash(服务器缓冲)                                                         http://www.squid-cache.org
+Varnish(Http加速器)                                                                https://www.varnish-cache.org
+Tornado(Python的WEB服务器)                                            http://www.tornadoweb.org
+Lighttpd                                                                                http://www.lighttpd.net
+Jetty                                                                                      http://www.eclipse.org/jetty
+Undertow                                                                              http://undertow.io
+WildFly                                                                                  http://www.wildfly.org
+Tntnet(C++web服务器)                                                        http://www.tntnet.org
+Virgo(web服务器)                                                                http://www.eclipse.org/virgo
+Kangle                                                                                   http://www.kanglesoft.com
+HarpJS(支持预处理静态Web服务器)                                      http://harpjs.com
+Netty                                                                                      http://netty.io
+VertX                                                                                      http://vertx.io
+Goahead(嵌入式web服务器)                                                 http://www.embedthis.com/products/goahead/index.html
+AppWeb(嵌入式web服务器)                                                 http://appwebserver.org
+Yaws(Erlang开发的服务器)                                                    http://yaws.hyber.org
+Rikulo(Dart实现)                                                                  http://rikulo.org
+Virgo                                                                  http://www.eclipse.org/virgo 主要用于运行企业 Java 应用程序和基于Spring框架的应用
+JBoss                                                                                      http://www.jboss.org
+JBossChina                                                                            http://www.jbosschina.org
+Polipo(Web 代理服务软件)                                                   https://github.com/jech/polipo
+Hiawatha(Web服务器)                                                         https://www.hiawatha-webserver.org
+Spray(开源的 REST/HTTP 工具包和底层网络 IO 包)             http://spray.io
+OpenResty(基于Nginx)                                                        http://openresty.org
+HarpJS(静态Web服务器)                                                      http://harpjs.com 
+Polipo(代理Web服务器)                                                       https://github.com/jech/polipo
+Monkey                                                                                http://www.monkey-project.com
+Duda(快速构建和发布 Web 服务的工具)                                 http://duda.io
+LWan                                                                                    http://lwan.ws
+
+
+
+
+硬件服务器
+
+刀片中国(刀片服务器)                                                                       http://www.bladechina.net
+Kamailio(开源SIP服务器)                                                                http://www.kamailio.org
+服务器评论家                                                                                   http://www.servercritic.com
+
+
+
+路由器
+
+D-Link                                                                                              http://www.dlink.com.cn
+TP-Link                                                                                            http://www.tp-link.com.cn
+小米路由                                                                                           http://www.miwifi.com
+360路由                                                                                            http://luyou.360.cn
+迅雷路由                                                                                           http://luyou.xunlei.com
+小度路由                                                                                           http://link.baidu.com
+Netgear(网件)                                                                                  http://www.netgear.com.cn
+路饭网（路由器设置）                                                                      http://www.45fan.com
+极路由                                                                                              http://bbs.hiwifi.com
+RouterClub                                                                                      http://www.routerclub.com
+AnyWlan                                                                                         http://forum.anywlan.com
+爱快路由                                                                                           http://bbs.ikuai8.com
+恩山电脑                                                                                           http://www.right.com.cn/forum/forum.php
+路由器网                                                                                           http://www.luyouqiwang.com
+OpenWrt(开源路由器第三方固件)                                                   https://openwrt.org
+极路由源码                                                                                     https://code.hiwifi.com （基于OpenWrt）
+Vaytta(企业级路由器/防火墙)                                                         http://www.vyatta.org （基于Debian发行）
+红猫软路由                                                                                      http://www.chinarouter.org/p/router
+ClearOS(网络网关服务器)                                                               http://www.clearfoundation.com
+IPTables(Linux的IP信息过滤系统)                                                  http://www.netfilter.org/projects/iptables
+路由器固件修改工具                                                                        https://code.google.com/p/firmware-mod-kit
+CommotionRouter                                                                        http://commotionwireless.net (创建自己的Mesh网络)
+BIRD(路由守护进程)                                                                        http://bird.network.cz
+ADWiFi（广告路由）                                                                      http://www.adwifi.cn
+TomatoDualwan                                                                           http://www.dualwan.cn
+软路由                                                                                             http://bbs.mikrotik.com.cn
+
+
+
+OpenGarden(离线上网解决方案)                                                    http://opengarden.com
+
+
+防火墙
+
+FreeWAF                                                                                        http://www.freewaf.org
+FireStarter(防火墙)                                                                         http://www.fs-security.com
+IPFire(Linux)                                                                                  http://www.ipfire.org
+SRFirewall(Linux)                                                                          https://code.google.com/p/firewall-sosdg
+
+
+
+

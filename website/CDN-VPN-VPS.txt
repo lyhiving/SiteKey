@@ -1,0 +1,54 @@
+CDN
+
+OpenCDN                                                                                      http://ocdn.me
+WDLinux                                                                                        http://www.wdlinux.cn
+LuManager                                                                                   http://www.zijidelu.org
+CDN贝                                                                                           http://www.cdnbest.com（永久免费）
+
+
+VPN
+
+NydusVPN                                                              http://www.nydus.biz
+Freelan                                                                    http://www.freelan.org
+SigmaVPN                                                              http://code.google.com/p/sigmavpn
+Remobo                                                                  http://www.remobo.com
+OpenVPN                                                                http://openvpn.net
+Chnroutes                                                               http://code.google.com/p/chnroutes(VPN路由助手，配合OpenVPN使用)
+CampagnolVPN                                                      http://campagnol.sourceforge.net
+HypersocketVPN                                                    http://www.hypersocket.com
+TincVPN                                                                  http://www.tinc-vpn.org
+SoftEther                                                                 http://www.softether.org
+免费VPN                                                                  http://freevpnssh.com
+91VPN                                                                     http://www.91vpnn.com
+OCSerV                                                                   http://www.infradead.org/ocserv
+StoneVPN                                                               http://stonevpn.sourceforge.net
+云梯VPN                                                                https://www.ytvpn.com
+Pritunl                                                                     http://pritunl.com
+
+
+VPS
+
+玩转VPS                                                                                         http://www.playvps.com
+Linode(美国VPS提供商)                                                                http://www.linode.com
+Linode中文教程                                                                              http://www.linode.im
+Linode中文社区                                                                              http://www.linodeclub.com
+95VPS                                                                                             http://www.95vps.com
+鼻涕豆VPS                                                                                       http://www.btdou.com
+OpenConnectVPN                                                                         http://www.infradead.org/ocserv
+KVM                                                                                                http://www.kvm.la
+VPSWiki                                                                                          http://www.vpswiki.cn
+VPSMM                                                                                           http://vpsmm.com
+VPS教程                                                                                           http://course.vps15.com
+深度VPS                                                                                         http://www.deepvps.com
+LinuxVPS学习                                                                                http://www.kwx.gd
+WindowsVPS学习                                                                          http://www.kwx.ch
+云谷科技（VPS）                                                                             http://www.cloudgoing.com
+VPS+                                                                                                http://www.vpsplus.net
+VPS评测                                                                                           http://www.icebin.cc
+主机码                                                                                             http://www.zhujima.com
+森动网                                                                                              http://www.sendong.com
+Lucnus                                                                                             http://www.lucnus.com
+
+
+
+

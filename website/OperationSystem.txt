@@ -1,0 +1,242 @@
+V8
+
+RuntimeJS                                                                                 http://runtimejs.org(操作系统内核)
+
+
+
+Linux
+
+Linux内核                                                                                   https://www.kernel.org
+Linux基金会                                                                                http://www.linuxfoundation.org
+Linux2.6.12源码注释                                                                  https://code.csdn.net/chenyu105/linux_kernel_2-6-11-12_comment
+Ubuntu中文文档                                                                        http://wiki.ubuntu.org.cn
+UbuntuLinux                                                                            http://www.ubuntusoft.com
+Ubuntu之家                                                                              http://www.ubuntuhome.com
+OwnLinux                                                                                 http://www.ownlinux.org
+LinuxToy                                                                                   http://linuxtoy.org
+LinuxToday                                                                               http://www.linuxde.net
+LinuxEye                                                                                    http://www.linuxeye.com
+55Linux                                                                                      http://www.55linux.com
+LinuxWiki                                                                                  http://linux-wiki.cn
+Lamp人                                                                                      http://blog.lamper.cn
+Linux游戏                                                                                   http://gamux.org
+开源星球                                                                                     http://openszone.com
+chinaunix                                                                                  http://www.chinaunix.net
+Debian                                                                                      http://www.debian.org
+Raspbian                                                                                     http://www.raspbian.org (针对树莓派优化的Debian)
+Ubuntu                                                                                      http://www.ubuntu.com
+Ubuntu中文                                                                              http://www.ubuntu.org.cn
+UbuntuStudio                                                                          https://ubuntustudio.org
+CentOS                                                                                      http://www.centos.org
+CentOS社区                                                                              http://www.openfans.org
+CentOS中文站                                                                           http://www.centoscn.com
+Fedora                                                                                       http://fedoraproject.org
+Fedora中文爱好者                                                                      http://www.fedora.cc
+ClearOS(基于CentOS)                                                               http://www.clearfoundation.com
+StartOS                                                                                      http://www.startos.org
+Deepin                                                                                      http://www.linuxdeepin.com
+OpenSUSE                                                                                 http://www.opensuse.org/zh-cn
+Linux兼容内核                                                                           http://www.longene.org
+LinuxStory                                                                                 http://www.linuxstory.org
+Linux运维日志                                                                            http://www.centos.bz
+系统运维                                                                                     http://www.osyunwei.com
+新世纪Linux                                                                               http://www.21ops.com
+PointLinux                                                                                 http://pointlinux.org
+CrazyShell                                                                                  http://www.crazyshell.org
+CoolShell                                                                                   http://coolshell.cn
+Linuxtone                                                                                  http://bbs.linuxtone.org
+Redline(RPM包文件管理)                                                          http://redline-rpm.org
+Tomb(Linux加密工具)                                                                http://www.dyne.org/software/tomb
+Zutils(文件解压缩工具集)                                                           http://www.nongnu.org/zutils/zutils.html
+PowerLinux中国                                                                         http://www.powerlinuxchina.net
+Linux视野                                                                                   http://www.linuxsight.com
+Numix                                                                                        http://numixproject.org
+OpenSSH                                                                                   http://www.openssh.com
+KeyBox(基于Web的SSH)                                                           http://sshkeybox.com
+SparkyLinux                                                                              http://sparkylinux.org
+OpenGLES                                                                                 http://www.khronos.org/opengles
+Enlightenment(Linux桌面系统)                                                http://www.enlightenment.org
+Gnome(桌面系统)                                                                      http://www.gnome.org
+Florence(虚拟键盘)                                                                    http://florence.sourceforge.net （基于Gnome桌面）
+Ubuntu Unity(桌面系统)                                                            http://unity.ubuntu.com
+KDE(桌面系统)                                                                            http://www.kde.org
+MateDesktop(基于Gnome2)                                                     http://mate-desktop.org
+Cairo Dock(桌面系统)                                                                   http://www.cairo-dock.org
+Xfce(桌面系统)                                                                           http://www.xfce.org
+Trinity(基于KDE3.5)                                                                   http://www.trinitydesktop.org
+LXDE(桌面系统)                                                                         http://lxde.org
+LXQt(桌面系统)                                                                          http://lxqt.org
+Wmconfig(菜单生成器)                                                             https://www.arrishq.net
+Macbuntu(Ubuntu的Mac风格转换包)                                     http://macbuntu.sourceforge.net
+Kwheezy                                                                                   http://www.kwheezy.com (基于Debian)
+CoreOS                                                                                     https://coreos.com
+Guacamole(Web版VNC)                                                          http://guac-dev.org
+Grml                                                                                          http://grml.org
+OpenBuildService                                                                    http://openbuildservice.org (自动从软件源码构建分发Linux软件包)
+LLVM                                                                                         http://llvm.org
+VortexBox(基于Fedora)                                                            http://vortexbox.org （PC转音乐服务器或电唱机）
+Fuduntu(基于Fedora)                                                               http://www.fuduntu.org
+GParted(磁盘分区)                                                                    http://gparted.sourceforge.net
+PartedMagic(磁盘分区)                                                            http://partedmagic.com
+Cryptmount(磁盘加密工具)                                                       http://cryptmount.sourceforge.net
+LWN                                                                                           http://lwn.net
+Nftables(防火墙子系统/包过滤引擎)                                          http://netfilter.org/projects/nftables
+Lubuntu                                                                                    http://lubuntu.net
+OpenMPI                                                                                  http://www.open-mpi.org
+PinguyOS(基于Ubuntu)                                                           http://pinguyos.com
+Tails(基于Debian)                                                                     https://tails.boum.org (匿名系统)
+GoboLinux                                                                                http://www.gobolinux.org
+WattOS                                                                                     http://www.planetwatt.com (基于Ubuntu)
+MUZI                                                                                         http://muzi.info
+LinuxPie                                                                                    http://www.linuxpie.com
+Phototonic                                                                               http://oferkv.github.io/phototonic (图片浏览器)
+Antergos                                                                                   http://antergos.com (OS)                                                                        
+LiteOS                                                                                        https://www.linuxliteos.com
+ZorinOS(基于Ubuntu)                                                               http://www.zorin-os.com
+SparkyLinux(基于Debian)                                                         http://sparkylinux.org
+AnthonOS(安同Linux)                                                               https://anthonos.org
+ChitwanixOS(基于Ubuntu)                                                       http://chitwanix.com
+U操作系统                                                                                  http://www.operatingsystemu.com
+CecOS                                                                                        http://cecos.openfans.org
+
+Windows
+
+老毛桃                                                                                          http://www.laomaotao.net
+系统之家                                                                                       http://www.xitongzhijia.net
+IT天空                                                                                           http://www.itiankong.com
+U盘装系统                                                                                     http://www.uqidong.com
+系统城                                                                                           http://www.xitongcheng.com
+口袋PE                                                                                          http://www.koudaipe.com
+GImageX(系统镜像备份)                                                               http://www.autoitscript.com/site/autoit-tools/gimagex
+Babun(Windows下体验Linux控制台)                                           http://babun.github.io
+XBMC(XBox媒体中心)                                                                   http://xbmc.org
+
+
+Win7之家                                                                                     http://www.win7china.com
+Win7之家                                                                                     http://www.windows7en.com
+Win7论坛                                                                                     http://www.dxztc.com
+系统之家                                                                                       http://www.oswhy.com
+Win8之家                                                                                     http://www.win8china.com
+Win8之家                                                                                     http://win8e.com
+视界网8                                                                                        http://win8.yesky.com
+Win8Fan                                                                                      http://www.win8fan.com
+八亿网                                                                                          http://www.ms8e.com
+Win9之家                                                                                     http://www.win9cn.com
+驱动之家                                                                                       http://www.mydrivers.com
+WinLover                                                                                     http://www.winlover.net
+
+
+
+
+
+Apple
+
+AppleFans                                              http://www.mac52ipod.cn
+IOS导航                                                   http://ipad.ly
+MacIdea                                                 http://mac.pcbeta.com
+苹果学院                                                  http://www.mei521.com
+Mac志                                                     http://www.maczhi.com
+爱苹果                                                     http://blog.klaith.net
+Ibuick                                                     http://ibuick.com
+Macing                                                   http://macing.info
+MacGG                                                   http://www.macgg.com
+苹果迷                                                     http://www.applemi.net
+苹果教程网                                              http://www.ppios.com
+Tech迷                                                    http://www.techolics.com
+数字生活                                                  http://ishine.me
+手机百科                                                  http://www.phonebaike.com
+我爱Cydia                                                http://www.52cydia.com
+玩法                                                        http://www.waerfa.com
+啃苹果                                                     http://www.kenapple.com
+爱应用                                                     http://www.iapps.im
+新工具                                                     http://xingongju.com
+Mac发烧友                                              http://www.macfans.com.cn
+苹果网                                                     http://www.macx.cn
+苹果园                                                     http://www.app111.com
+苹果核                                                     http://bbs.app111.com
+搜苹果                                                     http://www.soupingguo.com
+ITools                                                     http://www.itools.cn
+ITools论坛                                              http://bbs.itools.cn
+树梢网                                                    http://www.shushao.com
+EvasiOn(evad3rs越狱梦之队 )               http://evasi0n.com
+麦客孤独                                                http://www.macgood.com
+苹果疯科技                                             http://www.fb.mu
+苹果村                                                    http://www.applecun.com
+App知道                                                http://www.appzd.net
+越狱助手                                                http://www.yueyuzhushou.com
+果7                                                        http://www.guo7.com
+爱果儿                                                   http://www.iguor.com
+快用苹果                                               http://www.kuaiyong.com
+七度苹果                                               http://www.7do.net
+
+
+BSD系统
+
+OpenBSD                                             http://www.openbsd.org
+FlashRD(openbsd安装器)                    http://www.nmedia.net/flashrd
+FreeBSD                                               http://www.freebsd.org
+PCBSD                                                  http://www.pcbsd.org
+NetBSD                                                http://www.netbsd.org
+DragonFlyBSD                                     http://www.dragonflybsd.org
+DesktopBSD                                        http://www.desktopbsd.net
+TrustedBSD                                          http://www.trustedbsd.org       
+GhostBSD                                            http://www.ghostbsd.org
+NetBSD                                                http://www.netbsd.org
+
+
+Unix
+
+Webmin(unix的web管理工具)           http://www.webmin.com
+ChinaUnix                                          http://bbs.chinaunix.net
+Unix之家                                             http://www.unixdo.com
+Monit(系统监控)                                 http://mmonit.com/monit
+
+
+物联网操作系统
+
+Contiki                                                http://www.contiki-os.org
+
+
+
+
+
+嵌入式操作系统
+
+NuttX                                              http://www.nuttx.org
+RT-Thread                                      http://www.rt-thread.org
+FreeRTOS                                       http://www.freertos.org
+QNX(商业软件)                               http://www.qnx.com
+NucleusOS                                      http://sourceforge.net/projects/nucleuskl
+Linaro(ARM芯片优化系统)             http://www.linaro.org
+OpenELEC(家庭影院系统)               http://openelec.tv
+KnightOS(计算器系统)                    http://www.knightos.org
+
+
+
+WebOS(基于浏览器的操作系统)
+EyeOS                                            http://www.eyeos.com
+
+
+
+操作系统综合
+
+MenuetOS                                      http://www.menuetos.net(汇编开发，运行超快)
+FenOS                                             http://www.myfenos.com (兼容运行Windows/Linux/Apple上的应用)
+Longene                                         http://www.longene.org (Linux兼容Windows软件)
+Darling HQ                                     http://www.darlinghq.org (Linux兼容Apple软件)
+Wine                                               http://www.winehq.org (Linux兼容Windows软件)
+MorphOS                                       http://www.morphos.de (非主流操作系统)
+FreeDOS                                         http://www.freedos.org (MS-DOS的替代品)
+
+
+Automotive(车载开源系统)                        http://automotive.linuxfoundation.org
+
+
+
+
+
+数码博客
+
+麻辣数码                                             http://www.dgfan.cn
+
+
